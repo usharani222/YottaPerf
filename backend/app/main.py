@@ -26,6 +26,13 @@ from backend.app.api.admin import router as admin_router
 async def lifespan(app: FastAPI):
     # Ensure tables exist on startup
     Base.metadata.create_all(bind=engine)
+    try:
+        from alembic import command
+        from alembic.config import Config
+        alembic_cfg = Config("alembic.ini")
+        command.stamp(alembic_cfg, "head")
+    except Exception:
+        pass
     yield
 
 

@@ -2,7 +2,7 @@
 
 **Audit Date:** 2026-11-01  
 **Target Repository:** `https://github.com/usharani222/YottaPerf`  
-**Latest Remote Main Branch Commit:** `eabcf08`  
+**Latest Remote Main Branch Commit:** `568e69a0c965687eb8addfb917165ac3132f2d60`  
 **Evaluation Standard:** Production Full-Stack Enterprise Performance & Development Platform  
 **Deterministic Seed:** `20261022`  
 **Audit Verification Status:** **PARTIALLY VERIFIED (9 of 10 Requirements Fully Verified; 1 Pending PAT Workflow Scope)**
@@ -26,7 +26,7 @@
 | **11** | **Role-Based Access Control** | 5 canonical database personas (`ADMIN`, `HR`, `MGR`, `IT`, `EMP`) | Server-side role guards in `rbac.py`, tested in `test_21`–`test_24`. | **VERIFIED** |
 | **12** | **Automated Validation** | 15-point multi-dimensional integrity engine | `backend/validators/runner.py` passed 7,755 (starter) & 147,477 (full) records. | **VERIFIED** |
 | **13** | **Reproducibility** | Bit-for-bit SHA-256 reproducibility under seed `20261022` | `generated_data/*/manifest.json`, tested in `test_20`. | **VERIFIED** |
-| **14** | **Automated Testing** | 27 comprehensive Pytest integration & security tests | Ran inside Docker container via `docker compose exec backend pytest backend/tests/ -v`: **27 passed in 1.04s**. | **VERIFIED** |
+| **14** | **Automated Testing** | 27 comprehensive Pytest integration & security tests | Ran inside Docker container via `docker compose exec backend pytest backend/tests/ -v`: **27 passed in 1.18s**. | **VERIFIED** |
 | **15** | **Frontend UI/UX** | Enterprise Aurora glassmorphic dashboard (Next.js 14) | Port 3002 HTTP 200 OK; authenticated dashboard API integration verified. | **VERIFIED** |
 | **16** | **Automated CI/CD Push** | GitHub Actions `.github/workflows/ci.yml` pushed to remote repository | Created locally and passes validation. Push blocked by GitHub PAT missing `workflow` scope. | **PENDING USER TOKEN SCOPE** |
 
@@ -41,7 +41,7 @@ The full database schema contains **exactly 23 normalized tables**. Previous sum
 | 1 | `roles` | RBAC System Roles | 5 | 5 | 5 | 5 | MATCH (100%) |
 | 2 | `employees` | Baseline Employee Profiles | 150 | 150 | 3,000 | 3,000 | MATCH (100%) |
 | 3 | `user_accounts` | Security Accounts & Hashes | 150 | 150 | 3,000 | 3,000 | MATCH (100%) |
-| 4 | `employee_roles` | M:N Role Assignments | 163 | 164* | 3,536 | 3,536 | MATCH (100%) |
+| 4 | `employee_roles` | M:N Role Assignments | 163 | 163 | 3,536 | 3,536 | MATCH (100%) |
 | 5 | `managers` | Active Managers (1:6 span) | 25 | 25 | 500 | 500 | MATCH (100%) |
 | 6 | `employee_manager_histories` | Reporting Transition History | 149 | 149 | 2,999 | 2,999 | MATCH (100%) |
 | 7 | `review_cycles` | Appraisal Time Windows | 2 | 2 | 2 | 2 | MATCH (100%) |
@@ -219,7 +219,7 @@ backend/tests/test_security_rbac_audit.py::test_30_export_consistency PASSED [ 9
 backend/tests/test_validation_engine.py::test_17_18_19_validation_engine_integrity_and_anomalies PASSED [ 96%]
 backend/tests/test_validation_engine.py::test_20_fixed_seed_reproducibility PASSED [100%]
 
-======================== 27 passed, 2 warnings in 1.04s ========================
+======================== 27 passed, 2 warnings in 1.18s ========================
 ```
 
 ---

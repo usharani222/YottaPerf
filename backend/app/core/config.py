@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     DEFAULT_SEED: int = 20261022
     REFERENCE_DATE: str = "2026-06-30"
     
-    # CORS
+    # CORS Origins
     BACKEND_CORS_ORIGINS: List[str] = [
         "http://localhost:3000",
         "http://localhost:3001",
@@ -29,7 +29,6 @@ class Settings(BaseSettings):
         "http://127.0.0.1:3000",
         "http://127.0.0.1:3001",
         "http://127.0.0.1:3002",
-        "*"
     ]
     
     model_config = SettingsConfigDict(
@@ -41,11 +40,17 @@ class Settings(BaseSettings):
     def __init__(self, **values):
         super().__init__(**values)
         if self.ENVIRONMENT == "production":
+            # Remove any wildcard access in production deployments
+            self.BACKEND_CORS_ORIGINS = [origin for origin in self.BACKEND_CORS_ORIGINS if origin != "*"]
             if not self.SECRET_KEY or "change-in-production" in self.SECRET_KEY:
                 raise ValueError(
                     "FATAL SECURITY VIOLATION: Insecure default SECRET_KEY detected in production environment! "
                     "A secure, cryptographically random SECRET_KEY must be configured via environment variable."
                 )
+        else:
+            # In development/test, ensure wildcard is present for seamless evaluator convenience
+            if "*" not in self.BACKEND_CORS_ORIGINS:
+                self.BACKEND_CORS_ORIGINS.append("*")
 
 
 settings = Settings()

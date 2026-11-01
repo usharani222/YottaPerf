@@ -87,7 +87,7 @@ Once `docker compose up --build -d` completes and services are healthy:
 
 ## 🧪 Automated Test Suite Execution
 
-Run the complete 17-test automated verification suite directly inside the isolated backend container (production PostgreSQL database remains untouched):
+Run the complete 27-test automated verification suite directly inside the isolated backend container (production PostgreSQL database remains untouched):
 
 ```bash
 docker compose exec backend pytest backend/tests/ -v

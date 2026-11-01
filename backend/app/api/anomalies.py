@@ -31,7 +31,26 @@ def list_anomalies(
         query = query.where(Anomaly.severity == severity)
 
     query = query.order_by(Anomaly.detection_timestamp.desc()).offset(skip).limit(limit)
-    return db.execute(query).scalars().all()
+    records = db.execute(query).scalars().all()
+
+    # Enforce ground-truth isolation: Only ADMIN roles can view true ground-truth labels
+    is_admin = "ADMIN" in current_user.roles
+    response = []
+    for a in records:
+        response.append({
+            "anomaly_id": a.anomaly_id,
+            "issue_type": a.issue_type,
+            "affected_entity": a.affected_entity,
+            "affected_record_id": a.affected_record_id,
+            "severity": a.severity,
+            "description": a.description,
+            "detection_status": a.detection_status,
+            "ground_truth_label": a.ground_truth_label if is_admin else "RESTRICTED_SECURITY_ROLE",
+            "expected_resolution": a.expected_resolution,
+            "detection_timestamp": a.detection_timestamp,
+            "resolution_notes": a.resolution_notes
+        })
+    return response
 
 
 @router.get("/{anomaly_id}", response_model=AnomalyResponse)
@@ -43,7 +62,21 @@ def get_anomaly(
     ano = db.execute(select(Anomaly).where(Anomaly.anomaly_id == anomaly_id)).scalar_one_or_none()
     if not ano:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f"Anomaly {anomaly_id} not found")
-    return ano
+
+    is_admin = "ADMIN" in current_user.roles
+    return {
+        "anomaly_id": ano.anomaly_id,
+        "issue_type": ano.issue_type,
+        "affected_entity": ano.affected_entity,
+        "affected_record_id": ano.affected_record_id,
+        "severity": ano.severity,
+        "description": ano.description,
+        "detection_status": ano.detection_status,
+        "ground_truth_label": ano.ground_truth_label if is_admin else "RESTRICTED_SECURITY_ROLE",
+        "expected_resolution": ano.expected_resolution,
+        "detection_timestamp": ano.detection_timestamp,
+        "resolution_notes": ano.resolution_notes
+    }
 
 
 @router.post("/{anomaly_id}/resolve", response_model=AnomalyResponse)

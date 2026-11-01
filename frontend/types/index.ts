@@ -191,9 +191,47 @@ export interface DashboardKPIs {
   total_managers: number;
   active_review_cycles: number;
   total_goals: number;
+  total_key_results: number;
   average_goal_progress: number;
   completed_reviews: number;
+  approved_reviews: number;
   pending_reviews: number;
+  total_reviews: number;
+  review_completion_percentage: number;
   development_plans_in_progress: number;
   open_anomalies: number;
+  goals_at_risk: number;
+  overdue_goals: number;
+  overdue_checkins: number;
+  critical_anomalies: number;
+  overdue_dev_plans: number;
+  filters_applied?: {
+    department: string;
+    review_cycle_id: string;
+  };
+}
+
+export interface EmployeePerformanceProfile {
+  employee: Employee;
+  manager: {
+    employee_id: string;
+    full_name: string;
+    job_title: string;
+    department: string;
+    email: string;
+  } | null;
+  direct_reports_count: number;
+  goals: (Goal & { key_results: KeyResult[] })[];
+  check_ins: (CheckIn & { evidences: Evidence[] })[];
+  feedbacks: (Feedback & { competency_name: string; competency_category: string })[];
+  reviews: Review[];
+  development_plans: (DevelopmentPlan & { competency_name: string })[];
+  manager_history: {
+    history_id: string;
+    manager_id: string;
+    start_date: string;
+    end_date: string | null;
+    is_current: boolean;
+    transfer_reason: string;
+  }[];
 }

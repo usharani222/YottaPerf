@@ -184,6 +184,7 @@ export default function Home() {
               kpis={kpis}
               goalStats={goalStats}
               reviewStats={reviewStats}
+              cycles={cycles}
               onNavigate={setCurrentTab}
               onRefresh={fetchAllData}
               loading={loading}
@@ -269,6 +270,8 @@ export default function Home() {
               reviewStats={reviewStats}
               competencyStats={competencyStats}
               anomalyStats={anomalyStats}
+              developmentPlans={developmentPlans}
+              cycles={cycles}
             />
           )}
 

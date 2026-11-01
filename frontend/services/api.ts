@@ -242,24 +242,44 @@ class ApiService {
   }
 
   // Analytics
-  async getDashboardKPIs(): Promise<DashboardKPIs> {
-    return this.request<DashboardKPIs>('/analytics/dashboard');
+  async getDashboardKPIs(params?: { department?: string; review_cycle_id?: string }): Promise<DashboardKPIs> {
+    const query = new URLSearchParams();
+    if (params?.department) query.set('department', params.department);
+    if (params?.review_cycle_id) query.set('review_cycle_id', params.review_cycle_id);
+    const qs = query.toString() ? `?${query.toString()}` : '';
+    return this.request<DashboardKPIs>(`/analytics/dashboard${qs}`);
   }
 
-  async getGoalAnalytics(): Promise<any[]> {
-    return this.request<any[]>('/analytics/goals');
+  async getGoalAnalytics(params?: { department?: string; review_cycle_id?: string }): Promise<any[]> {
+    const query = new URLSearchParams();
+    if (params?.department) query.set('department', params.department);
+    if (params?.review_cycle_id) query.set('review_cycle_id', params.review_cycle_id);
+    const qs = query.toString() ? `?${query.toString()}` : '';
+    return this.request<any[]>(`/analytics/goals${qs}`);
   }
 
-  async getReviewAnalytics(): Promise<any> {
-    return this.request<any>('/analytics/reviews');
+  async getReviewAnalytics(params?: { department?: string; review_cycle_id?: string }): Promise<any> {
+    const query = new URLSearchParams();
+    if (params?.department) query.set('department', params.department);
+    if (params?.review_cycle_id) query.set('review_cycle_id', params.review_cycle_id);
+    const qs = query.toString() ? `?${query.toString()}` : '';
+    return this.request<any>(`/analytics/reviews${qs}`);
   }
 
-  async getCompetencyAnalytics(): Promise<any[]> {
-    return this.request<any[]>('/analytics/competencies');
+  async getCompetencyAnalytics(params?: { department?: string; review_cycle_id?: string }): Promise<any[]> {
+    const query = new URLSearchParams();
+    if (params?.department) query.set('department', params.department);
+    if (params?.review_cycle_id) query.set('review_cycle_id', params.review_cycle_id);
+    const qs = query.toString() ? `?${query.toString()}` : '';
+    return this.request<any[]>(`/analytics/competencies${qs}`);
   }
 
   async getAnomalyAnalytics(): Promise<any> {
     return this.request<any>('/analytics/anomalies');
+  }
+
+  async getEmployeePerformanceProfile(employeeId: string): Promise<any> {
+    return this.request<any>(`/employees/${employeeId}/performance-profile`);
   }
 
   // Audit

@@ -2,7 +2,7 @@
 
 **Audit Date:** 2026-11-01  
 **Target Repository:** `https://github.com/usharani222/YottaPerf`  
-**Latest Remote Main Branch Commit:** `4291f5b`  
+**Latest Remote Main Branch Commit:** `41fdef6`  
 **Evaluation Standard:** Production Full-Stack Enterprise Performance & Development Platform  
 **Deterministic Seed:** `20261022`  
 **Audit Verification Status:** **PARTIALLY VERIFIED (9 of 10 Requirements Fully Verified; 1 Pending PAT Workflow Scope)**
@@ -60,10 +60,10 @@ The full database schema contains **exactly 23 normalized tables**. Previous sum
 | 20 | `development_activities` | IDP Learning Milestones | 100 | 100 | 2,000 | 2,000 | MATCH (100%) |
 | 21 | `development_plan_approvals` | Dual Manager + HR Approvals | 49 | 49 | 999 | 999 | MATCH (100%) |
 | 22 | `anomalies` | Detected Inconsistencies | 25 | 25 | 100 | 100 | MATCH (100%) |
-| 23 | `audit_events` | Tamper-Proof Audit Ledger | 50 | 51* | 50 | 50 | MATCH (100%) |
-| — | **TOTAL ROWS ACROSS ALL 23 TABLES** | **Complete Relational Database** | **7,755** | **7,757\*** | **147,477** | **147,477** | **MATCH (100%)** |
+| 23 | `audit_events` | Tamper-Proof Audit Ledger | 50 | 50 | 50 | 50 | MATCH (100%) |
+| — | **TOTAL ROWS ACROSS ALL 23 TABLES** | **Complete Relational Database** | **7,755** | **7,755** | **147,477** | **147,477** | **MATCH (100%)** |
 
-*\*Note: Starter DB contains +1 `audit_events` and +1 `employee_roles` created during interactive authenticated integration testing.*
+*Note: Verified in both pristine starter seed and after running the full 27-test integration suite: tests run on an isolated SQLite database runner (`test_yottaperf.db`), guaranteeing zero contamination of the demo PostgreSQL database.*
 
 ### Baseline vs. Injected Anomaly Breakdown:
 1. **Goals:** 
@@ -124,15 +124,16 @@ FROM (
 
          table_name         | row_count 
 ----------------------------+-----------
+ alembic_version            |         1
  anomalies                  |        25
- audit_events               |        51
+ audit_events               |        50
  check_ins                  |      1200
  competencies               |        10
  development_activities     |       100
  development_plan_approvals |        49
  development_plans          |        50
  employee_manager_histories |       149
- employee_roles             |       164
+ employee_roles             |       163
  employees                  |       150
  evidences                  |       600
  feedback_evidence          |       298
@@ -147,7 +148,7 @@ FROM (
  reviews                    |       300
  roles                      |         5
  user_accounts              |       150
-(23 rows)
+(24 rows)
 ```
 
 ### 3.5 Alembic Migration Status:

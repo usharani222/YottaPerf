@@ -19,17 +19,58 @@ interface NavbarProps {
   currentUser: UserProfile | null;
   activeCycleName: string;
   onRefresh?: () => void;
+  onSwitchUser?: (user: UserProfile) => void;
 }
 
 const DEMO_PERSONAS = [
-  { username: 'eleanor.vance', name: 'Eleanor Vance', title: 'CEO', role: 'ADMIN, MANAGER', color: 'from-emerald-500 to-teal-600', badgeColor: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/30' },
-  { username: 'marcus.chen', name: 'Marcus Chen', title: 'VP People Ops', role: 'HR_PARTNER', color: 'from-cyan-500 to-blue-600', badgeColor: 'bg-cyan-500/10 text-cyan-400 border-cyan-500/30' },
-  { username: 'devon.ross', name: 'Devon Ross', title: 'Director Cloud Eng', role: 'IT_OPS', color: 'from-amber-500 to-orange-600', badgeColor: 'bg-amber-500/10 text-amber-400 border-amber-500/30' },
-  { username: 'sarah.jenkins', name: 'Sarah Jenkins', title: 'Eng Manager', role: 'MANAGER', color: 'from-indigo-500 to-purple-600', badgeColor: 'bg-indigo-500/10 text-indigo-400 border-indigo-500/30' },
-  { username: 'david.miller', name: 'David Miller', title: 'Senior Backend Eng', role: 'EMPLOYEE', color: 'from-violet-500 to-fuchsia-600', badgeColor: 'bg-violet-500/10 text-violet-400 border-violet-500/30' },
+  {
+    username: 'eleanor.vance',
+    name: 'Eleanor Vance',
+    title: 'Chief Executive Officer',
+    department: 'Executive',
+    role: 'ADMIN, MANAGER',
+    color: 'from-emerald-500 to-teal-600',
+    badgeColor: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/30'
+  },
+  {
+    username: 'melissa.williams',
+    name: 'Melissa Williams',
+    title: 'VP Product & HR Partner',
+    department: 'Product',
+    role: 'HR_PARTNER, MANAGER',
+    color: 'from-cyan-500 to-blue-600',
+    badgeColor: 'bg-cyan-500/10 text-cyan-400 border-cyan-500/30'
+  },
+  {
+    username: 'erin.riley',
+    name: 'Erin Riley',
+    title: 'VP Engineering',
+    department: 'Engineering',
+    role: 'MANAGER',
+    color: 'from-indigo-500 to-purple-600',
+    badgeColor: 'bg-indigo-500/10 text-indigo-400 border-indigo-500/30'
+  },
+  {
+    username: 'anthony.fletcher32',
+    name: 'Anthony Fletcher',
+    title: 'DevOps & IT Ops Lead',
+    department: 'Engineering',
+    role: 'IT_OPS, EMPLOYEE',
+    color: 'from-amber-500 to-orange-600',
+    badgeColor: 'bg-amber-500/10 text-amber-400 border-amber-500/30'
+  },
+  {
+    username: 'victoria.mendoza26',
+    name: 'Victoria Mendoza',
+    title: 'Senior Software Engineer',
+    department: 'Engineering',
+    role: 'EMPLOYEE',
+    color: 'from-violet-500 to-fuchsia-600',
+    badgeColor: 'bg-violet-500/10 text-violet-400 border-violet-500/30'
+  },
 ];
 
-export const Navbar: React.FC<NavbarProps> = ({ currentUser, activeCycleName, onRefresh }) => {
+export const Navbar: React.FC<NavbarProps> = ({ currentUser, activeCycleName, onRefresh, onSwitchUser }) => {
   const [showPersonaMenu, setShowPersonaMenu] = useState(false);
   const [isSwitching, setIsSwitching] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -39,7 +80,10 @@ export const Navbar: React.FC<NavbarProps> = ({ currentUser, activeCycleName, on
     setShowPersonaMenu(false);
     try {
       await api.login(username, 'Password123!');
-      if (onRefresh) {
+      const newProfile = await api.getCurrentUser();
+      if (onSwitchUser) {
+        onSwitchUser(newProfile);
+      } else if (onRefresh) {
         onRefresh();
       }
     } catch (e: any) {

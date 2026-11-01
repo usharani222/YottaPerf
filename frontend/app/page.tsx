@@ -169,6 +169,10 @@ export default function Home() {
         currentUser={currentUser}
         activeCycleName={activeCycleName}
         onRefresh={fetchAllData}
+        onSwitchUser={(user) => {
+          setCurrentUser(user);
+          fetchAllData();
+        }}
       />
 
       <div className="flex flex-1 overflow-hidden relative z-10">
@@ -176,6 +180,7 @@ export default function Home() {
           currentTab={currentTab}
           onSelectTab={setCurrentTab}
           openAnomalyCount={openAnomaliesCount}
+          currentUser={currentUser}
         />
 
         <main className="flex-1 overflow-y-auto p-6 md:p-8 bg-transparent">

@@ -4,8 +4,9 @@ import React from 'react';
 import {
   LayoutDashboard, Users, Network, Target, CalendarCheck,
   MessageSquareQuote, Award, Compass, GraduationCap, ShieldAlert,
-  BarChart3, History, Sliders, Activity, Cpu, Sparkles
+  BarChart3, History, Sliders, Activity, Cpu, Sparkles, User, ShieldCheck
 } from 'lucide-react';
+import { UserProfile } from '../types';
 
 export type TabType =
   | 'dashboard'
@@ -26,9 +27,10 @@ interface SidebarProps {
   currentTab: TabType;
   onSelectTab: (tab: TabType) => void;
   openAnomalyCount?: number;
+  currentUser?: UserProfile | null;
 }
 
-export const Sidebar: React.FC<SidebarProps> = ({ currentTab, onSelectTab, openAnomalyCount = 0 }) => {
+export const Sidebar: React.FC<SidebarProps> = ({ currentTab, onSelectTab, openAnomalyCount = 0, currentUser }) => {
   const navSections = [
     {
       title: 'Command & Hierarchy',
@@ -117,23 +119,60 @@ export const Sidebar: React.FC<SidebarProps> = ({ currentTab, onSelectTab, openA
         ))}
       </div>
 
-      {/* System Telemetry Capsule */}
-      <div className="rounded-2xl border border-white/[0.08] bg-slate-900/50 p-3 mt-4 space-y-2 backdrop-blur-xl">
-        <div className="flex items-center justify-between">
-          <div className="flex items-center gap-2 text-xs font-semibold text-slate-200">
-            <span className="relative flex h-2 w-2">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-              <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
-            </span>
-            <span>PostgreSQL 3NF</span>
+      {/* Active Session Persona & Telemetry */}
+      <div className="space-y-2 mt-4">
+        {currentUser && (
+          <div className="rounded-2xl border border-white/[0.08] bg-slate-900/60 p-3 backdrop-blur-xl space-y-1.5">
+            <div className="flex items-center justify-between text-[10px] uppercase font-bold text-slate-500 tracking-wider">
+              <span>Active Session</span>
+              <span className="text-emerald-400 font-mono text-[9px] bg-emerald-500/10 px-1.5 py-0.2 rounded border border-emerald-500/20">
+                AUTHED
+              </span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="h-7 w-7 rounded-lg bg-gradient-to-tr from-emerald-500 to-teal-600 flex items-center justify-center text-white text-[11px] font-bold shrink-0">
+                {currentUser.full_name ? currentUser.full_name.charAt(0) : 'U'}
+              </div>
+              <div className="min-w-0 flex-1">
+                <div className="text-xs font-semibold text-white truncate">
+                  {currentUser.full_name}
+                </div>
+                <div className="text-[10px] text-slate-400 truncate">
+                  {currentUser.job_title}
+                </div>
+              </div>
+            </div>
+            <div className="pt-1.5 border-t border-white/[0.06] flex flex-wrap gap-1">
+              {currentUser.roles.map((r) => (
+                <span
+                  key={r}
+                  className="rounded bg-emerald-500/10 px-1.5 py-0.5 text-[9px] font-mono font-medium text-emerald-400 border border-emerald-500/20"
+                >
+                  {r}
+                </span>
+              ))}
+            </div>
           </div>
-          <span className="text-[10px] font-mono text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">
-            HEALTHY
-          </span>
-        </div>
-        <div className="text-[10px] text-slate-400 flex items-center justify-between font-mono pt-1 border-t border-white/[0.05]">
-          <span>Seed: 20261022</span>
-          <span>Port: 5434</span>
+        )}
+
+        {/* System Telemetry Capsule */}
+        <div className="rounded-2xl border border-white/[0.08] bg-slate-900/50 p-3 space-y-2 backdrop-blur-xl">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2 text-xs font-semibold text-slate-200">
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+              </span>
+              <span>PostgreSQL 3NF</span>
+            </div>
+            <span className="text-[10px] font-mono text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">
+              HEALTHY
+            </span>
+          </div>
+          <div className="text-[10px] text-slate-400 flex items-center justify-between font-mono pt-1 border-t border-white/[0.05]">
+            <span>Seed: 20261022</span>
+            <span>Port: 5434</span>
+          </div>
         </div>
       </div>
     </aside>

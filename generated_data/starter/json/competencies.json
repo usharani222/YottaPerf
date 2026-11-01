@@ -1,0 +1,72 @@
+[
+  {
+    "competency_id": "COMP-TECH-01",
+    "category": "Technical Skills",
+    "name": "Software Architecture & System Design",
+    "description": "Demonstrates sound architectural choices and maintainable system boundaries.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-TECH-02",
+    "category": "Technical Skills",
+    "name": "Code Quality & Automated Testing",
+    "description": "Writes clean, readable, high-coverage code adhering to engineering standards.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-TECH-03",
+    "category": "Technical Skills",
+    "name": "Cloud Infrastructure & Scalability",
+    "description": "Designs scalable, fault-tolerant cloud systems.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-COMM-01",
+    "category": "Communication",
+    "name": "Cross-Functional Collaboration",
+    "description": "Articulates complex ideas clearly across disciplines.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-COMM-02",
+    "category": "Communication",
+    "name": "Technical Documentation & Mentorship",
+    "description": "Produces thorough design docs and mentors team members.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-PROB-01",
+    "category": "Problem Solving",
+    "name": "Root Cause Analysis & Debugging",
+    "description": "Diagnoses complex bugs and incidents methodically.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-LEAD-01",
+    "category": "Leadership",
+    "name": "Strategic Alignment & Execution",
+    "description": "Translates company vision into measurable roadmaps.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-LEAD-02",
+    "category": "Leadership",
+    "name": "Team Empowerment & Coaching",
+    "description": "Guides direct reports and cultivates engineering growth.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-COLL-01",
+    "category": "Collaboration",
+    "name": "Partner Engagement & Empathy",
+    "description": "Fosters an inclusive, high-trust engineering culture.",
+    "is_active": true
+  },
+  {
+    "competency_id": "COMP-ADAP-01",
+    "category": "Adaptability",
+    "name": "Agile Execution & Change Navigation",
+    "description": "Pivots effectively amidst ambiguous business requirements.",
+    "is_active": true
+  }
+]

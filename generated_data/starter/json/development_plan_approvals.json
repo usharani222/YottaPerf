@@ -1,0 +1,394 @@
+[
+  {
+    "approval_id": "DPA-000001",
+    "plan_id": "DP-000002",
+    "approver_id": "EMP-000002",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000002",
+    "plan_id": "DP-000003",
+    "approver_id": "EMP-000003",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000003",
+    "plan_id": "DP-000004",
+    "approver_id": "EMP-000002",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000004",
+    "plan_id": "DP-000005",
+    "approver_id": "EMP-000005",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000005",
+    "plan_id": "DP-000006",
+    "approver_id": "EMP-000008",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000006",
+    "plan_id": "DP-000007",
+    "approver_id": "EMP-000011",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000007",
+    "plan_id": "DP-000008",
+    "approver_id": "EMP-000006",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000008",
+    "plan_id": "DP-000009",
+    "approver_id": "EMP-000009",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000009",
+    "plan_id": "DP-000010",
+    "approver_id": "EMP-000014",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000010",
+    "plan_id": "DP-000011",
+    "approver_id": "EMP-000017",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000011",
+    "plan_id": "DP-000012",
+    "approver_id": "EMP-000020",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000012",
+    "plan_id": "DP-000013",
+    "approver_id": "EMP-000023",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000013",
+    "plan_id": "DP-000014",
+    "approver_id": "EMP-000012",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000014",
+    "plan_id": "DP-000015",
+    "approver_id": "EMP-000015",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000015",
+    "plan_id": "DP-000016",
+    "approver_id": "EMP-000018",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000016",
+    "plan_id": "DP-000017",
+    "approver_id": "EMP-000021",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000017",
+    "plan_id": "DP-000018",
+    "approver_id": "EMP-000024",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000018",
+    "plan_id": "DP-000019",
+    "approver_id": "EMP-000013",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000019",
+    "plan_id": "DP-000020",
+    "approver_id": "EMP-000016",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000020",
+    "plan_id": "DP-000021",
+    "approver_id": "EMP-000019",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000021",
+    "plan_id": "DP-000022",
+    "approver_id": "EMP-000022",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000022",
+    "plan_id": "DP-000023",
+    "approver_id": "EMP-000025",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000023",
+    "plan_id": "DP-000024",
+    "approver_id": "EMP-000014",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000024",
+    "plan_id": "DP-000025",
+    "approver_id": "EMP-000017",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000025",
+    "plan_id": "DP-000026",
+    "approver_id": "EMP-000020",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000026",
+    "plan_id": "DP-000027",
+    "approver_id": "EMP-000023",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000027",
+    "plan_id": "DP-000028",
+    "approver_id": "EMP-000012",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000028",
+    "plan_id": "DP-000029",
+    "approver_id": "EMP-000015",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000029",
+    "plan_id": "DP-000030",
+    "approver_id": "EMP-000018",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000030",
+    "plan_id": "DP-000031",
+    "approver_id": "EMP-000021",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000031",
+    "plan_id": "DP-000032",
+    "approver_id": "EMP-000024",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000032",
+    "plan_id": "DP-000033",
+    "approver_id": "EMP-000013",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000033",
+    "plan_id": "DP-000034",
+    "approver_id": "EMP-000016",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000034",
+    "plan_id": "DP-000035",
+    "approver_id": "EMP-000019",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000035",
+    "plan_id": "DP-000036",
+    "approver_id": "EMP-000022",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000036",
+    "plan_id": "DP-000037",
+    "approver_id": "EMP-000025",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000037",
+    "plan_id": "DP-000038",
+    "approver_id": "EMP-000014",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000038",
+    "plan_id": "DP-000039",
+    "approver_id": "EMP-000017",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000039",
+    "plan_id": "DP-000040",
+    "approver_id": "EMP-000020",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000040",
+    "plan_id": "DP-000041",
+    "approver_id": "EMP-000023",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000041",
+    "plan_id": "DP-000042",
+    "approver_id": "EMP-000012",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000042",
+    "plan_id": "DP-000043",
+    "approver_id": "EMP-000015",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000043",
+    "plan_id": "DP-000044",
+    "approver_id": "EMP-000018",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000044",
+    "plan_id": "DP-000045",
+    "approver_id": "EMP-000021",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000045",
+    "plan_id": "DP-000046",
+    "approver_id": "EMP-000024",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000046",
+    "plan_id": "DP-000047",
+    "approver_id": "EMP-000013",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000047",
+    "plan_id": "DP-000048",
+    "approver_id": "EMP-000016",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000048",
+    "plan_id": "DP-000049",
+    "approver_id": "EMP-000019",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  },
+  {
+    "approval_id": "DPA-000049",
+    "plan_id": "DP-000050",
+    "approver_id": "EMP-000022",
+    "approval_role": "MANAGER",
+    "decision": "APPROVED",
+    "comments": "Approved. Strong alignment with department growth targets."
+  }
+]

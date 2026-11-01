@@ -1,0 +1,6 @@
+role_id,name,description
+ROLE-EMP,EMPLOYEE,"Standard employee access: own goals, check-ins, self-review"
+ROLE-MGR,MANAGER,"Managerial access: direct reports, approvals, team reviews"
+ROLE-HR,HR_PARTNER,"HR partner: cycle management, calibration, organizational oversight"
+ROLE-OPS,IT_OPS,"Operations & IT: synthetic generation, validation, system monitoring"
+ROLE-ADM,ADMIN,System administrator: full configuration and security administration

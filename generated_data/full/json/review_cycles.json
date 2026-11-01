@@ -1,0 +1,24 @@
+[
+  {
+    "cycle_id": "CYCLE-2025-H2",
+    "cycle_name": "2025 H2 Performance Review Cycle",
+    "start_date": "2025-07-01",
+    "end_date": "2025-12-31",
+    "submission_deadline": "2025-12-15",
+    "stage": "CLOSED",
+    "goal_weight": 50.0,
+    "competency_weight": 30.0,
+    "feedback_weight": 20.0
+  },
+  {
+    "cycle_id": "CYCLE-2026-H1",
+    "cycle_name": "2026 H1 Performance Review Cycle",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-30",
+    "submission_deadline": "2026-06-15",
+    "stage": "OPEN",
+    "goal_weight": 50.0,
+    "competency_weight": 30.0,
+    "feedback_weight": 20.0
+  }
+]

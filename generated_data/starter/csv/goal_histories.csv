@@ -1,0 +1,1001 @@
+history_id,goal_id,version_number,title,status,calculated_progress,changed_by,change_reason
+GH-000001,GOAL-EMP-000001-001,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000001,Initial Goal Proposal Creation
+GH-000002,GOAL-EMP-000001-001,2,Increase Automated Test Code Coverage (Q2),COMPLETED,100.16,EMP-000001,Manager Milestone Approval and Activation
+GH-000003,GOAL-EMP-000002-002,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000002,Initial Goal Proposal Creation
+GH-000004,GOAL-EMP-000002-002,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,56.86,EMP-000001,Manager Milestone Approval and Activation
+GH-000005,GOAL-EMP-000003-003,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000003,Initial Goal Proposal Creation
+GH-000006,GOAL-EMP-000003-003,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,50.18,EMP-000001,Manager Milestone Approval and Activation
+GH-000007,GOAL-EMP-000004-004,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000004,Initial Goal Proposal Creation
+GH-000008,GOAL-EMP-000004-004,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,32.75,EMP-000002,Manager Milestone Approval and Activation
+GH-000009,GOAL-EMP-000005-005,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000005,Initial Goal Proposal Creation
+GH-000010,GOAL-EMP-000005-005,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,95.44,EMP-000003,Manager Milestone Approval and Activation
+GH-000011,GOAL-EMP-000006-006,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000006,Initial Goal Proposal Creation
+GH-000012,GOAL-EMP-000006-006,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,80.48,EMP-000002,Manager Milestone Approval and Activation
+GH-000013,GOAL-EMP-000007-007,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000007,Initial Goal Proposal Creation
+GH-000014,GOAL-EMP-000007-007,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,44.16,EMP-000003,Manager Milestone Approval and Activation
+GH-000015,GOAL-EMP-000008-008,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000008,Initial Goal Proposal Creation
+GH-000016,GOAL-EMP-000008-008,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,25.09,EMP-000002,Manager Milestone Approval and Activation
+GH-000017,GOAL-EMP-000009-009,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000009,Initial Goal Proposal Creation
+GH-000018,GOAL-EMP-000009-009,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,33.12,EMP-000003,Manager Milestone Approval and Activation
+GH-000019,GOAL-EMP-000010-010,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000010,Initial Goal Proposal Creation
+GH-000020,GOAL-EMP-000010-010,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,90.47,EMP-000002,Manager Milestone Approval and Activation
+GH-000021,GOAL-EMP-000011-011,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000011,Initial Goal Proposal Creation
+GH-000022,GOAL-EMP-000011-011,2,Increase Automated Test Code Coverage (Q4),COMPLETED,97.9,EMP-000003,Manager Milestone Approval and Activation
+GH-000023,GOAL-EMP-000012-012,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000012,Initial Goal Proposal Creation
+GH-000024,GOAL-EMP-000012-012,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,58.5,EMP-000004,Manager Milestone Approval and Activation
+GH-000025,GOAL-EMP-000013-013,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000013,Initial Goal Proposal Creation
+GH-000026,GOAL-EMP-000013-013,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,45.46,EMP-000005,Manager Milestone Approval and Activation
+GH-000027,GOAL-EMP-000014-014,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000014,Initial Goal Proposal Creation
+GH-000028,GOAL-EMP-000014-014,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,37.2,EMP-000006,Manager Milestone Approval and Activation
+GH-000029,GOAL-EMP-000015-015,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000015,Initial Goal Proposal Creation
+GH-000030,GOAL-EMP-000015-015,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,88.54,EMP-000007,Manager Milestone Approval and Activation
+GH-000031,GOAL-EMP-000016-016,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000016,Initial Goal Proposal Creation
+GH-000032,GOAL-EMP-000016-016,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,106.26,EMP-000008,Manager Milestone Approval and Activation
+GH-000033,GOAL-EMP-000017-017,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000017,Initial Goal Proposal Creation
+GH-000034,GOAL-EMP-000017-017,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,27.6,EMP-000009,Manager Milestone Approval and Activation
+GH-000035,GOAL-EMP-000018-018,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000018,Initial Goal Proposal Creation
+GH-000036,GOAL-EMP-000018-018,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,44.72,EMP-000010,Manager Milestone Approval and Activation
+GH-000037,GOAL-EMP-000019-019,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000019,Initial Goal Proposal Creation
+GH-000038,GOAL-EMP-000019-019,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,28.86,EMP-000011,Manager Milestone Approval and Activation
+GH-000039,GOAL-EMP-000020-020,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000020,Initial Goal Proposal Creation
+GH-000040,GOAL-EMP-000020-020,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,99.5,EMP-000004,Manager Milestone Approval and Activation
+GH-000041,GOAL-EMP-000021-021,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000021,Initial Goal Proposal Creation
+GH-000042,GOAL-EMP-000021-021,2,Increase Automated Test Code Coverage (Q2),COMPLETED,92.93,EMP-000005,Manager Milestone Approval and Activation
+GH-000043,GOAL-EMP-000022-022,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000022,Initial Goal Proposal Creation
+GH-000044,GOAL-EMP-000022-022,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,64.8,EMP-000006,Manager Milestone Approval and Activation
+GH-000045,GOAL-EMP-000023-023,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000023,Initial Goal Proposal Creation
+GH-000046,GOAL-EMP-000023-023,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,56.08,EMP-000007,Manager Milestone Approval and Activation
+GH-000047,GOAL-EMP-000024-024,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000024,Initial Goal Proposal Creation
+GH-000048,GOAL-EMP-000024-024,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,45.63,EMP-000008,Manager Milestone Approval and Activation
+GH-000049,GOAL-EMP-000025-025,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000025,Initial Goal Proposal Creation
+GH-000050,GOAL-EMP-000025-025,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,87.98,EMP-000009,Manager Milestone Approval and Activation
+GH-000051,GOAL-EMP-000026-026,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000026,Initial Goal Proposal Creation
+GH-000052,GOAL-EMP-000026-026,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,97.47,EMP-000012,Manager Milestone Approval and Activation
+GH-000053,GOAL-EMP-000027-027,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000027,Initial Goal Proposal Creation
+GH-000054,GOAL-EMP-000027-027,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,77.54,EMP-000013,Manager Milestone Approval and Activation
+GH-000055,GOAL-EMP-000028-028,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000028,Initial Goal Proposal Creation
+GH-000056,GOAL-EMP-000028-028,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,71.25,EMP-000014,Manager Milestone Approval and Activation
+GH-000057,GOAL-EMP-000029-029,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000029,Initial Goal Proposal Creation
+GH-000058,GOAL-EMP-000029-029,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,62.98,EMP-000015,Manager Milestone Approval and Activation
+GH-000059,GOAL-EMP-000030-030,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000030,Initial Goal Proposal Creation
+GH-000060,GOAL-EMP-000030-030,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,76.66,EMP-000016,Manager Milestone Approval and Activation
+GH-000061,GOAL-EMP-000031-031,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000031,Initial Goal Proposal Creation
+GH-000062,GOAL-EMP-000031-031,2,Increase Automated Test Code Coverage (Q4),ACTIVE,87.08,EMP-000017,Manager Milestone Approval and Activation
+GH-000063,GOAL-EMP-000032-032,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000032,Initial Goal Proposal Creation
+GH-000064,GOAL-EMP-000032-032,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,53.6,EMP-000018,Manager Milestone Approval and Activation
+GH-000065,GOAL-EMP-000033-033,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000033,Initial Goal Proposal Creation
+GH-000066,GOAL-EMP-000033-033,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,62.25,EMP-000019,Manager Milestone Approval and Activation
+GH-000067,GOAL-EMP-000034-034,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000034,Initial Goal Proposal Creation
+GH-000068,GOAL-EMP-000034-034,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,66.42,EMP-000020,Manager Milestone Approval and Activation
+GH-000069,GOAL-EMP-000035-035,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000035,Initial Goal Proposal Creation
+GH-000070,GOAL-EMP-000035-035,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,101.27,EMP-000021,Manager Milestone Approval and Activation
+GH-000071,GOAL-EMP-000036-036,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000036,Initial Goal Proposal Creation
+GH-000072,GOAL-EMP-000036-036,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,94.47,EMP-000022,Manager Milestone Approval and Activation
+GH-000073,GOAL-EMP-000037-037,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000037,Initial Goal Proposal Creation
+GH-000074,GOAL-EMP-000037-037,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,54.97,EMP-000023,Manager Milestone Approval and Activation
+GH-000075,GOAL-EMP-000038-038,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000038,Initial Goal Proposal Creation
+GH-000076,GOAL-EMP-000038-038,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,66.91,EMP-000024,Manager Milestone Approval and Activation
+GH-000077,GOAL-EMP-000039-039,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000039,Initial Goal Proposal Creation
+GH-000078,GOAL-EMP-000039-039,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,67.17,EMP-000025,Manager Milestone Approval and Activation
+GH-000079,GOAL-EMP-000040-040,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000040,Initial Goal Proposal Creation
+GH-000080,GOAL-EMP-000040-040,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,91.11,EMP-000012,Manager Milestone Approval and Activation
+GH-000081,GOAL-EMP-000041-041,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000041,Initial Goal Proposal Creation
+GH-000082,GOAL-EMP-000041-041,2,Increase Automated Test Code Coverage (Q2),ACTIVE,89.08,EMP-000013,Manager Milestone Approval and Activation
+GH-000083,GOAL-EMP-000042-042,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000042,Initial Goal Proposal Creation
+GH-000084,GOAL-EMP-000042-042,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,67.64,EMP-000014,Manager Milestone Approval and Activation
+GH-000085,GOAL-EMP-000043-043,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000043,Initial Goal Proposal Creation
+GH-000086,GOAL-EMP-000043-043,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,66.56,EMP-000015,Manager Milestone Approval and Activation
+GH-000087,GOAL-EMP-000044-044,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000044,Initial Goal Proposal Creation
+GH-000088,GOAL-EMP-000044-044,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,77.29,EMP-000016,Manager Milestone Approval and Activation
+GH-000089,GOAL-EMP-000045-045,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000045,Initial Goal Proposal Creation
+GH-000090,GOAL-EMP-000045-045,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,99.94,EMP-000017,Manager Milestone Approval and Activation
+GH-000091,GOAL-EMP-000046-046,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000046,Initial Goal Proposal Creation
+GH-000092,GOAL-EMP-000046-046,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,99.31,EMP-000018,Manager Milestone Approval and Activation
+GH-000093,GOAL-EMP-000047-047,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000047,Initial Goal Proposal Creation
+GH-000094,GOAL-EMP-000047-047,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,70.67,EMP-000019,Manager Milestone Approval and Activation
+GH-000095,GOAL-EMP-000048-048,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000048,Initial Goal Proposal Creation
+GH-000096,GOAL-EMP-000048-048,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,73.6,EMP-000020,Manager Milestone Approval and Activation
+GH-000097,GOAL-EMP-000049-049,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000049,Initial Goal Proposal Creation
+GH-000098,GOAL-EMP-000049-049,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,42.01,EMP-000021,Manager Milestone Approval and Activation
+GH-000099,GOAL-EMP-000050-050,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000050,Initial Goal Proposal Creation
+GH-000100,GOAL-EMP-000050-050,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,83.85,EMP-000022,Manager Milestone Approval and Activation
+GH-000101,GOAL-EMP-000051-051,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000051,Initial Goal Proposal Creation
+GH-000102,GOAL-EMP-000051-051,2,Increase Automated Test Code Coverage (Q4),ACTIVE,86.81,EMP-000023,Manager Milestone Approval and Activation
+GH-000103,GOAL-EMP-000052-052,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000052,Initial Goal Proposal Creation
+GH-000104,GOAL-EMP-000052-052,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,67.56,EMP-000024,Manager Milestone Approval and Activation
+GH-000105,GOAL-EMP-000053-053,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000053,Initial Goal Proposal Creation
+GH-000106,GOAL-EMP-000053-053,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,66.75,EMP-000025,Manager Milestone Approval and Activation
+GH-000107,GOAL-EMP-000054-054,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000054,Initial Goal Proposal Creation
+GH-000108,GOAL-EMP-000054-054,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,57.68,EMP-000012,Manager Milestone Approval and Activation
+GH-000109,GOAL-EMP-000055-055,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000055,Initial Goal Proposal Creation
+GH-000110,GOAL-EMP-000055-055,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,93.44,EMP-000013,Manager Milestone Approval and Activation
+GH-000111,GOAL-EMP-000056-056,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000056,Initial Goal Proposal Creation
+GH-000112,GOAL-EMP-000056-056,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,88.12,EMP-000014,Manager Milestone Approval and Activation
+GH-000113,GOAL-EMP-000057-057,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000057,Initial Goal Proposal Creation
+GH-000114,GOAL-EMP-000057-057,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,41.44,EMP-000015,Manager Milestone Approval and Activation
+GH-000115,GOAL-EMP-000058-058,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000058,Initial Goal Proposal Creation
+GH-000116,GOAL-EMP-000058-058,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,35.72,EMP-000016,Manager Milestone Approval and Activation
+GH-000117,GOAL-EMP-000059-059,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000059,Initial Goal Proposal Creation
+GH-000118,GOAL-EMP-000059-059,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,78.86,EMP-000017,Manager Milestone Approval and Activation
+GH-000119,GOAL-EMP-000060-060,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000060,Initial Goal Proposal Creation
+GH-000120,GOAL-EMP-000060-060,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,96.31,EMP-000018,Manager Milestone Approval and Activation
+GH-000121,GOAL-EMP-000061-061,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000061,Initial Goal Proposal Creation
+GH-000122,GOAL-EMP-000061-061,2,Increase Automated Test Code Coverage (Q2),COMPLETED,91.7,EMP-000019,Manager Milestone Approval and Activation
+GH-000123,GOAL-EMP-000062-062,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000062,Initial Goal Proposal Creation
+GH-000124,GOAL-EMP-000062-062,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,73.13,EMP-000020,Manager Milestone Approval and Activation
+GH-000125,GOAL-EMP-000063-063,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000063,Initial Goal Proposal Creation
+GH-000126,GOAL-EMP-000063-063,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,56.89,EMP-000021,Manager Milestone Approval and Activation
+GH-000127,GOAL-EMP-000064-064,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000064,Initial Goal Proposal Creation
+GH-000128,GOAL-EMP-000064-064,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,44.14,EMP-000022,Manager Milestone Approval and Activation
+GH-000129,GOAL-EMP-000065-065,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000065,Initial Goal Proposal Creation
+GH-000130,GOAL-EMP-000065-065,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,82.06,EMP-000023,Manager Milestone Approval and Activation
+GH-000131,GOAL-EMP-000066-066,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000066,Initial Goal Proposal Creation
+GH-000132,GOAL-EMP-000066-066,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,90.72,EMP-000024,Manager Milestone Approval and Activation
+GH-000133,GOAL-EMP-000067-067,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000067,Initial Goal Proposal Creation
+GH-000134,GOAL-EMP-000067-067,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,35.94,EMP-000025,Manager Milestone Approval and Activation
+GH-000135,GOAL-EMP-000068-068,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000068,Initial Goal Proposal Creation
+GH-000136,GOAL-EMP-000068-068,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,66.47,EMP-000012,Manager Milestone Approval and Activation
+GH-000137,GOAL-EMP-000069-069,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000069,Initial Goal Proposal Creation
+GH-000138,GOAL-EMP-000069-069,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,51.31,EMP-000013,Manager Milestone Approval and Activation
+GH-000139,GOAL-EMP-000070-070,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000070,Initial Goal Proposal Creation
+GH-000140,GOAL-EMP-000070-070,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,86.19,EMP-000014,Manager Milestone Approval and Activation
+GH-000141,GOAL-EMP-000071-071,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000071,Initial Goal Proposal Creation
+GH-000142,GOAL-EMP-000071-071,2,Increase Automated Test Code Coverage (Q4),COMPLETED,104.05,EMP-000015,Manager Milestone Approval and Activation
+GH-000143,GOAL-EMP-000072-072,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000072,Initial Goal Proposal Creation
+GH-000144,GOAL-EMP-000072-072,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,50.22,EMP-000016,Manager Milestone Approval and Activation
+GH-000145,GOAL-EMP-000073-073,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000073,Initial Goal Proposal Creation
+GH-000146,GOAL-EMP-000073-073,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,56.8,EMP-000017,Manager Milestone Approval and Activation
+GH-000147,GOAL-EMP-000074-074,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000074,Initial Goal Proposal Creation
+GH-000148,GOAL-EMP-000074-074,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,68.48,EMP-000018,Manager Milestone Approval and Activation
+GH-000149,GOAL-EMP-000075-075,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000075,Initial Goal Proposal Creation
+GH-000150,GOAL-EMP-000075-075,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,91.15,EMP-000019,Manager Milestone Approval and Activation
+GH-000151,GOAL-EMP-000076-076,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000076,Initial Goal Proposal Creation
+GH-000152,GOAL-EMP-000076-076,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,96.45,EMP-000020,Manager Milestone Approval and Activation
+GH-000153,GOAL-EMP-000077-077,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000077,Initial Goal Proposal Creation
+GH-000154,GOAL-EMP-000077-077,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,75.78,EMP-000021,Manager Milestone Approval and Activation
+GH-000155,GOAL-EMP-000078-078,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000078,Initial Goal Proposal Creation
+GH-000156,GOAL-EMP-000078-078,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,52.8,EMP-000022,Manager Milestone Approval and Activation
+GH-000157,GOAL-EMP-000079-079,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000079,Initial Goal Proposal Creation
+GH-000158,GOAL-EMP-000079-079,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,46.64,EMP-000023,Manager Milestone Approval and Activation
+GH-000159,GOAL-EMP-000080-080,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000080,Initial Goal Proposal Creation
+GH-000160,GOAL-EMP-000080-080,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,86.38,EMP-000024,Manager Milestone Approval and Activation
+GH-000161,GOAL-EMP-000081-081,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000081,Initial Goal Proposal Creation
+GH-000162,GOAL-EMP-000081-081,2,Increase Automated Test Code Coverage (Q2),ACTIVE,86.1,EMP-000025,Manager Milestone Approval and Activation
+GH-000163,GOAL-EMP-000082-082,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000082,Initial Goal Proposal Creation
+GH-000164,GOAL-EMP-000082-082,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,66.66,EMP-000012,Manager Milestone Approval and Activation
+GH-000165,GOAL-EMP-000083-083,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000083,Initial Goal Proposal Creation
+GH-000166,GOAL-EMP-000083-083,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,62.01,EMP-000013,Manager Milestone Approval and Activation
+GH-000167,GOAL-EMP-000084-084,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000084,Initial Goal Proposal Creation
+GH-000168,GOAL-EMP-000084-084,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,38.83,EMP-000014,Manager Milestone Approval and Activation
+GH-000169,GOAL-EMP-000085-085,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000085,Initial Goal Proposal Creation
+GH-000170,GOAL-EMP-000085-085,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,94.02,EMP-000015,Manager Milestone Approval and Activation
+GH-000171,GOAL-EMP-000086-086,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000086,Initial Goal Proposal Creation
+GH-000172,GOAL-EMP-000086-086,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,87.76,EMP-000016,Manager Milestone Approval and Activation
+GH-000173,GOAL-EMP-000087-087,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000087,Initial Goal Proposal Creation
+GH-000174,GOAL-EMP-000087-087,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,46.21,EMP-000017,Manager Milestone Approval and Activation
+GH-000175,GOAL-EMP-000088-088,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000088,Initial Goal Proposal Creation
+GH-000176,GOAL-EMP-000088-088,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,60.97,EMP-000018,Manager Milestone Approval and Activation
+GH-000177,GOAL-EMP-000089-089,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000089,Initial Goal Proposal Creation
+GH-000178,GOAL-EMP-000089-089,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,53.56,EMP-000019,Manager Milestone Approval and Activation
+GH-000179,GOAL-EMP-000090-090,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000090,Initial Goal Proposal Creation
+GH-000180,GOAL-EMP-000090-090,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,103.77,EMP-000020,Manager Milestone Approval and Activation
+GH-000181,GOAL-EMP-000091-091,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000091,Initial Goal Proposal Creation
+GH-000182,GOAL-EMP-000091-091,2,Increase Automated Test Code Coverage (Q4),COMPLETED,92.51,EMP-000021,Manager Milestone Approval and Activation
+GH-000183,GOAL-EMP-000092-092,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000092,Initial Goal Proposal Creation
+GH-000184,GOAL-EMP-000092-092,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,44.95,EMP-000022,Manager Milestone Approval and Activation
+GH-000185,GOAL-EMP-000093-093,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000093,Initial Goal Proposal Creation
+GH-000186,GOAL-EMP-000093-093,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,48.23,EMP-000023,Manager Milestone Approval and Activation
+GH-000187,GOAL-EMP-000094-094,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000094,Initial Goal Proposal Creation
+GH-000188,GOAL-EMP-000094-094,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,47.66,EMP-000024,Manager Milestone Approval and Activation
+GH-000189,GOAL-EMP-000095-095,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000095,Initial Goal Proposal Creation
+GH-000190,GOAL-EMP-000095-095,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,85.81,EMP-000025,Manager Milestone Approval and Activation
+GH-000191,GOAL-EMP-000096-096,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000096,Initial Goal Proposal Creation
+GH-000192,GOAL-EMP-000096-096,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,87.19,EMP-000012,Manager Milestone Approval and Activation
+GH-000193,GOAL-EMP-000097-097,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000097,Initial Goal Proposal Creation
+GH-000194,GOAL-EMP-000097-097,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,52.13,EMP-000013,Manager Milestone Approval and Activation
+GH-000195,GOAL-EMP-000098-098,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000098,Initial Goal Proposal Creation
+GH-000196,GOAL-EMP-000098-098,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,59.26,EMP-000014,Manager Milestone Approval and Activation
+GH-000197,GOAL-EMP-000099-099,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000099,Initial Goal Proposal Creation
+GH-000198,GOAL-EMP-000099-099,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,55.05,EMP-000015,Manager Milestone Approval and Activation
+GH-000199,GOAL-EMP-000100-100,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000100,Initial Goal Proposal Creation
+GH-000200,GOAL-EMP-000100-100,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,95.41,EMP-000016,Manager Milestone Approval and Activation
+GH-000201,GOAL-EMP-000101-101,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000101,Initial Goal Proposal Creation
+GH-000202,GOAL-EMP-000101-101,2,Increase Automated Test Code Coverage (Q2),COMPLETED,102.69,EMP-000017,Manager Milestone Approval and Activation
+GH-000203,GOAL-EMP-000102-102,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000102,Initial Goal Proposal Creation
+GH-000204,GOAL-EMP-000102-102,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,25.11,EMP-000018,Manager Milestone Approval and Activation
+GH-000205,GOAL-EMP-000103-103,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000103,Initial Goal Proposal Creation
+GH-000206,GOAL-EMP-000103-103,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,59.18,EMP-000019,Manager Milestone Approval and Activation
+GH-000207,GOAL-EMP-000104-104,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000104,Initial Goal Proposal Creation
+GH-000208,GOAL-EMP-000104-104,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,43.42,EMP-000020,Manager Milestone Approval and Activation
+GH-000209,GOAL-EMP-000105-105,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000105,Initial Goal Proposal Creation
+GH-000210,GOAL-EMP-000105-105,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,90.58,EMP-000021,Manager Milestone Approval and Activation
+GH-000211,GOAL-EMP-000106-106,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000106,Initial Goal Proposal Creation
+GH-000212,GOAL-EMP-000106-106,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,89.26,EMP-000022,Manager Milestone Approval and Activation
+GH-000213,GOAL-EMP-000107-107,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000107,Initial Goal Proposal Creation
+GH-000214,GOAL-EMP-000107-107,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,64.68,EMP-000023,Manager Milestone Approval and Activation
+GH-000215,GOAL-EMP-000108-108,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000108,Initial Goal Proposal Creation
+GH-000216,GOAL-EMP-000108-108,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,59.97,EMP-000024,Manager Milestone Approval and Activation
+GH-000217,GOAL-EMP-000109-109,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000109,Initial Goal Proposal Creation
+GH-000218,GOAL-EMP-000109-109,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,53.3,EMP-000025,Manager Milestone Approval and Activation
+GH-000219,GOAL-EMP-000110-110,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000110,Initial Goal Proposal Creation
+GH-000220,GOAL-EMP-000110-110,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,83.37,EMP-000012,Manager Milestone Approval and Activation
+GH-000221,GOAL-EMP-000111-111,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000111,Initial Goal Proposal Creation
+GH-000222,GOAL-EMP-000111-111,2,Increase Automated Test Code Coverage (Q4),ACTIVE,86.27,EMP-000013,Manager Milestone Approval and Activation
+GH-000223,GOAL-EMP-000112-112,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000112,Initial Goal Proposal Creation
+GH-000224,GOAL-EMP-000112-112,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,35.45,EMP-000014,Manager Milestone Approval and Activation
+GH-000225,GOAL-EMP-000113-113,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000113,Initial Goal Proposal Creation
+GH-000226,GOAL-EMP-000113-113,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,68.46,EMP-000015,Manager Milestone Approval and Activation
+GH-000227,GOAL-EMP-000114-114,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000114,Initial Goal Proposal Creation
+GH-000228,GOAL-EMP-000114-114,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,80.39,EMP-000016,Manager Milestone Approval and Activation
+GH-000229,GOAL-EMP-000115-115,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000115,Initial Goal Proposal Creation
+GH-000230,GOAL-EMP-000115-115,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,100.15,EMP-000017,Manager Milestone Approval and Activation
+GH-000231,GOAL-EMP-000116-116,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000116,Initial Goal Proposal Creation
+GH-000232,GOAL-EMP-000116-116,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,96.22,EMP-000018,Manager Milestone Approval and Activation
+GH-000233,GOAL-EMP-000117-117,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000117,Initial Goal Proposal Creation
+GH-000234,GOAL-EMP-000117-117,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,46.88,EMP-000019,Manager Milestone Approval and Activation
+GH-000235,GOAL-EMP-000118-118,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000118,Initial Goal Proposal Creation
+GH-000236,GOAL-EMP-000118-118,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,45.83,EMP-000020,Manager Milestone Approval and Activation
+GH-000237,GOAL-EMP-000119-119,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000119,Initial Goal Proposal Creation
+GH-000238,GOAL-EMP-000119-119,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,64.38,EMP-000021,Manager Milestone Approval and Activation
+GH-000239,GOAL-EMP-000120-120,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000120,Initial Goal Proposal Creation
+GH-000240,GOAL-EMP-000120-120,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,94.19,EMP-000022,Manager Milestone Approval and Activation
+GH-000241,GOAL-EMP-000121-121,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000121,Initial Goal Proposal Creation
+GH-000242,GOAL-EMP-000121-121,2,Increase Automated Test Code Coverage (Q2),COMPLETED,99.4,EMP-000023,Manager Milestone Approval and Activation
+GH-000243,GOAL-EMP-000122-122,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000122,Initial Goal Proposal Creation
+GH-000244,GOAL-EMP-000122-122,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,69.31,EMP-000024,Manager Milestone Approval and Activation
+GH-000245,GOAL-EMP-000123-123,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000123,Initial Goal Proposal Creation
+GH-000246,GOAL-EMP-000123-123,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,43.29,EMP-000025,Manager Milestone Approval and Activation
+GH-000247,GOAL-EMP-000124-124,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000124,Initial Goal Proposal Creation
+GH-000248,GOAL-EMP-000124-124,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,53.12,EMP-000012,Manager Milestone Approval and Activation
+GH-000249,GOAL-EMP-000125-125,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000125,Initial Goal Proposal Creation
+GH-000250,GOAL-EMP-000125-125,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,97.44,EMP-000013,Manager Milestone Approval and Activation
+GH-000251,GOAL-EMP-000126-126,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000126,Initial Goal Proposal Creation
+GH-000252,GOAL-EMP-000126-126,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,90.57,EMP-000014,Manager Milestone Approval and Activation
+GH-000253,GOAL-EMP-000127-127,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000127,Initial Goal Proposal Creation
+GH-000254,GOAL-EMP-000127-127,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,63.23,EMP-000015,Manager Milestone Approval and Activation
+GH-000255,GOAL-EMP-000128-128,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000128,Initial Goal Proposal Creation
+GH-000256,GOAL-EMP-000128-128,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,23.58,EMP-000016,Manager Milestone Approval and Activation
+GH-000257,GOAL-EMP-000129-129,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000129,Initial Goal Proposal Creation
+GH-000258,GOAL-EMP-000129-129,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,39.49,EMP-000017,Manager Milestone Approval and Activation
+GH-000259,GOAL-EMP-000130-130,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000130,Initial Goal Proposal Creation
+GH-000260,GOAL-EMP-000130-130,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,101.79,EMP-000018,Manager Milestone Approval and Activation
+GH-000261,GOAL-EMP-000131-131,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000131,Initial Goal Proposal Creation
+GH-000262,GOAL-EMP-000131-131,2,Increase Automated Test Code Coverage (Q4),COMPLETED,99.09,EMP-000019,Manager Milestone Approval and Activation
+GH-000263,GOAL-EMP-000132-132,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000132,Initial Goal Proposal Creation
+GH-000264,GOAL-EMP-000132-132,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,68.58,EMP-000020,Manager Milestone Approval and Activation
+GH-000265,GOAL-EMP-000133-133,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000133,Initial Goal Proposal Creation
+GH-000266,GOAL-EMP-000133-133,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,55.78,EMP-000021,Manager Milestone Approval and Activation
+GH-000267,GOAL-EMP-000134-134,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000134,Initial Goal Proposal Creation
+GH-000268,GOAL-EMP-000134-134,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,63.02,EMP-000022,Manager Milestone Approval and Activation
+GH-000269,GOAL-EMP-000135-135,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000135,Initial Goal Proposal Creation
+GH-000270,GOAL-EMP-000135-135,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,96.1,EMP-000023,Manager Milestone Approval and Activation
+GH-000271,GOAL-EMP-000136-136,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000136,Initial Goal Proposal Creation
+GH-000272,GOAL-EMP-000136-136,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,88.72,EMP-000024,Manager Milestone Approval and Activation
+GH-000273,GOAL-EMP-000137-137,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000137,Initial Goal Proposal Creation
+GH-000274,GOAL-EMP-000137-137,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,54.21,EMP-000025,Manager Milestone Approval and Activation
+GH-000275,GOAL-EMP-000138-138,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000138,Initial Goal Proposal Creation
+GH-000276,GOAL-EMP-000138-138,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,32.17,EMP-000012,Manager Milestone Approval and Activation
+GH-000277,GOAL-EMP-000139-139,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000139,Initial Goal Proposal Creation
+GH-000278,GOAL-EMP-000139-139,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,74.88,EMP-000013,Manager Milestone Approval and Activation
+GH-000279,GOAL-EMP-000140-140,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000140,Initial Goal Proposal Creation
+GH-000280,GOAL-EMP-000140-140,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,86.0,EMP-000014,Manager Milestone Approval and Activation
+GH-000281,GOAL-EMP-000141-141,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000141,Initial Goal Proposal Creation
+GH-000282,GOAL-EMP-000141-141,2,Increase Automated Test Code Coverage (Q2),ACTIVE,82.71,EMP-000015,Manager Milestone Approval and Activation
+GH-000283,GOAL-EMP-000142-142,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000142,Initial Goal Proposal Creation
+GH-000284,GOAL-EMP-000142-142,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,54.87,EMP-000016,Manager Milestone Approval and Activation
+GH-000285,GOAL-EMP-000143-143,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000143,Initial Goal Proposal Creation
+GH-000286,GOAL-EMP-000143-143,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,66.09,EMP-000017,Manager Milestone Approval and Activation
+GH-000287,GOAL-EMP-000144-144,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000144,Initial Goal Proposal Creation
+GH-000288,GOAL-EMP-000144-144,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,44.04,EMP-000018,Manager Milestone Approval and Activation
+GH-000289,GOAL-EMP-000145-145,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000145,Initial Goal Proposal Creation
+GH-000290,GOAL-EMP-000145-145,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,88.21,EMP-000019,Manager Milestone Approval and Activation
+GH-000291,GOAL-EMP-000146-146,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000146,Initial Goal Proposal Creation
+GH-000292,GOAL-EMP-000146-146,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,96.95,EMP-000020,Manager Milestone Approval and Activation
+GH-000293,GOAL-EMP-000147-147,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000147,Initial Goal Proposal Creation
+GH-000294,GOAL-EMP-000147-147,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,77.58,EMP-000021,Manager Milestone Approval and Activation
+GH-000295,GOAL-EMP-000148-148,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000148,Initial Goal Proposal Creation
+GH-000296,GOAL-EMP-000148-148,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,52.28,EMP-000022,Manager Milestone Approval and Activation
+GH-000297,GOAL-EMP-000149-149,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000149,Initial Goal Proposal Creation
+GH-000298,GOAL-EMP-000149-149,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,56.09,EMP-000023,Manager Milestone Approval and Activation
+GH-000299,GOAL-EMP-000150-150,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000150,Initial Goal Proposal Creation
+GH-000300,GOAL-EMP-000150-150,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,84.06,EMP-000024,Manager Milestone Approval and Activation
+GH-000301,GOAL-EMP-000001-151,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000001,Initial Goal Proposal Creation
+GH-000302,GOAL-EMP-000001-151,2,Increase Automated Test Code Coverage (Q4),COMPLETED,90.8,EMP-000001,Manager Milestone Approval and Activation
+GH-000303,GOAL-EMP-000002-152,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000002,Initial Goal Proposal Creation
+GH-000304,GOAL-EMP-000002-152,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,81.23,EMP-000001,Manager Milestone Approval and Activation
+GH-000305,GOAL-EMP-000003-153,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000003,Initial Goal Proposal Creation
+GH-000306,GOAL-EMP-000003-153,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,39.76,EMP-000001,Manager Milestone Approval and Activation
+GH-000307,GOAL-EMP-000004-154,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000004,Initial Goal Proposal Creation
+GH-000308,GOAL-EMP-000004-154,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,54.78,EMP-000002,Manager Milestone Approval and Activation
+GH-000309,GOAL-EMP-000005-155,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000005,Initial Goal Proposal Creation
+GH-000310,GOAL-EMP-000005-155,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,98.38,EMP-000003,Manager Milestone Approval and Activation
+GH-000311,GOAL-EMP-000006-156,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000006,Initial Goal Proposal Creation
+GH-000312,GOAL-EMP-000006-156,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,92.38,EMP-000002,Manager Milestone Approval and Activation
+GH-000313,GOAL-EMP-000007-157,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000007,Initial Goal Proposal Creation
+GH-000314,GOAL-EMP-000007-157,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,48.74,EMP-000003,Manager Milestone Approval and Activation
+GH-000315,GOAL-EMP-000008-158,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000008,Initial Goal Proposal Creation
+GH-000316,GOAL-EMP-000008-158,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,50.68,EMP-000002,Manager Milestone Approval and Activation
+GH-000317,GOAL-EMP-000009-159,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000009,Initial Goal Proposal Creation
+GH-000318,GOAL-EMP-000009-159,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,41.97,EMP-000003,Manager Milestone Approval and Activation
+GH-000319,GOAL-EMP-000010-160,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000010,Initial Goal Proposal Creation
+GH-000320,GOAL-EMP-000010-160,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,90.25,EMP-000002,Manager Milestone Approval and Activation
+GH-000321,GOAL-EMP-000011-161,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000011,Initial Goal Proposal Creation
+GH-000322,GOAL-EMP-000011-161,2,Increase Automated Test Code Coverage (Q2),COMPLETED,92.42,EMP-000003,Manager Milestone Approval and Activation
+GH-000323,GOAL-EMP-000012-162,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000012,Initial Goal Proposal Creation
+GH-000324,GOAL-EMP-000012-162,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,53.41,EMP-000004,Manager Milestone Approval and Activation
+GH-000325,GOAL-EMP-000013-163,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000013,Initial Goal Proposal Creation
+GH-000326,GOAL-EMP-000013-163,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,69.26,EMP-000005,Manager Milestone Approval and Activation
+GH-000327,GOAL-EMP-000014-164,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000014,Initial Goal Proposal Creation
+GH-000328,GOAL-EMP-000014-164,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,31.55,EMP-000006,Manager Milestone Approval and Activation
+GH-000329,GOAL-EMP-000015-165,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000015,Initial Goal Proposal Creation
+GH-000330,GOAL-EMP-000015-165,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,92.71,EMP-000007,Manager Milestone Approval and Activation
+GH-000331,GOAL-EMP-000016-166,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000016,Initial Goal Proposal Creation
+GH-000332,GOAL-EMP-000016-166,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,93.29,EMP-000008,Manager Milestone Approval and Activation
+GH-000333,GOAL-EMP-000017-167,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000017,Initial Goal Proposal Creation
+GH-000334,GOAL-EMP-000017-167,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,53.71,EMP-000009,Manager Milestone Approval and Activation
+GH-000335,GOAL-EMP-000018-168,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000018,Initial Goal Proposal Creation
+GH-000336,GOAL-EMP-000018-168,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,68.2,EMP-000010,Manager Milestone Approval and Activation
+GH-000337,GOAL-EMP-000019-169,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000019,Initial Goal Proposal Creation
+GH-000338,GOAL-EMP-000019-169,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,62.58,EMP-000011,Manager Milestone Approval and Activation
+GH-000339,GOAL-EMP-000020-170,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000020,Initial Goal Proposal Creation
+GH-000340,GOAL-EMP-000020-170,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,96.22,EMP-000004,Manager Milestone Approval and Activation
+GH-000341,GOAL-EMP-000021-171,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000021,Initial Goal Proposal Creation
+GH-000342,GOAL-EMP-000021-171,2,Increase Automated Test Code Coverage (Q4),COMPLETED,100.03,EMP-000005,Manager Milestone Approval and Activation
+GH-000343,GOAL-EMP-000022-172,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000022,Initial Goal Proposal Creation
+GH-000344,GOAL-EMP-000022-172,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,56.83,EMP-000006,Manager Milestone Approval and Activation
+GH-000345,GOAL-EMP-000023-173,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000023,Initial Goal Proposal Creation
+GH-000346,GOAL-EMP-000023-173,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,69.45,EMP-000007,Manager Milestone Approval and Activation
+GH-000347,GOAL-EMP-000024-174,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000024,Initial Goal Proposal Creation
+GH-000348,GOAL-EMP-000024-174,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,35.2,EMP-000008,Manager Milestone Approval and Activation
+GH-000349,GOAL-EMP-000025-175,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000025,Initial Goal Proposal Creation
+GH-000350,GOAL-EMP-000025-175,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,94.0,EMP-000009,Manager Milestone Approval and Activation
+GH-000351,GOAL-EMP-000026-176,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000026,Initial Goal Proposal Creation
+GH-000352,GOAL-EMP-000026-176,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,83.6,EMP-000012,Manager Milestone Approval and Activation
+GH-000353,GOAL-EMP-000027-177,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000027,Initial Goal Proposal Creation
+GH-000354,GOAL-EMP-000027-177,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,52.45,EMP-000013,Manager Milestone Approval and Activation
+GH-000355,GOAL-EMP-000028-178,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000028,Initial Goal Proposal Creation
+GH-000356,GOAL-EMP-000028-178,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,54.9,EMP-000014,Manager Milestone Approval and Activation
+GH-000357,GOAL-EMP-000029-179,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000029,Initial Goal Proposal Creation
+GH-000358,GOAL-EMP-000029-179,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,40.81,EMP-000015,Manager Milestone Approval and Activation
+GH-000359,GOAL-EMP-000030-180,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000030,Initial Goal Proposal Creation
+GH-000360,GOAL-EMP-000030-180,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,94.78,EMP-000016,Manager Milestone Approval and Activation
+GH-000361,GOAL-EMP-000031-181,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000031,Initial Goal Proposal Creation
+GH-000362,GOAL-EMP-000031-181,2,Increase Automated Test Code Coverage (Q2),ACTIVE,79.45,EMP-000017,Manager Milestone Approval and Activation
+GH-000363,GOAL-EMP-000032-182,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000032,Initial Goal Proposal Creation
+GH-000364,GOAL-EMP-000032-182,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,68.23,EMP-000018,Manager Milestone Approval and Activation
+GH-000365,GOAL-EMP-000033-183,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000033,Initial Goal Proposal Creation
+GH-000366,GOAL-EMP-000033-183,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,58.93,EMP-000019,Manager Milestone Approval and Activation
+GH-000367,GOAL-EMP-000034-184,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000034,Initial Goal Proposal Creation
+GH-000368,GOAL-EMP-000034-184,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,78.62,EMP-000020,Manager Milestone Approval and Activation
+GH-000369,GOAL-EMP-000035-185,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000035,Initial Goal Proposal Creation
+GH-000370,GOAL-EMP-000035-185,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,88.85,EMP-000021,Manager Milestone Approval and Activation
+GH-000371,GOAL-EMP-000036-186,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000036,Initial Goal Proposal Creation
+GH-000372,GOAL-EMP-000036-186,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,94.74,EMP-000022,Manager Milestone Approval and Activation
+GH-000373,GOAL-EMP-000037-187,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000037,Initial Goal Proposal Creation
+GH-000374,GOAL-EMP-000037-187,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,74.2,EMP-000023,Manager Milestone Approval and Activation
+GH-000375,GOAL-EMP-000038-188,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000038,Initial Goal Proposal Creation
+GH-000376,GOAL-EMP-000038-188,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,47.19,EMP-000024,Manager Milestone Approval and Activation
+GH-000377,GOAL-EMP-000039-189,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000039,Initial Goal Proposal Creation
+GH-000378,GOAL-EMP-000039-189,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,50.5,EMP-000025,Manager Milestone Approval and Activation
+GH-000379,GOAL-EMP-000040-190,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000040,Initial Goal Proposal Creation
+GH-000380,GOAL-EMP-000040-190,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,81.55,EMP-000012,Manager Milestone Approval and Activation
+GH-000381,GOAL-EMP-000041-191,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000041,Initial Goal Proposal Creation
+GH-000382,GOAL-EMP-000041-191,2,Increase Automated Test Code Coverage (Q4),COMPLETED,96.7,EMP-000013,Manager Milestone Approval and Activation
+GH-000383,GOAL-EMP-000042-192,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000042,Initial Goal Proposal Creation
+GH-000384,GOAL-EMP-000042-192,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,57.79,EMP-000014,Manager Milestone Approval and Activation
+GH-000385,GOAL-EMP-000043-193,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000043,Initial Goal Proposal Creation
+GH-000386,GOAL-EMP-000043-193,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,67.36,EMP-000015,Manager Milestone Approval and Activation
+GH-000387,GOAL-EMP-000044-194,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000044,Initial Goal Proposal Creation
+GH-000388,GOAL-EMP-000044-194,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,75.28,EMP-000016,Manager Milestone Approval and Activation
+GH-000389,GOAL-EMP-000045-195,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000045,Initial Goal Proposal Creation
+GH-000390,GOAL-EMP-000045-195,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,89.15,EMP-000017,Manager Milestone Approval and Activation
+GH-000391,GOAL-EMP-000046-196,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000046,Initial Goal Proposal Creation
+GH-000392,GOAL-EMP-000046-196,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,104.67,EMP-000018,Manager Milestone Approval and Activation
+GH-000393,GOAL-EMP-000047-197,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000047,Initial Goal Proposal Creation
+GH-000394,GOAL-EMP-000047-197,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,51.13,EMP-000019,Manager Milestone Approval and Activation
+GH-000395,GOAL-EMP-000048-198,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000048,Initial Goal Proposal Creation
+GH-000396,GOAL-EMP-000048-198,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,69.57,EMP-000020,Manager Milestone Approval and Activation
+GH-000397,GOAL-EMP-000049-199,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000049,Initial Goal Proposal Creation
+GH-000398,GOAL-EMP-000049-199,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,66.49,EMP-000021,Manager Milestone Approval and Activation
+GH-000399,GOAL-EMP-000050-200,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000050,Initial Goal Proposal Creation
+GH-000400,GOAL-EMP-000050-200,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,86.8,EMP-000022,Manager Milestone Approval and Activation
+GH-000401,GOAL-EMP-000051-201,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000051,Initial Goal Proposal Creation
+GH-000402,GOAL-EMP-000051-201,2,Increase Automated Test Code Coverage (Q2),ACTIVE,89.41,EMP-000023,Manager Milestone Approval and Activation
+GH-000403,GOAL-EMP-000052-202,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000052,Initial Goal Proposal Creation
+GH-000404,GOAL-EMP-000052-202,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,30.36,EMP-000024,Manager Milestone Approval and Activation
+GH-000405,GOAL-EMP-000053-203,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000053,Initial Goal Proposal Creation
+GH-000406,GOAL-EMP-000053-203,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,44.95,EMP-000025,Manager Milestone Approval and Activation
+GH-000407,GOAL-EMP-000054-204,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000054,Initial Goal Proposal Creation
+GH-000408,GOAL-EMP-000054-204,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,84.62,EMP-000012,Manager Milestone Approval and Activation
+GH-000409,GOAL-EMP-000055-205,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000055,Initial Goal Proposal Creation
+GH-000410,GOAL-EMP-000055-205,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,100.88,EMP-000013,Manager Milestone Approval and Activation
+GH-000411,GOAL-EMP-000056-206,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000056,Initial Goal Proposal Creation
+GH-000412,GOAL-EMP-000056-206,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,94.26,EMP-000014,Manager Milestone Approval and Activation
+GH-000413,GOAL-EMP-000057-207,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000057,Initial Goal Proposal Creation
+GH-000414,GOAL-EMP-000057-207,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,56.7,EMP-000015,Manager Milestone Approval and Activation
+GH-000415,GOAL-EMP-000058-208,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000058,Initial Goal Proposal Creation
+GH-000416,GOAL-EMP-000058-208,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,72.07,EMP-000016,Manager Milestone Approval and Activation
+GH-000417,GOAL-EMP-000059-209,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000059,Initial Goal Proposal Creation
+GH-000418,GOAL-EMP-000059-209,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,68.31,EMP-000017,Manager Milestone Approval and Activation
+GH-000419,GOAL-EMP-000060-210,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000060,Initial Goal Proposal Creation
+GH-000420,GOAL-EMP-000060-210,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,91.14,EMP-000018,Manager Milestone Approval and Activation
+GH-000421,GOAL-EMP-000061-211,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000061,Initial Goal Proposal Creation
+GH-000422,GOAL-EMP-000061-211,2,Increase Automated Test Code Coverage (Q4),COMPLETED,93.64,EMP-000019,Manager Milestone Approval and Activation
+GH-000423,GOAL-EMP-000062-212,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000062,Initial Goal Proposal Creation
+GH-000424,GOAL-EMP-000062-212,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,83.73,EMP-000020,Manager Milestone Approval and Activation
+GH-000425,GOAL-EMP-000063-213,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000063,Initial Goal Proposal Creation
+GH-000426,GOAL-EMP-000063-213,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,48.34,EMP-000021,Manager Milestone Approval and Activation
+GH-000427,GOAL-EMP-000064-214,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000064,Initial Goal Proposal Creation
+GH-000428,GOAL-EMP-000064-214,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,63.4,EMP-000022,Manager Milestone Approval and Activation
+GH-000429,GOAL-EMP-000065-215,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000065,Initial Goal Proposal Creation
+GH-000430,GOAL-EMP-000065-215,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,94.79,EMP-000023,Manager Milestone Approval and Activation
+GH-000431,GOAL-EMP-000066-216,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000066,Initial Goal Proposal Creation
+GH-000432,GOAL-EMP-000066-216,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,89.48,EMP-000024,Manager Milestone Approval and Activation
+GH-000433,GOAL-EMP-000067-217,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000067,Initial Goal Proposal Creation
+GH-000434,GOAL-EMP-000067-217,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,67.4,EMP-000025,Manager Milestone Approval and Activation
+GH-000435,GOAL-EMP-000068-218,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000068,Initial Goal Proposal Creation
+GH-000436,GOAL-EMP-000068-218,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,57.45,EMP-000012,Manager Milestone Approval and Activation
+GH-000437,GOAL-EMP-000069-219,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000069,Initial Goal Proposal Creation
+GH-000438,GOAL-EMP-000069-219,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,56.57,EMP-000013,Manager Milestone Approval and Activation
+GH-000439,GOAL-EMP-000070-220,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000070,Initial Goal Proposal Creation
+GH-000440,GOAL-EMP-000070-220,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,97.32,EMP-000014,Manager Milestone Approval and Activation
+GH-000441,GOAL-EMP-000071-221,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000071,Initial Goal Proposal Creation
+GH-000442,GOAL-EMP-000071-221,2,Increase Automated Test Code Coverage (Q2),ACTIVE,81.6,EMP-000015,Manager Milestone Approval and Activation
+GH-000443,GOAL-EMP-000072-222,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000072,Initial Goal Proposal Creation
+GH-000444,GOAL-EMP-000072-222,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,47.52,EMP-000016,Manager Milestone Approval and Activation
+GH-000445,GOAL-EMP-000073-223,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000073,Initial Goal Proposal Creation
+GH-000446,GOAL-EMP-000073-223,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,75.16,EMP-000017,Manager Milestone Approval and Activation
+GH-000447,GOAL-EMP-000074-224,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000074,Initial Goal Proposal Creation
+GH-000448,GOAL-EMP-000074-224,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,81.93,EMP-000018,Manager Milestone Approval and Activation
+GH-000449,GOAL-EMP-000075-225,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000075,Initial Goal Proposal Creation
+GH-000450,GOAL-EMP-000075-225,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,98.48,EMP-000019,Manager Milestone Approval and Activation
+GH-000451,GOAL-EMP-000076-226,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000076,Initial Goal Proposal Creation
+GH-000452,GOAL-EMP-000076-226,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,94.1,EMP-000020,Manager Milestone Approval and Activation
+GH-000453,GOAL-EMP-000077-227,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000077,Initial Goal Proposal Creation
+GH-000454,GOAL-EMP-000077-227,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,48.68,EMP-000021,Manager Milestone Approval and Activation
+GH-000455,GOAL-EMP-000078-228,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000078,Initial Goal Proposal Creation
+GH-000456,GOAL-EMP-000078-228,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,72.35,EMP-000022,Manager Milestone Approval and Activation
+GH-000457,GOAL-EMP-000079-229,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000079,Initial Goal Proposal Creation
+GH-000458,GOAL-EMP-000079-229,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,63.41,EMP-000023,Manager Milestone Approval and Activation
+GH-000459,GOAL-EMP-000080-230,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000080,Initial Goal Proposal Creation
+GH-000460,GOAL-EMP-000080-230,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,95.02,EMP-000024,Manager Milestone Approval and Activation
+GH-000461,GOAL-EMP-000081-231,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000081,Initial Goal Proposal Creation
+GH-000462,GOAL-EMP-000081-231,2,Increase Automated Test Code Coverage (Q4),COMPLETED,90.95,EMP-000025,Manager Milestone Approval and Activation
+GH-000463,GOAL-EMP-000082-232,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000082,Initial Goal Proposal Creation
+GH-000464,GOAL-EMP-000082-232,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,80.07,EMP-000012,Manager Milestone Approval and Activation
+GH-000465,GOAL-EMP-000083-233,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000083,Initial Goal Proposal Creation
+GH-000466,GOAL-EMP-000083-233,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,56.01,EMP-000013,Manager Milestone Approval and Activation
+GH-000467,GOAL-EMP-000084-234,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000084,Initial Goal Proposal Creation
+GH-000468,GOAL-EMP-000084-234,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,56.02,EMP-000014,Manager Milestone Approval and Activation
+GH-000469,GOAL-EMP-000085-235,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000085,Initial Goal Proposal Creation
+GH-000470,GOAL-EMP-000085-235,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,88.92,EMP-000015,Manager Milestone Approval and Activation
+GH-000471,GOAL-EMP-000086-236,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000086,Initial Goal Proposal Creation
+GH-000472,GOAL-EMP-000086-236,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,82.97,EMP-000016,Manager Milestone Approval and Activation
+GH-000473,GOAL-EMP-000087-237,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000087,Initial Goal Proposal Creation
+GH-000474,GOAL-EMP-000087-237,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,62.75,EMP-000017,Manager Milestone Approval and Activation
+GH-000475,GOAL-EMP-000088-238,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000088,Initial Goal Proposal Creation
+GH-000476,GOAL-EMP-000088-238,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,43.58,EMP-000018,Manager Milestone Approval and Activation
+GH-000477,GOAL-EMP-000089-239,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000089,Initial Goal Proposal Creation
+GH-000478,GOAL-EMP-000089-239,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,54.69,EMP-000019,Manager Milestone Approval and Activation
+GH-000479,GOAL-EMP-000090-240,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000090,Initial Goal Proposal Creation
+GH-000480,GOAL-EMP-000090-240,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,79.32,EMP-000020,Manager Milestone Approval and Activation
+GH-000481,GOAL-EMP-000091-241,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000091,Initial Goal Proposal Creation
+GH-000482,GOAL-EMP-000091-241,2,Increase Automated Test Code Coverage (Q2),COMPLETED,90.28,EMP-000021,Manager Milestone Approval and Activation
+GH-000483,GOAL-EMP-000092-242,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000092,Initial Goal Proposal Creation
+GH-000484,GOAL-EMP-000092-242,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,65.41,EMP-000022,Manager Milestone Approval and Activation
+GH-000485,GOAL-EMP-000093-243,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000093,Initial Goal Proposal Creation
+GH-000486,GOAL-EMP-000093-243,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,63.91,EMP-000023,Manager Milestone Approval and Activation
+GH-000487,GOAL-EMP-000094-244,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000094,Initial Goal Proposal Creation
+GH-000488,GOAL-EMP-000094-244,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,72.72,EMP-000024,Manager Milestone Approval and Activation
+GH-000489,GOAL-EMP-000095-245,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000095,Initial Goal Proposal Creation
+GH-000490,GOAL-EMP-000095-245,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,96.1,EMP-000025,Manager Milestone Approval and Activation
+GH-000491,GOAL-EMP-000096-246,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000096,Initial Goal Proposal Creation
+GH-000492,GOAL-EMP-000096-246,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,78.95,EMP-000012,Manager Milestone Approval and Activation
+GH-000493,GOAL-EMP-000097-247,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000097,Initial Goal Proposal Creation
+GH-000494,GOAL-EMP-000097-247,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,69.61,EMP-000013,Manager Milestone Approval and Activation
+GH-000495,GOAL-EMP-000098-248,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000098,Initial Goal Proposal Creation
+GH-000496,GOAL-EMP-000098-248,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,36.64,EMP-000014,Manager Milestone Approval and Activation
+GH-000497,GOAL-EMP-000099-249,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000099,Initial Goal Proposal Creation
+GH-000498,GOAL-EMP-000099-249,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,50.12,EMP-000015,Manager Milestone Approval and Activation
+GH-000499,GOAL-EMP-000100-250,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000100,Initial Goal Proposal Creation
+GH-000500,GOAL-EMP-000100-250,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,83.63,EMP-000016,Manager Milestone Approval and Activation
+GH-000501,GOAL-EMP-000101-251,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000101,Initial Goal Proposal Creation
+GH-000502,GOAL-EMP-000101-251,2,Increase Automated Test Code Coverage (Q4),ACTIVE,87.26,EMP-000017,Manager Milestone Approval and Activation
+GH-000503,GOAL-EMP-000102-252,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000102,Initial Goal Proposal Creation
+GH-000504,GOAL-EMP-000102-252,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,40.29,EMP-000018,Manager Milestone Approval and Activation
+GH-000505,GOAL-EMP-000103-253,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000103,Initial Goal Proposal Creation
+GH-000506,GOAL-EMP-000103-253,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,57.59,EMP-000019,Manager Milestone Approval and Activation
+GH-000507,GOAL-EMP-000104-254,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000104,Initial Goal Proposal Creation
+GH-000508,GOAL-EMP-000104-254,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,50.64,EMP-000020,Manager Milestone Approval and Activation
+GH-000509,GOAL-EMP-000105-255,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000105,Initial Goal Proposal Creation
+GH-000510,GOAL-EMP-000105-255,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,93.67,EMP-000021,Manager Milestone Approval and Activation
+GH-000511,GOAL-EMP-000106-256,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000106,Initial Goal Proposal Creation
+GH-000512,GOAL-EMP-000106-256,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,95.52,EMP-000022,Manager Milestone Approval and Activation
+GH-000513,GOAL-EMP-000107-257,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000107,Initial Goal Proposal Creation
+GH-000514,GOAL-EMP-000107-257,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,51.53,EMP-000023,Manager Milestone Approval and Activation
+GH-000515,GOAL-EMP-000108-258,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000108,Initial Goal Proposal Creation
+GH-000516,GOAL-EMP-000108-258,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,47.22,EMP-000024,Manager Milestone Approval and Activation
+GH-000517,GOAL-EMP-000109-259,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000109,Initial Goal Proposal Creation
+GH-000518,GOAL-EMP-000109-259,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,55.94,EMP-000025,Manager Milestone Approval and Activation
+GH-000519,GOAL-EMP-000110-260,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000110,Initial Goal Proposal Creation
+GH-000520,GOAL-EMP-000110-260,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,89.0,EMP-000012,Manager Milestone Approval and Activation
+GH-000521,GOAL-EMP-000111-261,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000111,Initial Goal Proposal Creation
+GH-000522,GOAL-EMP-000111-261,2,Increase Automated Test Code Coverage (Q2),ACTIVE,87.52,EMP-000013,Manager Milestone Approval and Activation
+GH-000523,GOAL-EMP-000112-262,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000112,Initial Goal Proposal Creation
+GH-000524,GOAL-EMP-000112-262,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,58.79,EMP-000014,Manager Milestone Approval and Activation
+GH-000525,GOAL-EMP-000113-263,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000113,Initial Goal Proposal Creation
+GH-000526,GOAL-EMP-000113-263,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,44.12,EMP-000015,Manager Milestone Approval and Activation
+GH-000527,GOAL-EMP-000114-264,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000114,Initial Goal Proposal Creation
+GH-000528,GOAL-EMP-000114-264,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,94.18,EMP-000016,Manager Milestone Approval and Activation
+GH-000529,GOAL-EMP-000115-265,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000115,Initial Goal Proposal Creation
+GH-000530,GOAL-EMP-000115-265,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,94.23,EMP-000017,Manager Milestone Approval and Activation
+GH-000531,GOAL-EMP-000116-266,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000116,Initial Goal Proposal Creation
+GH-000532,GOAL-EMP-000116-266,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,87.97,EMP-000018,Manager Milestone Approval and Activation
+GH-000533,GOAL-EMP-000117-267,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000117,Initial Goal Proposal Creation
+GH-000534,GOAL-EMP-000117-267,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,42.96,EMP-000019,Manager Milestone Approval and Activation
+GH-000535,GOAL-EMP-000118-268,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000118,Initial Goal Proposal Creation
+GH-000536,GOAL-EMP-000118-268,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,78.9,EMP-000020,Manager Milestone Approval and Activation
+GH-000537,GOAL-EMP-000119-269,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000119,Initial Goal Proposal Creation
+GH-000538,GOAL-EMP-000119-269,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,47.01,EMP-000021,Manager Milestone Approval and Activation
+GH-000539,GOAL-EMP-000120-270,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000120,Initial Goal Proposal Creation
+GH-000540,GOAL-EMP-000120-270,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,101.25,EMP-000022,Manager Milestone Approval and Activation
+GH-000541,GOAL-EMP-000121-271,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000121,Initial Goal Proposal Creation
+GH-000542,GOAL-EMP-000121-271,2,Increase Automated Test Code Coverage (Q4),COMPLETED,97.23,EMP-000023,Manager Milestone Approval and Activation
+GH-000543,GOAL-EMP-000122-272,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000122,Initial Goal Proposal Creation
+GH-000544,GOAL-EMP-000122-272,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,68.1,EMP-000024,Manager Milestone Approval and Activation
+GH-000545,GOAL-EMP-000123-273,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000123,Initial Goal Proposal Creation
+GH-000546,GOAL-EMP-000123-273,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,60.35,EMP-000025,Manager Milestone Approval and Activation
+GH-000547,GOAL-EMP-000124-274,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000124,Initial Goal Proposal Creation
+GH-000548,GOAL-EMP-000124-274,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,43.21,EMP-000012,Manager Milestone Approval and Activation
+GH-000549,GOAL-EMP-000125-275,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000125,Initial Goal Proposal Creation
+GH-000550,GOAL-EMP-000125-275,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,92.85,EMP-000013,Manager Milestone Approval and Activation
+GH-000551,GOAL-EMP-000126-276,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000126,Initial Goal Proposal Creation
+GH-000552,GOAL-EMP-000126-276,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,95.07,EMP-000014,Manager Milestone Approval and Activation
+GH-000553,GOAL-EMP-000127-277,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000127,Initial Goal Proposal Creation
+GH-000554,GOAL-EMP-000127-277,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,55.85,EMP-000015,Manager Milestone Approval and Activation
+GH-000555,GOAL-EMP-000128-278,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000128,Initial Goal Proposal Creation
+GH-000556,GOAL-EMP-000128-278,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,47.31,EMP-000016,Manager Milestone Approval and Activation
+GH-000557,GOAL-EMP-000129-279,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000129,Initial Goal Proposal Creation
+GH-000558,GOAL-EMP-000129-279,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,46.4,EMP-000017,Manager Milestone Approval and Activation
+GH-000559,GOAL-EMP-000130-280,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000130,Initial Goal Proposal Creation
+GH-000560,GOAL-EMP-000130-280,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,76.57,EMP-000018,Manager Milestone Approval and Activation
+GH-000561,GOAL-EMP-000131-281,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000131,Initial Goal Proposal Creation
+GH-000562,GOAL-EMP-000131-281,2,Increase Automated Test Code Coverage (Q2),COMPLETED,103.6,EMP-000019,Manager Milestone Approval and Activation
+GH-000563,GOAL-EMP-000132-282,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000132,Initial Goal Proposal Creation
+GH-000564,GOAL-EMP-000132-282,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,65.79,EMP-000020,Manager Milestone Approval and Activation
+GH-000565,GOAL-EMP-000133-283,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000133,Initial Goal Proposal Creation
+GH-000566,GOAL-EMP-000133-283,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,86.56,EMP-000021,Manager Milestone Approval and Activation
+GH-000567,GOAL-EMP-000134-284,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000134,Initial Goal Proposal Creation
+GH-000568,GOAL-EMP-000134-284,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,84.82,EMP-000022,Manager Milestone Approval and Activation
+GH-000569,GOAL-EMP-000135-285,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000135,Initial Goal Proposal Creation
+GH-000570,GOAL-EMP-000135-285,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,97.81,EMP-000023,Manager Milestone Approval and Activation
+GH-000571,GOAL-EMP-000136-286,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000136,Initial Goal Proposal Creation
+GH-000572,GOAL-EMP-000136-286,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,84.21,EMP-000024,Manager Milestone Approval and Activation
+GH-000573,GOAL-EMP-000137-287,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000137,Initial Goal Proposal Creation
+GH-000574,GOAL-EMP-000137-287,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,56.91,EMP-000025,Manager Milestone Approval and Activation
+GH-000575,GOAL-EMP-000138-288,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000138,Initial Goal Proposal Creation
+GH-000576,GOAL-EMP-000138-288,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,41.43,EMP-000012,Manager Milestone Approval and Activation
+GH-000577,GOAL-EMP-000139-289,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000139,Initial Goal Proposal Creation
+GH-000578,GOAL-EMP-000139-289,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,55.34,EMP-000013,Manager Milestone Approval and Activation
+GH-000579,GOAL-EMP-000140-290,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000140,Initial Goal Proposal Creation
+GH-000580,GOAL-EMP-000140-290,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,87.35,EMP-000014,Manager Milestone Approval and Activation
+GH-000581,GOAL-EMP-000141-291,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000141,Initial Goal Proposal Creation
+GH-000582,GOAL-EMP-000141-291,2,Increase Automated Test Code Coverage (Q4),COMPLETED,94.15,EMP-000015,Manager Milestone Approval and Activation
+GH-000583,GOAL-EMP-000142-292,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000142,Initial Goal Proposal Creation
+GH-000584,GOAL-EMP-000142-292,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,39.96,EMP-000016,Manager Milestone Approval and Activation
+GH-000585,GOAL-EMP-000143-293,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000143,Initial Goal Proposal Creation
+GH-000586,GOAL-EMP-000143-293,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,52.49,EMP-000017,Manager Milestone Approval and Activation
+GH-000587,GOAL-EMP-000144-294,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000144,Initial Goal Proposal Creation
+GH-000588,GOAL-EMP-000144-294,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,29.36,EMP-000018,Manager Milestone Approval and Activation
+GH-000589,GOAL-EMP-000145-295,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000145,Initial Goal Proposal Creation
+GH-000590,GOAL-EMP-000145-295,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,100.94,EMP-000019,Manager Milestone Approval and Activation
+GH-000591,GOAL-EMP-000146-296,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000146,Initial Goal Proposal Creation
+GH-000592,GOAL-EMP-000146-296,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,87.62,EMP-000020,Manager Milestone Approval and Activation
+GH-000593,GOAL-EMP-000147-297,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000147,Initial Goal Proposal Creation
+GH-000594,GOAL-EMP-000147-297,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,59.97,EMP-000021,Manager Milestone Approval and Activation
+GH-000595,GOAL-EMP-000148-298,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000148,Initial Goal Proposal Creation
+GH-000596,GOAL-EMP-000148-298,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,53.47,EMP-000022,Manager Milestone Approval and Activation
+GH-000597,GOAL-EMP-000149-299,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000149,Initial Goal Proposal Creation
+GH-000598,GOAL-EMP-000149-299,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,52.82,EMP-000023,Manager Milestone Approval and Activation
+GH-000599,GOAL-EMP-000150-300,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000150,Initial Goal Proposal Creation
+GH-000600,GOAL-EMP-000150-300,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,94.49,EMP-000024,Manager Milestone Approval and Activation
+GH-000601,GOAL-EMP-000001-301,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000001,Initial Goal Proposal Creation
+GH-000602,GOAL-EMP-000001-301,2,Increase Automated Test Code Coverage (Q2),COMPLETED,97.76,EMP-000001,Manager Milestone Approval and Activation
+GH-000603,GOAL-EMP-000002-302,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000002,Initial Goal Proposal Creation
+GH-000604,GOAL-EMP-000002-302,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,30.0,EMP-000001,Manager Milestone Approval and Activation
+GH-000605,GOAL-EMP-000003-303,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000003,Initial Goal Proposal Creation
+GH-000606,GOAL-EMP-000003-303,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,60.05,EMP-000001,Manager Milestone Approval and Activation
+GH-000607,GOAL-EMP-000004-304,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000004,Initial Goal Proposal Creation
+GH-000608,GOAL-EMP-000004-304,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,68.01,EMP-000002,Manager Milestone Approval and Activation
+GH-000609,GOAL-EMP-000005-305,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000005,Initial Goal Proposal Creation
+GH-000610,GOAL-EMP-000005-305,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,92.85,EMP-000003,Manager Milestone Approval and Activation
+GH-000611,GOAL-EMP-000006-306,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000006,Initial Goal Proposal Creation
+GH-000612,GOAL-EMP-000006-306,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,86.17,EMP-000002,Manager Milestone Approval and Activation
+GH-000613,GOAL-EMP-000007-307,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000007,Initial Goal Proposal Creation
+GH-000614,GOAL-EMP-000007-307,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,55.43,EMP-000003,Manager Milestone Approval and Activation
+GH-000615,GOAL-EMP-000008-308,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000008,Initial Goal Proposal Creation
+GH-000616,GOAL-EMP-000008-308,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,85.43,EMP-000002,Manager Milestone Approval and Activation
+GH-000617,GOAL-EMP-000009-309,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000009,Initial Goal Proposal Creation
+GH-000618,GOAL-EMP-000009-309,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,45.68,EMP-000003,Manager Milestone Approval and Activation
+GH-000619,GOAL-EMP-000010-310,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000010,Initial Goal Proposal Creation
+GH-000620,GOAL-EMP-000010-310,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,106.01,EMP-000002,Manager Milestone Approval and Activation
+GH-000621,GOAL-EMP-000011-311,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000011,Initial Goal Proposal Creation
+GH-000622,GOAL-EMP-000011-311,2,Increase Automated Test Code Coverage (Q4),ACTIVE,84.74,EMP-000003,Manager Milestone Approval and Activation
+GH-000623,GOAL-EMP-000012-312,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000012,Initial Goal Proposal Creation
+GH-000624,GOAL-EMP-000012-312,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,66.35,EMP-000004,Manager Milestone Approval and Activation
+GH-000625,GOAL-EMP-000013-313,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000013,Initial Goal Proposal Creation
+GH-000626,GOAL-EMP-000013-313,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,68.73,EMP-000005,Manager Milestone Approval and Activation
+GH-000627,GOAL-EMP-000014-314,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000014,Initial Goal Proposal Creation
+GH-000628,GOAL-EMP-000014-314,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,65.18,EMP-000006,Manager Milestone Approval and Activation
+GH-000629,GOAL-EMP-000015-315,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000015,Initial Goal Proposal Creation
+GH-000630,GOAL-EMP-000015-315,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,85.81,EMP-000007,Manager Milestone Approval and Activation
+GH-000631,GOAL-EMP-000016-316,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000016,Initial Goal Proposal Creation
+GH-000632,GOAL-EMP-000016-316,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,100.43,EMP-000008,Manager Milestone Approval and Activation
+GH-000633,GOAL-EMP-000017-317,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000017,Initial Goal Proposal Creation
+GH-000634,GOAL-EMP-000017-317,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,50.26,EMP-000009,Manager Milestone Approval and Activation
+GH-000635,GOAL-EMP-000018-318,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000018,Initial Goal Proposal Creation
+GH-000636,GOAL-EMP-000018-318,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,56.11,EMP-000010,Manager Milestone Approval and Activation
+GH-000637,GOAL-EMP-000019-319,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000019,Initial Goal Proposal Creation
+GH-000638,GOAL-EMP-000019-319,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,85.03,EMP-000011,Manager Milestone Approval and Activation
+GH-000639,GOAL-EMP-000020-320,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000020,Initial Goal Proposal Creation
+GH-000640,GOAL-EMP-000020-320,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,86.67,EMP-000004,Manager Milestone Approval and Activation
+GH-000641,GOAL-EMP-000021-321,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000021,Initial Goal Proposal Creation
+GH-000642,GOAL-EMP-000021-321,2,Increase Automated Test Code Coverage (Q2),COMPLETED,95.99,EMP-000005,Manager Milestone Approval and Activation
+GH-000643,GOAL-EMP-000022-322,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000022,Initial Goal Proposal Creation
+GH-000644,GOAL-EMP-000022-322,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,55.03,EMP-000006,Manager Milestone Approval and Activation
+GH-000645,GOAL-EMP-000023-323,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000023,Initial Goal Proposal Creation
+GH-000646,GOAL-EMP-000023-323,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,28.95,EMP-000007,Manager Milestone Approval and Activation
+GH-000647,GOAL-EMP-000024-324,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000024,Initial Goal Proposal Creation
+GH-000648,GOAL-EMP-000024-324,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,44.94,EMP-000008,Manager Milestone Approval and Activation
+GH-000649,GOAL-EMP-000025-325,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000025,Initial Goal Proposal Creation
+GH-000650,GOAL-EMP-000025-325,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,83.0,EMP-000009,Manager Milestone Approval and Activation
+GH-000651,GOAL-EMP-000026-326,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000026,Initial Goal Proposal Creation
+GH-000652,GOAL-EMP-000026-326,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,103.1,EMP-000012,Manager Milestone Approval and Activation
+GH-000653,GOAL-EMP-000027-327,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000027,Initial Goal Proposal Creation
+GH-000654,GOAL-EMP-000027-327,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,59.52,EMP-000013,Manager Milestone Approval and Activation
+GH-000655,GOAL-EMP-000028-328,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000028,Initial Goal Proposal Creation
+GH-000656,GOAL-EMP-000028-328,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,49.61,EMP-000014,Manager Milestone Approval and Activation
+GH-000657,GOAL-EMP-000029-329,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000029,Initial Goal Proposal Creation
+GH-000658,GOAL-EMP-000029-329,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,73.45,EMP-000015,Manager Milestone Approval and Activation
+GH-000659,GOAL-EMP-000030-330,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000030,Initial Goal Proposal Creation
+GH-000660,GOAL-EMP-000030-330,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,89.23,EMP-000016,Manager Milestone Approval and Activation
+GH-000661,GOAL-EMP-000031-331,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000031,Initial Goal Proposal Creation
+GH-000662,GOAL-EMP-000031-331,2,Increase Automated Test Code Coverage (Q4),ACTIVE,87.8,EMP-000017,Manager Milestone Approval and Activation
+GH-000663,GOAL-EMP-000032-332,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000032,Initial Goal Proposal Creation
+GH-000664,GOAL-EMP-000032-332,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,50.72,EMP-000018,Manager Milestone Approval and Activation
+GH-000665,GOAL-EMP-000033-333,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000033,Initial Goal Proposal Creation
+GH-000666,GOAL-EMP-000033-333,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,64.8,EMP-000019,Manager Milestone Approval and Activation
+GH-000667,GOAL-EMP-000034-334,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000034,Initial Goal Proposal Creation
+GH-000668,GOAL-EMP-000034-334,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,40.84,EMP-000020,Manager Milestone Approval and Activation
+GH-000669,GOAL-EMP-000035-335,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000035,Initial Goal Proposal Creation
+GH-000670,GOAL-EMP-000035-335,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,81.94,EMP-000021,Manager Milestone Approval and Activation
+GH-000671,GOAL-EMP-000036-336,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000036,Initial Goal Proposal Creation
+GH-000672,GOAL-EMP-000036-336,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,91.69,EMP-000022,Manager Milestone Approval and Activation
+GH-000673,GOAL-EMP-000037-337,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000037,Initial Goal Proposal Creation
+GH-000674,GOAL-EMP-000037-337,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,35.4,EMP-000023,Manager Milestone Approval and Activation
+GH-000675,GOAL-EMP-000038-338,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000038,Initial Goal Proposal Creation
+GH-000676,GOAL-EMP-000038-338,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,78.84,EMP-000024,Manager Milestone Approval and Activation
+GH-000677,GOAL-EMP-000039-339,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000039,Initial Goal Proposal Creation
+GH-000678,GOAL-EMP-000039-339,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,42.57,EMP-000025,Manager Milestone Approval and Activation
+GH-000679,GOAL-EMP-000040-340,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000040,Initial Goal Proposal Creation
+GH-000680,GOAL-EMP-000040-340,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,77.28,EMP-000012,Manager Milestone Approval and Activation
+GH-000681,GOAL-EMP-000041-341,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000041,Initial Goal Proposal Creation
+GH-000682,GOAL-EMP-000041-341,2,Increase Automated Test Code Coverage (Q2),ACTIVE,88.23,EMP-000013,Manager Milestone Approval and Activation
+GH-000683,GOAL-EMP-000042-342,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000042,Initial Goal Proposal Creation
+GH-000684,GOAL-EMP-000042-342,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,67.06,EMP-000014,Manager Milestone Approval and Activation
+GH-000685,GOAL-EMP-000043-343,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000043,Initial Goal Proposal Creation
+GH-000686,GOAL-EMP-000043-343,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,63.59,EMP-000015,Manager Milestone Approval and Activation
+GH-000687,GOAL-EMP-000044-344,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000044,Initial Goal Proposal Creation
+GH-000688,GOAL-EMP-000044-344,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,63.33,EMP-000016,Manager Milestone Approval and Activation
+GH-000689,GOAL-EMP-000045-345,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000045,Initial Goal Proposal Creation
+GH-000690,GOAL-EMP-000045-345,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,88.12,EMP-000017,Manager Milestone Approval and Activation
+GH-000691,GOAL-EMP-000046-346,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000046,Initial Goal Proposal Creation
+GH-000692,GOAL-EMP-000046-346,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,86.5,EMP-000018,Manager Milestone Approval and Activation
+GH-000693,GOAL-EMP-000047-347,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000047,Initial Goal Proposal Creation
+GH-000694,GOAL-EMP-000047-347,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,35.03,EMP-000019,Manager Milestone Approval and Activation
+GH-000695,GOAL-EMP-000048-348,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000048,Initial Goal Proposal Creation
+GH-000696,GOAL-EMP-000048-348,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,69.83,EMP-000020,Manager Milestone Approval and Activation
+GH-000697,GOAL-EMP-000049-349,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000049,Initial Goal Proposal Creation
+GH-000698,GOAL-EMP-000049-349,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,52.41,EMP-000021,Manager Milestone Approval and Activation
+GH-000699,GOAL-EMP-000050-350,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000050,Initial Goal Proposal Creation
+GH-000700,GOAL-EMP-000050-350,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,90.06,EMP-000022,Manager Milestone Approval and Activation
+GH-000701,GOAL-EMP-000051-351,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000051,Initial Goal Proposal Creation
+GH-000702,GOAL-EMP-000051-351,2,Increase Automated Test Code Coverage (Q4),COMPLETED,92.02,EMP-000023,Manager Milestone Approval and Activation
+GH-000703,GOAL-EMP-000052-352,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000052,Initial Goal Proposal Creation
+GH-000704,GOAL-EMP-000052-352,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,53.02,EMP-000024,Manager Milestone Approval and Activation
+GH-000705,GOAL-EMP-000053-353,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000053,Initial Goal Proposal Creation
+GH-000706,GOAL-EMP-000053-353,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,64.73,EMP-000025,Manager Milestone Approval and Activation
+GH-000707,GOAL-EMP-000054-354,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000054,Initial Goal Proposal Creation
+GH-000708,GOAL-EMP-000054-354,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,62.4,EMP-000012,Manager Milestone Approval and Activation
+GH-000709,GOAL-EMP-000055-355,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000055,Initial Goal Proposal Creation
+GH-000710,GOAL-EMP-000055-355,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,87.52,EMP-000013,Manager Milestone Approval and Activation
+GH-000711,GOAL-EMP-000056-356,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000056,Initial Goal Proposal Creation
+GH-000712,GOAL-EMP-000056-356,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,94.31,EMP-000014,Manager Milestone Approval and Activation
+GH-000713,GOAL-EMP-000057-357,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000057,Initial Goal Proposal Creation
+GH-000714,GOAL-EMP-000057-357,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,56.39,EMP-000015,Manager Milestone Approval and Activation
+GH-000715,GOAL-EMP-000058-358,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000058,Initial Goal Proposal Creation
+GH-000716,GOAL-EMP-000058-358,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,74.57,EMP-000016,Manager Milestone Approval and Activation
+GH-000717,GOAL-EMP-000059-359,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000059,Initial Goal Proposal Creation
+GH-000718,GOAL-EMP-000059-359,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,45.8,EMP-000017,Manager Milestone Approval and Activation
+GH-000719,GOAL-EMP-000060-360,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000060,Initial Goal Proposal Creation
+GH-000720,GOAL-EMP-000060-360,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,86.61,EMP-000018,Manager Milestone Approval and Activation
+GH-000721,GOAL-EMP-000061-361,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000061,Initial Goal Proposal Creation
+GH-000722,GOAL-EMP-000061-361,2,Increase Automated Test Code Coverage (Q2),ACTIVE,81.29,EMP-000019,Manager Milestone Approval and Activation
+GH-000723,GOAL-EMP-000062-362,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000062,Initial Goal Proposal Creation
+GH-000724,GOAL-EMP-000062-362,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,77.17,EMP-000020,Manager Milestone Approval and Activation
+GH-000725,GOAL-EMP-000063-363,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000063,Initial Goal Proposal Creation
+GH-000726,GOAL-EMP-000063-363,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,67.68,EMP-000021,Manager Milestone Approval and Activation
+GH-000727,GOAL-EMP-000064-364,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000064,Initial Goal Proposal Creation
+GH-000728,GOAL-EMP-000064-364,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,67.2,EMP-000022,Manager Milestone Approval and Activation
+GH-000729,GOAL-EMP-000065-365,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000065,Initial Goal Proposal Creation
+GH-000730,GOAL-EMP-000065-365,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,94.5,EMP-000023,Manager Milestone Approval and Activation
+GH-000731,GOAL-EMP-000066-366,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000066,Initial Goal Proposal Creation
+GH-000732,GOAL-EMP-000066-366,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,101.97,EMP-000024,Manager Milestone Approval and Activation
+GH-000733,GOAL-EMP-000067-367,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000067,Initial Goal Proposal Creation
+GH-000734,GOAL-EMP-000067-367,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,52.62,EMP-000025,Manager Milestone Approval and Activation
+GH-000735,GOAL-EMP-000068-368,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000068,Initial Goal Proposal Creation
+GH-000736,GOAL-EMP-000068-368,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,75.27,EMP-000012,Manager Milestone Approval and Activation
+GH-000737,GOAL-EMP-000069-369,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000069,Initial Goal Proposal Creation
+GH-000738,GOAL-EMP-000069-369,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,51.79,EMP-000013,Manager Milestone Approval and Activation
+GH-000739,GOAL-EMP-000070-370,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000070,Initial Goal Proposal Creation
+GH-000740,GOAL-EMP-000070-370,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,84.04,EMP-000014,Manager Milestone Approval and Activation
+GH-000741,GOAL-EMP-000071-371,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000071,Initial Goal Proposal Creation
+GH-000742,GOAL-EMP-000071-371,2,Increase Automated Test Code Coverage (Q4),COMPLETED,95.0,EMP-000015,Manager Milestone Approval and Activation
+GH-000743,GOAL-EMP-000072-372,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000072,Initial Goal Proposal Creation
+GH-000744,GOAL-EMP-000072-372,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,38.61,EMP-000016,Manager Milestone Approval and Activation
+GH-000745,GOAL-EMP-000073-373,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000073,Initial Goal Proposal Creation
+GH-000746,GOAL-EMP-000073-373,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,55.81,EMP-000017,Manager Milestone Approval and Activation
+GH-000747,GOAL-EMP-000074-374,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000074,Initial Goal Proposal Creation
+GH-000748,GOAL-EMP-000074-374,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,58.86,EMP-000018,Manager Milestone Approval and Activation
+GH-000749,GOAL-EMP-000075-375,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000075,Initial Goal Proposal Creation
+GH-000750,GOAL-EMP-000075-375,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,91.96,EMP-000019,Manager Milestone Approval and Activation
+GH-000751,GOAL-EMP-000076-376,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000076,Initial Goal Proposal Creation
+GH-000752,GOAL-EMP-000076-376,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,95.83,EMP-000020,Manager Milestone Approval and Activation
+GH-000753,GOAL-EMP-000077-377,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000077,Initial Goal Proposal Creation
+GH-000754,GOAL-EMP-000077-377,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,42.4,EMP-000021,Manager Milestone Approval and Activation
+GH-000755,GOAL-EMP-000078-378,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000078,Initial Goal Proposal Creation
+GH-000756,GOAL-EMP-000078-378,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,62.52,EMP-000022,Manager Milestone Approval and Activation
+GH-000757,GOAL-EMP-000079-379,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000079,Initial Goal Proposal Creation
+GH-000758,GOAL-EMP-000079-379,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,69.65,EMP-000023,Manager Milestone Approval and Activation
+GH-000759,GOAL-EMP-000080-380,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000080,Initial Goal Proposal Creation
+GH-000760,GOAL-EMP-000080-380,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,81.52,EMP-000024,Manager Milestone Approval and Activation
+GH-000761,GOAL-EMP-000081-381,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000081,Initial Goal Proposal Creation
+GH-000762,GOAL-EMP-000081-381,2,Increase Automated Test Code Coverage (Q2),COMPLETED,97.43,EMP-000025,Manager Milestone Approval and Activation
+GH-000763,GOAL-EMP-000082-382,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000082,Initial Goal Proposal Creation
+GH-000764,GOAL-EMP-000082-382,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,44.59,EMP-000012,Manager Milestone Approval and Activation
+GH-000765,GOAL-EMP-000083-383,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000083,Initial Goal Proposal Creation
+GH-000766,GOAL-EMP-000083-383,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,65.04,EMP-000013,Manager Milestone Approval and Activation
+GH-000767,GOAL-EMP-000084-384,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000084,Initial Goal Proposal Creation
+GH-000768,GOAL-EMP-000084-384,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,65.7,EMP-000014,Manager Milestone Approval and Activation
+GH-000769,GOAL-EMP-000085-385,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000085,Initial Goal Proposal Creation
+GH-000770,GOAL-EMP-000085-385,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,84.21,EMP-000015,Manager Milestone Approval and Activation
+GH-000771,GOAL-EMP-000086-386,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000086,Initial Goal Proposal Creation
+GH-000772,GOAL-EMP-000086-386,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,86.21,EMP-000016,Manager Milestone Approval and Activation
+GH-000773,GOAL-EMP-000087-387,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000087,Initial Goal Proposal Creation
+GH-000774,GOAL-EMP-000087-387,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,47.47,EMP-000017,Manager Milestone Approval and Activation
+GH-000775,GOAL-EMP-000088-388,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000088,Initial Goal Proposal Creation
+GH-000776,GOAL-EMP-000088-388,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,46.01,EMP-000018,Manager Milestone Approval and Activation
+GH-000777,GOAL-EMP-000089-389,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000089,Initial Goal Proposal Creation
+GH-000778,GOAL-EMP-000089-389,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,54.05,EMP-000019,Manager Milestone Approval and Activation
+GH-000779,GOAL-EMP-000090-390,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000090,Initial Goal Proposal Creation
+GH-000780,GOAL-EMP-000090-390,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,90.83,EMP-000020,Manager Milestone Approval and Activation
+GH-000781,GOAL-EMP-000091-391,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000091,Initial Goal Proposal Creation
+GH-000782,GOAL-EMP-000091-391,2,Increase Automated Test Code Coverage (Q4),COMPLETED,103.88,EMP-000021,Manager Milestone Approval and Activation
+GH-000783,GOAL-EMP-000092-392,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000092,Initial Goal Proposal Creation
+GH-000784,GOAL-EMP-000092-392,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,56.33,EMP-000022,Manager Milestone Approval and Activation
+GH-000785,GOAL-EMP-000093-393,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000093,Initial Goal Proposal Creation
+GH-000786,GOAL-EMP-000093-393,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,41.07,EMP-000023,Manager Milestone Approval and Activation
+GH-000787,GOAL-EMP-000094-394,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000094,Initial Goal Proposal Creation
+GH-000788,GOAL-EMP-000094-394,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,43.52,EMP-000024,Manager Milestone Approval and Activation
+GH-000789,GOAL-EMP-000095-395,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000095,Initial Goal Proposal Creation
+GH-000790,GOAL-EMP-000095-395,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,97.94,EMP-000025,Manager Milestone Approval and Activation
+GH-000791,GOAL-EMP-000096-396,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000096,Initial Goal Proposal Creation
+GH-000792,GOAL-EMP-000096-396,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,87.5,EMP-000012,Manager Milestone Approval and Activation
+GH-000793,GOAL-EMP-000097-397,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000097,Initial Goal Proposal Creation
+GH-000794,GOAL-EMP-000097-397,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,36.59,EMP-000013,Manager Milestone Approval and Activation
+GH-000795,GOAL-EMP-000098-398,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000098,Initial Goal Proposal Creation
+GH-000796,GOAL-EMP-000098-398,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,66.15,EMP-000014,Manager Milestone Approval and Activation
+GH-000797,GOAL-EMP-000099-399,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000099,Initial Goal Proposal Creation
+GH-000798,GOAL-EMP-000099-399,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,58.63,EMP-000015,Manager Milestone Approval and Activation
+GH-000799,GOAL-EMP-000100-400,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000100,Initial Goal Proposal Creation
+GH-000800,GOAL-EMP-000100-400,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,91.81,EMP-000016,Manager Milestone Approval and Activation
+GH-000801,GOAL-EMP-000101-401,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000101,Initial Goal Proposal Creation
+GH-000802,GOAL-EMP-000101-401,2,Increase Automated Test Code Coverage (Q2),COMPLETED,98.84,EMP-000017,Manager Milestone Approval and Activation
+GH-000803,GOAL-EMP-000102-402,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000102,Initial Goal Proposal Creation
+GH-000804,GOAL-EMP-000102-402,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,40.03,EMP-000018,Manager Milestone Approval and Activation
+GH-000805,GOAL-EMP-000103-403,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000103,Initial Goal Proposal Creation
+GH-000806,GOAL-EMP-000103-403,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,44.37,EMP-000019,Manager Milestone Approval and Activation
+GH-000807,GOAL-EMP-000104-404,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000104,Initial Goal Proposal Creation
+GH-000808,GOAL-EMP-000104-404,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,63.8,EMP-000020,Manager Milestone Approval and Activation
+GH-000809,GOAL-EMP-000105-405,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000105,Initial Goal Proposal Creation
+GH-000810,GOAL-EMP-000105-405,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,93.02,EMP-000021,Manager Milestone Approval and Activation
+GH-000811,GOAL-EMP-000106-406,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000106,Initial Goal Proposal Creation
+GH-000812,GOAL-EMP-000106-406,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,97.9,EMP-000022,Manager Milestone Approval and Activation
+GH-000813,GOAL-EMP-000107-407,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000107,Initial Goal Proposal Creation
+GH-000814,GOAL-EMP-000107-407,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,53.64,EMP-000023,Manager Milestone Approval and Activation
+GH-000815,GOAL-EMP-000108-408,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000108,Initial Goal Proposal Creation
+GH-000816,GOAL-EMP-000108-408,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,66.02,EMP-000024,Manager Milestone Approval and Activation
+GH-000817,GOAL-EMP-000109-409,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000109,Initial Goal Proposal Creation
+GH-000818,GOAL-EMP-000109-409,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,41.21,EMP-000025,Manager Milestone Approval and Activation
+GH-000819,GOAL-EMP-000110-410,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000110,Initial Goal Proposal Creation
+GH-000820,GOAL-EMP-000110-410,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,97.69,EMP-000012,Manager Milestone Approval and Activation
+GH-000821,GOAL-EMP-000111-411,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000111,Initial Goal Proposal Creation
+GH-000822,GOAL-EMP-000111-411,2,Increase Automated Test Code Coverage (Q4),COMPLETED,92.11,EMP-000013,Manager Milestone Approval and Activation
+GH-000823,GOAL-EMP-000112-412,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000112,Initial Goal Proposal Creation
+GH-000824,GOAL-EMP-000112-412,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,66.72,EMP-000014,Manager Milestone Approval and Activation
+GH-000825,GOAL-EMP-000113-413,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000113,Initial Goal Proposal Creation
+GH-000826,GOAL-EMP-000113-413,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,76.58,EMP-000015,Manager Milestone Approval and Activation
+GH-000827,GOAL-EMP-000114-414,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000114,Initial Goal Proposal Creation
+GH-000828,GOAL-EMP-000114-414,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,60.72,EMP-000016,Manager Milestone Approval and Activation
+GH-000829,GOAL-EMP-000115-415,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000115,Initial Goal Proposal Creation
+GH-000830,GOAL-EMP-000115-415,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,93.08,EMP-000017,Manager Milestone Approval and Activation
+GH-000831,GOAL-EMP-000116-416,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000116,Initial Goal Proposal Creation
+GH-000832,GOAL-EMP-000116-416,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,80.81,EMP-000018,Manager Milestone Approval and Activation
+GH-000833,GOAL-EMP-000117-417,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000117,Initial Goal Proposal Creation
+GH-000834,GOAL-EMP-000117-417,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,60.51,EMP-000019,Manager Milestone Approval and Activation
+GH-000835,GOAL-EMP-000118-418,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000118,Initial Goal Proposal Creation
+GH-000836,GOAL-EMP-000118-418,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,65.85,EMP-000020,Manager Milestone Approval and Activation
+GH-000837,GOAL-EMP-000119-419,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000119,Initial Goal Proposal Creation
+GH-000838,GOAL-EMP-000119-419,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,76.55,EMP-000021,Manager Milestone Approval and Activation
+GH-000839,GOAL-EMP-000120-420,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000120,Initial Goal Proposal Creation
+GH-000840,GOAL-EMP-000120-420,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,88.86,EMP-000022,Manager Milestone Approval and Activation
+GH-000841,GOAL-EMP-000121-421,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000121,Initial Goal Proposal Creation
+GH-000842,GOAL-EMP-000121-421,2,Increase Automated Test Code Coverage (Q2),COMPLETED,97.29,EMP-000023,Manager Milestone Approval and Activation
+GH-000843,GOAL-EMP-000122-422,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000122,Initial Goal Proposal Creation
+GH-000844,GOAL-EMP-000122-422,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,27.97,EMP-000024,Manager Milestone Approval and Activation
+GH-000845,GOAL-EMP-000123-423,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000123,Initial Goal Proposal Creation
+GH-000846,GOAL-EMP-000123-423,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,78.74,EMP-000025,Manager Milestone Approval and Activation
+GH-000847,GOAL-EMP-000124-424,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000124,Initial Goal Proposal Creation
+GH-000848,GOAL-EMP-000124-424,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,65.72,EMP-000012,Manager Milestone Approval and Activation
+GH-000849,GOAL-EMP-000125-425,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000125,Initial Goal Proposal Creation
+GH-000850,GOAL-EMP-000125-425,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,99.27,EMP-000013,Manager Milestone Approval and Activation
+GH-000851,GOAL-EMP-000126-426,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000126,Initial Goal Proposal Creation
+GH-000852,GOAL-EMP-000126-426,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,84.36,EMP-000014,Manager Milestone Approval and Activation
+GH-000853,GOAL-EMP-000127-427,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000127,Initial Goal Proposal Creation
+GH-000854,GOAL-EMP-000127-427,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,85.58,EMP-000015,Manager Milestone Approval and Activation
+GH-000855,GOAL-EMP-000128-428,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000128,Initial Goal Proposal Creation
+GH-000856,GOAL-EMP-000128-428,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,64.27,EMP-000016,Manager Milestone Approval and Activation
+GH-000857,GOAL-EMP-000129-429,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000129,Initial Goal Proposal Creation
+GH-000858,GOAL-EMP-000129-429,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,47.8,EMP-000017,Manager Milestone Approval and Activation
+GH-000859,GOAL-EMP-000130-430,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000130,Initial Goal Proposal Creation
+GH-000860,GOAL-EMP-000130-430,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,95.81,EMP-000018,Manager Milestone Approval and Activation
+GH-000861,GOAL-EMP-000131-431,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000131,Initial Goal Proposal Creation
+GH-000862,GOAL-EMP-000131-431,2,Increase Automated Test Code Coverage (Q4),COMPLETED,100.71,EMP-000019,Manager Milestone Approval and Activation
+GH-000863,GOAL-EMP-000132-432,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000132,Initial Goal Proposal Creation
+GH-000864,GOAL-EMP-000132-432,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,73.8,EMP-000020,Manager Milestone Approval and Activation
+GH-000865,GOAL-EMP-000133-433,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000133,Initial Goal Proposal Creation
+GH-000866,GOAL-EMP-000133-433,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,63.63,EMP-000021,Manager Milestone Approval and Activation
+GH-000867,GOAL-EMP-000134-434,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000134,Initial Goal Proposal Creation
+GH-000868,GOAL-EMP-000134-434,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,62.24,EMP-000022,Manager Milestone Approval and Activation
+GH-000869,GOAL-EMP-000135-435,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000135,Initial Goal Proposal Creation
+GH-000870,GOAL-EMP-000135-435,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,90.1,EMP-000023,Manager Milestone Approval and Activation
+GH-000871,GOAL-EMP-000136-436,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000136,Initial Goal Proposal Creation
+GH-000872,GOAL-EMP-000136-436,2,Conduct Engineering Mentorship Cohorts (Q1),ACTIVE,80.0,EMP-000024,Manager Milestone Approval and Activation
+GH-000873,GOAL-EMP-000137-437,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000137,Initial Goal Proposal Creation
+GH-000874,GOAL-EMP-000137-437,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,57.98,EMP-000025,Manager Milestone Approval and Activation
+GH-000875,GOAL-EMP-000138-438,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000138,Initial Goal Proposal Creation
+GH-000876,GOAL-EMP-000138-438,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,51.55,EMP-000012,Manager Milestone Approval and Activation
+GH-000877,GOAL-EMP-000139-439,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000139,Initial Goal Proposal Creation
+GH-000878,GOAL-EMP-000139-439,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,59.83,EMP-000013,Manager Milestone Approval and Activation
+GH-000879,GOAL-EMP-000140-440,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000140,Initial Goal Proposal Creation
+GH-000880,GOAL-EMP-000140-440,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,103.03,EMP-000014,Manager Milestone Approval and Activation
+GH-000881,GOAL-EMP-000141-441,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000141,Initial Goal Proposal Creation
+GH-000882,GOAL-EMP-000141-441,2,Increase Automated Test Code Coverage (Q2),COMPLETED,92.14,EMP-000015,Manager Milestone Approval and Activation
+GH-000883,GOAL-EMP-000142-442,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000142,Initial Goal Proposal Creation
+GH-000884,GOAL-EMP-000142-442,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,50.45,EMP-000016,Manager Milestone Approval and Activation
+GH-000885,GOAL-EMP-000143-443,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000143,Initial Goal Proposal Creation
+GH-000886,GOAL-EMP-000143-443,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,74.32,EMP-000017,Manager Milestone Approval and Activation
+GH-000887,GOAL-EMP-000144-444,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000144,Initial Goal Proposal Creation
+GH-000888,GOAL-EMP-000144-444,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,37.51,EMP-000018,Manager Milestone Approval and Activation
+GH-000889,GOAL-EMP-000145-445,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000145,Initial Goal Proposal Creation
+GH-000890,GOAL-EMP-000145-445,2,Publish Internal Architecture Tech Radars (Q2),ACTIVE,80.35,EMP-000019,Manager Milestone Approval and Activation
+GH-000891,GOAL-EMP-000146-446,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000146,Initial Goal Proposal Creation
+GH-000892,GOAL-EMP-000146-446,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,93.38,EMP-000020,Manager Milestone Approval and Activation
+GH-000893,GOAL-EMP-000147-447,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000147,Initial Goal Proposal Creation
+GH-000894,GOAL-EMP-000147-447,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,55.25,EMP-000021,Manager Milestone Approval and Activation
+GH-000895,GOAL-EMP-000148-448,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000148,Initial Goal Proposal Creation
+GH-000896,GOAL-EMP-000148-448,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,53.71,EMP-000022,Manager Milestone Approval and Activation
+GH-000897,GOAL-EMP-000149-449,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000149,Initial Goal Proposal Creation
+GH-000898,GOAL-EMP-000149-449,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,71.91,EMP-000023,Manager Milestone Approval and Activation
+GH-000899,GOAL-EMP-000150-450,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000150,Initial Goal Proposal Creation
+GH-000900,GOAL-EMP-000150-450,2,Improve System Latency & P99 Response Time (Q3),ACTIVE,86.35,EMP-000024,Manager Milestone Approval and Activation
+GH-000901,GOAL-EMP-000001-451,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000001,Initial Goal Proposal Creation
+GH-000902,GOAL-EMP-000001-451,2,Increase Automated Test Code Coverage (Q4),ACTIVE,86.32,EMP-000001,Manager Milestone Approval and Activation
+GH-000903,GOAL-EMP-000002-452,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000002,Initial Goal Proposal Creation
+GH-000904,GOAL-EMP-000002-452,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,56.58,EMP-000001,Manager Milestone Approval and Activation
+GH-000905,GOAL-EMP-000003-453,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000003,Initial Goal Proposal Creation
+GH-000906,GOAL-EMP-000003-453,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,62.37,EMP-000001,Manager Milestone Approval and Activation
+GH-000907,GOAL-EMP-000004-454,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000004,Initial Goal Proposal Creation
+GH-000908,GOAL-EMP-000004-454,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,86.35,EMP-000002,Manager Milestone Approval and Activation
+GH-000909,GOAL-EMP-000005-455,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000005,Initial Goal Proposal Creation
+GH-000910,GOAL-EMP-000005-455,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,92.88,EMP-000003,Manager Milestone Approval and Activation
+GH-000911,GOAL-EMP-000006-456,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000006,Initial Goal Proposal Creation
+GH-000912,GOAL-EMP-000006-456,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,101.93,EMP-000002,Manager Milestone Approval and Activation
+GH-000913,GOAL-EMP-000007-457,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000007,Initial Goal Proposal Creation
+GH-000914,GOAL-EMP-000007-457,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,59.69,EMP-000003,Manager Milestone Approval and Activation
+GH-000915,GOAL-EMP-000008-458,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000008,Initial Goal Proposal Creation
+GH-000916,GOAL-EMP-000008-458,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,73.45,EMP-000002,Manager Milestone Approval and Activation
+GH-000917,GOAL-EMP-000009-459,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000009,Initial Goal Proposal Creation
+GH-000918,GOAL-EMP-000009-459,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,52.46,EMP-000003,Manager Milestone Approval and Activation
+GH-000919,GOAL-EMP-000010-460,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000010,Initial Goal Proposal Creation
+GH-000920,GOAL-EMP-000010-460,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,101.55,EMP-000002,Manager Milestone Approval and Activation
+GH-000921,GOAL-EMP-000011-461,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000011,Initial Goal Proposal Creation
+GH-000922,GOAL-EMP-000011-461,2,Increase Automated Test Code Coverage (Q2),COMPLETED,97.65,EMP-000003,Manager Milestone Approval and Activation
+GH-000923,GOAL-EMP-000012-462,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000012,Initial Goal Proposal Creation
+GH-000924,GOAL-EMP-000012-462,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,53.65,EMP-000004,Manager Milestone Approval and Activation
+GH-000925,GOAL-EMP-000013-463,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000013,Initial Goal Proposal Creation
+GH-000926,GOAL-EMP-000013-463,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,77.52,EMP-000005,Manager Milestone Approval and Activation
+GH-000927,GOAL-EMP-000014-464,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000014,Initial Goal Proposal Creation
+GH-000928,GOAL-EMP-000014-464,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,57.19,EMP-000006,Manager Milestone Approval and Activation
+GH-000929,GOAL-EMP-000015-465,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000015,Initial Goal Proposal Creation
+GH-000930,GOAL-EMP-000015-465,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,90.33,EMP-000007,Manager Milestone Approval and Activation
+GH-000931,GOAL-EMP-000016-466,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000016,Initial Goal Proposal Creation
+GH-000932,GOAL-EMP-000016-466,2,Conduct Engineering Mentorship Cohorts (Q3),COMPLETED,101.22,EMP-000008,Manager Milestone Approval and Activation
+GH-000933,GOAL-EMP-000017-467,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000017,Initial Goal Proposal Creation
+GH-000934,GOAL-EMP-000017-467,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,64.56,EMP-000009,Manager Milestone Approval and Activation
+GH-000935,GOAL-EMP-000018-468,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000018,Initial Goal Proposal Creation
+GH-000936,GOAL-EMP-000018-468,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,75.49,EMP-000010,Manager Milestone Approval and Activation
+GH-000937,GOAL-EMP-000019-469,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000019,Initial Goal Proposal Creation
+GH-000938,GOAL-EMP-000019-469,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,65.53,EMP-000011,Manager Milestone Approval and Activation
+GH-000939,GOAL-EMP-000020-470,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000020,Initial Goal Proposal Creation
+GH-000940,GOAL-EMP-000020-470,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,96.66,EMP-000004,Manager Milestone Approval and Activation
+GH-000941,GOAL-EMP-000021-471,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000021,Initial Goal Proposal Creation
+GH-000942,GOAL-EMP-000021-471,2,Increase Automated Test Code Coverage (Q4),COMPLETED,92.26,EMP-000005,Manager Milestone Approval and Activation
+GH-000943,GOAL-EMP-000022-472,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000022,Initial Goal Proposal Creation
+GH-000944,GOAL-EMP-000022-472,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,66.45,EMP-000006,Manager Milestone Approval and Activation
+GH-000945,GOAL-EMP-000023-473,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000023,Initial Goal Proposal Creation
+GH-000946,GOAL-EMP-000023-473,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,52.82,EMP-000007,Manager Milestone Approval and Activation
+GH-000947,GOAL-EMP-000024-474,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000024,Initial Goal Proposal Creation
+GH-000948,GOAL-EMP-000024-474,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,26.14,EMP-000008,Manager Milestone Approval and Activation
+GH-000949,GOAL-EMP-000025-475,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000025,Initial Goal Proposal Creation
+GH-000950,GOAL-EMP-000025-475,2,Publish Internal Architecture Tech Radars (Q4),COMPLETED,97.23,EMP-000009,Manager Milestone Approval and Activation
+GH-000951,GOAL-EMP-000026-476,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000026,Initial Goal Proposal Creation
+GH-000952,GOAL-EMP-000026-476,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,108.74,EMP-000012,Manager Milestone Approval and Activation
+GH-000953,GOAL-EMP-000027-477,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000027,Initial Goal Proposal Creation
+GH-000954,GOAL-EMP-000027-477,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,61.15,EMP-000013,Manager Milestone Approval and Activation
+GH-000955,GOAL-EMP-000028-478,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000028,Initial Goal Proposal Creation
+GH-000956,GOAL-EMP-000028-478,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,55.71,EMP-000014,Manager Milestone Approval and Activation
+GH-000957,GOAL-EMP-000029-479,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000029,Initial Goal Proposal Creation
+GH-000958,GOAL-EMP-000029-479,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,68.59,EMP-000015,Manager Milestone Approval and Activation
+GH-000959,GOAL-EMP-000030-480,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000030,Initial Goal Proposal Creation
+GH-000960,GOAL-EMP-000030-480,2,Improve System Latency & P99 Response Time (Q1),ACTIVE,82.23,EMP-000016,Manager Milestone Approval and Activation
+GH-000961,GOAL-EMP-000031-481,1,Increase Automated Test Code Coverage (Q2),DRAFT,0.0,EMP-000031,Initial Goal Proposal Creation
+GH-000962,GOAL-EMP-000031-481,2,Increase Automated Test Code Coverage (Q2),COMPLETED,95.31,EMP-000017,Manager Milestone Approval and Activation
+GH-000963,GOAL-EMP-000032-482,1,Deliver Enterprise SSO & RBAC Module (Q3),DRAFT,0.0,EMP-000032,Initial Goal Proposal Creation
+GH-000964,GOAL-EMP-000032-482,2,Deliver Enterprise SSO & RBAC Module (Q3),ACTIVE,50.6,EMP-000018,Manager Milestone Approval and Activation
+GH-000965,GOAL-EMP-000033-483,1,Reduce Customer Onboarding Churn Rate (Q4),DRAFT,0.0,EMP-000033,Initial Goal Proposal Creation
+GH-000966,GOAL-EMP-000033-483,2,Reduce Customer Onboarding Churn Rate (Q4),ACTIVE,56.97,EMP-000019,Manager Milestone Approval and Activation
+GH-000967,GOAL-EMP-000034-484,1,Expand Strategic Enterprise Pipeline Value (Q1),DRAFT,0.0,EMP-000034,Initial Goal Proposal Creation
+GH-000968,GOAL-EMP-000034-484,2,Expand Strategic Enterprise Pipeline Value (Q1),ACTIVE,84.34,EMP-000020,Manager Milestone Approval and Activation
+GH-000969,GOAL-EMP-000035-485,1,Publish Internal Architecture Tech Radars (Q2),DRAFT,0.0,EMP-000035,Initial Goal Proposal Creation
+GH-000970,GOAL-EMP-000035-485,2,Publish Internal Architecture Tech Radars (Q2),COMPLETED,96.81,EMP-000021,Manager Milestone Approval and Activation
+GH-000971,GOAL-EMP-000036-486,1,Conduct Engineering Mentorship Cohorts (Q3),DRAFT,0.0,EMP-000036,Initial Goal Proposal Creation
+GH-000972,GOAL-EMP-000036-486,2,Conduct Engineering Mentorship Cohorts (Q3),ACTIVE,87.86,EMP-000022,Manager Milestone Approval and Activation
+GH-000973,GOAL-EMP-000037-487,1,Automate Database Migration & Backup Drills (Q4),DRAFT,0.0,EMP-000037,Initial Goal Proposal Creation
+GH-000974,GOAL-EMP-000037-487,2,Automate Database Migration & Backup Drills (Q4),ACTIVE,77.57,EMP-000023,Manager Milestone Approval and Activation
+GH-000975,GOAL-EMP-000038-488,1,Resolve High-Priority Security CVEs within SLA (Q1),DRAFT,0.0,EMP-000038,Initial Goal Proposal Creation
+GH-000976,GOAL-EMP-000038-488,2,Resolve High-Priority Security CVEs within SLA (Q1),ACTIVE,46.75,EMP-000024,Manager Milestone Approval and Activation
+GH-000977,GOAL-EMP-000039-489,1,Optimize Cloud Compute & Infrastructure Spend (Q2),DRAFT,0.0,EMP-000039,Initial Goal Proposal Creation
+GH-000978,GOAL-EMP-000039-489,2,Optimize Cloud Compute & Infrastructure Spend (Q2),ACTIVE,71.48,EMP-000025,Manager Milestone Approval and Activation
+GH-000979,GOAL-EMP-000040-490,1,Improve System Latency & P99 Response Time (Q3),DRAFT,0.0,EMP-000040,Initial Goal Proposal Creation
+GH-000980,GOAL-EMP-000040-490,2,Improve System Latency & P99 Response Time (Q3),COMPLETED,92.71,EMP-000012,Manager Milestone Approval and Activation
+GH-000981,GOAL-EMP-000041-491,1,Increase Automated Test Code Coverage (Q4),DRAFT,0.0,EMP-000041,Initial Goal Proposal Creation
+GH-000982,GOAL-EMP-000041-491,2,Increase Automated Test Code Coverage (Q4),COMPLETED,93.87,EMP-000013,Manager Milestone Approval and Activation
+GH-000983,GOAL-EMP-000042-492,1,Deliver Enterprise SSO & RBAC Module (Q1),DRAFT,0.0,EMP-000042,Initial Goal Proposal Creation
+GH-000984,GOAL-EMP-000042-492,2,Deliver Enterprise SSO & RBAC Module (Q1),ACTIVE,48.41,EMP-000014,Manager Milestone Approval and Activation
+GH-000985,GOAL-EMP-000043-493,1,Reduce Customer Onboarding Churn Rate (Q2),DRAFT,0.0,EMP-000043,Initial Goal Proposal Creation
+GH-000986,GOAL-EMP-000043-493,2,Reduce Customer Onboarding Churn Rate (Q2),ACTIVE,49.37,EMP-000015,Manager Milestone Approval and Activation
+GH-000987,GOAL-EMP-000044-494,1,Expand Strategic Enterprise Pipeline Value (Q3),DRAFT,0.0,EMP-000044,Initial Goal Proposal Creation
+GH-000988,GOAL-EMP-000044-494,2,Expand Strategic Enterprise Pipeline Value (Q3),ACTIVE,40.2,EMP-000016,Manager Milestone Approval and Activation
+GH-000989,GOAL-EMP-000045-495,1,Publish Internal Architecture Tech Radars (Q4),DRAFT,0.0,EMP-000045,Initial Goal Proposal Creation
+GH-000990,GOAL-EMP-000045-495,2,Publish Internal Architecture Tech Radars (Q4),ACTIVE,87.4,EMP-000017,Manager Milestone Approval and Activation
+GH-000991,GOAL-EMP-000046-496,1,Conduct Engineering Mentorship Cohorts (Q1),DRAFT,0.0,EMP-000046,Initial Goal Proposal Creation
+GH-000992,GOAL-EMP-000046-496,2,Conduct Engineering Mentorship Cohorts (Q1),COMPLETED,90.19,EMP-000018,Manager Milestone Approval and Activation
+GH-000993,GOAL-EMP-000047-497,1,Automate Database Migration & Backup Drills (Q2),DRAFT,0.0,EMP-000047,Initial Goal Proposal Creation
+GH-000994,GOAL-EMP-000047-497,2,Automate Database Migration & Backup Drills (Q2),ACTIVE,73.05,EMP-000019,Manager Milestone Approval and Activation
+GH-000995,GOAL-EMP-000048-498,1,Resolve High-Priority Security CVEs within SLA (Q3),DRAFT,0.0,EMP-000048,Initial Goal Proposal Creation
+GH-000996,GOAL-EMP-000048-498,2,Resolve High-Priority Security CVEs within SLA (Q3),ACTIVE,46.45,EMP-000020,Manager Milestone Approval and Activation
+GH-000997,GOAL-EMP-000049-499,1,Optimize Cloud Compute & Infrastructure Spend (Q4),DRAFT,0.0,EMP-000049,Initial Goal Proposal Creation
+GH-000998,GOAL-EMP-000049-499,2,Optimize Cloud Compute & Infrastructure Spend (Q4),ACTIVE,78.93,EMP-000021,Manager Milestone Approval and Activation
+GH-000999,GOAL-EMP-000050-500,1,Improve System Latency & P99 Response Time (Q1),DRAFT,0.0,EMP-000050,Initial Goal Proposal Creation
+GH-001000,GOAL-EMP-000050-500,2,Improve System Latency & P99 Response Time (Q1),COMPLETED,91.69,EMP-000022,Manager Milestone Approval and Activation

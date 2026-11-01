@@ -1,0 +1,2386 @@
+[
+  {
+    "permission_id": "RP-000001",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000002",
+    "reviewer_employee_id": "EMP-000010",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000001"
+  },
+  {
+    "permission_id": "RP-000002",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000003",
+    "reviewer_employee_id": "EMP-000013",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000001"
+  },
+  {
+    "permission_id": "RP-000003",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000004",
+    "reviewer_employee_id": "EMP-000014",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000004",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000005",
+    "reviewer_employee_id": "EMP-000017",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000005",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000006",
+    "reviewer_employee_id": "EMP-000018",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000006",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000007",
+    "reviewer_employee_id": "EMP-000021",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000007",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000008",
+    "reviewer_employee_id": "EMP-000022",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000008",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000009",
+    "reviewer_employee_id": "EMP-000025",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000009",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000010",
+    "reviewer_employee_id": "EMP-000026",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000010",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000011",
+    "reviewer_employee_id": "EMP-000029",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000011",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000012",
+    "reviewer_employee_id": "EMP-000030",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000004"
+  },
+  {
+    "permission_id": "RP-000012",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000013",
+    "reviewer_employee_id": "EMP-000033",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000005"
+  },
+  {
+    "permission_id": "RP-000013",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000014",
+    "reviewer_employee_id": "EMP-000034",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000006"
+  },
+  {
+    "permission_id": "RP-000014",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000015",
+    "reviewer_employee_id": "EMP-000037",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000007"
+  },
+  {
+    "permission_id": "RP-000015",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000016",
+    "reviewer_employee_id": "EMP-000038",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000008"
+  },
+  {
+    "permission_id": "RP-000016",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000017",
+    "reviewer_employee_id": "EMP-000041",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000009"
+  },
+  {
+    "permission_id": "RP-000017",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000018",
+    "reviewer_employee_id": "EMP-000042",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000010"
+  },
+  {
+    "permission_id": "RP-000018",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000019",
+    "reviewer_employee_id": "EMP-000045",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000011"
+  },
+  {
+    "permission_id": "RP-000019",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000020",
+    "reviewer_employee_id": "EMP-000046",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000004"
+  },
+  {
+    "permission_id": "RP-000020",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000021",
+    "reviewer_employee_id": "EMP-000049",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000005"
+  },
+  {
+    "permission_id": "RP-000021",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000022",
+    "reviewer_employee_id": "EMP-000050",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000006"
+  },
+  {
+    "permission_id": "RP-000022",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000023",
+    "reviewer_employee_id": "EMP-000053",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000007"
+  },
+  {
+    "permission_id": "RP-000023",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000024",
+    "reviewer_employee_id": "EMP-000054",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000008"
+  },
+  {
+    "permission_id": "RP-000024",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000025",
+    "reviewer_employee_id": "EMP-000057",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000009"
+  },
+  {
+    "permission_id": "RP-000025",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000026",
+    "reviewer_employee_id": "EMP-000058",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000026",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000027",
+    "reviewer_employee_id": "EMP-000061",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000027",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000028",
+    "reviewer_employee_id": "EMP-000062",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000028",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000029",
+    "reviewer_employee_id": "EMP-000065",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000029",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000030",
+    "reviewer_employee_id": "EMP-000066",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000030",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000031",
+    "reviewer_employee_id": "EMP-000069",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000031",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000032",
+    "reviewer_employee_id": "EMP-000070",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000032",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000033",
+    "reviewer_employee_id": "EMP-000073",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000033",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000034",
+    "reviewer_employee_id": "EMP-000074",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000034",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000035",
+    "reviewer_employee_id": "EMP-000077",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000035",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000036",
+    "reviewer_employee_id": "EMP-000078",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000036",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000037",
+    "reviewer_employee_id": "EMP-000081",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000037",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000038",
+    "reviewer_employee_id": "EMP-000082",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000038",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000039",
+    "reviewer_employee_id": "EMP-000085",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000039",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000040",
+    "reviewer_employee_id": "EMP-000086",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000040",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000041",
+    "reviewer_employee_id": "EMP-000089",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000041",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000042",
+    "reviewer_employee_id": "EMP-000090",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000042",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000043",
+    "reviewer_employee_id": "EMP-000093",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000043",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000044",
+    "reviewer_employee_id": "EMP-000094",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000044",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000045",
+    "reviewer_employee_id": "EMP-000097",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000045",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000046",
+    "reviewer_employee_id": "EMP-000098",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000046",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000047",
+    "reviewer_employee_id": "EMP-000101",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000047",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000048",
+    "reviewer_employee_id": "EMP-000102",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000048",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000049",
+    "reviewer_employee_id": "EMP-000105",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000049",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000050",
+    "reviewer_employee_id": "EMP-000106",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000050",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000051",
+    "reviewer_employee_id": "EMP-000109",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000051",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000052",
+    "reviewer_employee_id": "EMP-000110",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000052",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000053",
+    "reviewer_employee_id": "EMP-000113",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000053",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000054",
+    "reviewer_employee_id": "EMP-000114",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000054",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000055",
+    "reviewer_employee_id": "EMP-000117",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000055",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000056",
+    "reviewer_employee_id": "EMP-000118",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000056",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000057",
+    "reviewer_employee_id": "EMP-000121",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000057",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000058",
+    "reviewer_employee_id": "EMP-000122",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000058",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000059",
+    "reviewer_employee_id": "EMP-000125",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000059",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000060",
+    "reviewer_employee_id": "EMP-000126",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000060",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000061",
+    "reviewer_employee_id": "EMP-000129",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000061",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000062",
+    "reviewer_employee_id": "EMP-000130",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000062",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000063",
+    "reviewer_employee_id": "EMP-000133",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000063",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000064",
+    "reviewer_employee_id": "EMP-000134",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000064",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000065",
+    "reviewer_employee_id": "EMP-000137",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000065",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000066",
+    "reviewer_employee_id": "EMP-000138",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000066",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000067",
+    "reviewer_employee_id": "EMP-000141",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000067",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000068",
+    "reviewer_employee_id": "EMP-000142",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000068",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000069",
+    "reviewer_employee_id": "EMP-000145",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000069",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000070",
+    "reviewer_employee_id": "EMP-000146",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000070",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000071",
+    "reviewer_employee_id": "EMP-000149",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000071",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000072",
+    "reviewer_employee_id": "EMP-000150",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000072",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000073",
+    "reviewer_employee_id": "EMP-000005",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000073",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000074",
+    "reviewer_employee_id": "EMP-000004",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000074",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000075",
+    "reviewer_employee_id": "EMP-000009",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000075",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000076",
+    "reviewer_employee_id": "EMP-000008",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000076",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000077",
+    "reviewer_employee_id": "EMP-000013",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000077",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000078",
+    "reviewer_employee_id": "EMP-000012",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000078",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000079",
+    "reviewer_employee_id": "EMP-000017",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000079",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000080",
+    "reviewer_employee_id": "EMP-000016",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000080",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000081",
+    "reviewer_employee_id": "EMP-000021",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000081",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000082",
+    "reviewer_employee_id": "EMP-000020",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000082",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000083",
+    "reviewer_employee_id": "EMP-000025",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000083",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000084",
+    "reviewer_employee_id": "EMP-000024",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000084",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000085",
+    "reviewer_employee_id": "EMP-000029",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000085",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000086",
+    "reviewer_employee_id": "EMP-000028",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000086",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000087",
+    "reviewer_employee_id": "EMP-000033",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000087",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000088",
+    "reviewer_employee_id": "EMP-000032",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000088",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000089",
+    "reviewer_employee_id": "EMP-000037",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000089",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000090",
+    "reviewer_employee_id": "EMP-000036",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000090",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000091",
+    "reviewer_employee_id": "EMP-000041",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000091",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000092",
+    "reviewer_employee_id": "EMP-000040",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000092",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000093",
+    "reviewer_employee_id": "EMP-000045",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000093",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000094",
+    "reviewer_employee_id": "EMP-000044",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000094",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000095",
+    "reviewer_employee_id": "EMP-000049",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000095",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000096",
+    "reviewer_employee_id": "EMP-000048",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000096",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000097",
+    "reviewer_employee_id": "EMP-000053",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000097",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000098",
+    "reviewer_employee_id": "EMP-000052",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000098",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000099",
+    "reviewer_employee_id": "EMP-000057",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000099",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000100",
+    "reviewer_employee_id": "EMP-000056",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000100",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000101",
+    "reviewer_employee_id": "EMP-000061",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000101",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000102",
+    "reviewer_employee_id": "EMP-000060",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000102",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000103",
+    "reviewer_employee_id": "EMP-000065",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000103",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000104",
+    "reviewer_employee_id": "EMP-000064",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000104",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000105",
+    "reviewer_employee_id": "EMP-000069",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000105",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000106",
+    "reviewer_employee_id": "EMP-000068",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000106",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000107",
+    "reviewer_employee_id": "EMP-000073",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000107",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000108",
+    "reviewer_employee_id": "EMP-000072",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000108",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000109",
+    "reviewer_employee_id": "EMP-000077",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000109",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000110",
+    "reviewer_employee_id": "EMP-000076",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000110",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000111",
+    "reviewer_employee_id": "EMP-000081",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000111",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000112",
+    "reviewer_employee_id": "EMP-000080",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000112",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000113",
+    "reviewer_employee_id": "EMP-000085",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000113",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000114",
+    "reviewer_employee_id": "EMP-000084",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000114",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000115",
+    "reviewer_employee_id": "EMP-000089",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000115",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000116",
+    "reviewer_employee_id": "EMP-000088",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000116",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000117",
+    "reviewer_employee_id": "EMP-000093",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000117",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000118",
+    "reviewer_employee_id": "EMP-000092",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000118",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000119",
+    "reviewer_employee_id": "EMP-000097",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000119",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000120",
+    "reviewer_employee_id": "EMP-000096",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000120",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000121",
+    "reviewer_employee_id": "EMP-000101",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000121",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000122",
+    "reviewer_employee_id": "EMP-000100",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000122",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000123",
+    "reviewer_employee_id": "EMP-000105",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000123",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000124",
+    "reviewer_employee_id": "EMP-000104",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000124",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000125",
+    "reviewer_employee_id": "EMP-000109",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000125",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000126",
+    "reviewer_employee_id": "EMP-000108",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000126",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000127",
+    "reviewer_employee_id": "EMP-000113",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000127",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000128",
+    "reviewer_employee_id": "EMP-000112",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000128",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000129",
+    "reviewer_employee_id": "EMP-000117",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000129",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000130",
+    "reviewer_employee_id": "EMP-000116",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000130",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000131",
+    "reviewer_employee_id": "EMP-000121",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000131",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000132",
+    "reviewer_employee_id": "EMP-000120",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000132",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000133",
+    "reviewer_employee_id": "EMP-000125",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000133",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000134",
+    "reviewer_employee_id": "EMP-000124",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000134",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000135",
+    "reviewer_employee_id": "EMP-000129",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000135",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000136",
+    "reviewer_employee_id": "EMP-000128",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000136",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000137",
+    "reviewer_employee_id": "EMP-000133",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000137",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000138",
+    "reviewer_employee_id": "EMP-000132",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000138",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000139",
+    "reviewer_employee_id": "EMP-000137",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000139",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000140",
+    "reviewer_employee_id": "EMP-000136",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000140",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000141",
+    "reviewer_employee_id": "EMP-000143",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000141",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000142",
+    "reviewer_employee_id": "EMP-000140",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000142",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000143",
+    "reviewer_employee_id": "EMP-000147",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000143",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000144",
+    "reviewer_employee_id": "EMP-000146",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000144",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000145",
+    "reviewer_employee_id": "EMP-000003",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000145",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000146",
+    "reviewer_employee_id": "EMP-000150",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000146",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000147",
+    "reviewer_employee_id": "EMP-000007",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000147",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000148",
+    "reviewer_employee_id": "EMP-000004",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000148",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000149",
+    "reviewer_employee_id": "EMP-000011",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000149",
+    "review_cycle_id": "CYCLE-2025-H2",
+    "subject_employee_id": "EMP-000150",
+    "reviewer_employee_id": "EMP-000008",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000150",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000002",
+    "reviewer_employee_id": "EMP-000012",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000001"
+  },
+  {
+    "permission_id": "RP-000151",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000003",
+    "reviewer_employee_id": "EMP-000015",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000001"
+  },
+  {
+    "permission_id": "RP-000152",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000004",
+    "reviewer_employee_id": "EMP-000016",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000153",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000005",
+    "reviewer_employee_id": "EMP-000019",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000154",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000006",
+    "reviewer_employee_id": "EMP-000020",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000155",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000007",
+    "reviewer_employee_id": "EMP-000023",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000156",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000008",
+    "reviewer_employee_id": "EMP-000024",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000157",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000009",
+    "reviewer_employee_id": "EMP-000027",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000158",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000010",
+    "reviewer_employee_id": "EMP-000028",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000002"
+  },
+  {
+    "permission_id": "RP-000159",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000011",
+    "reviewer_employee_id": "EMP-000031",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000003"
+  },
+  {
+    "permission_id": "RP-000160",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000012",
+    "reviewer_employee_id": "EMP-000032",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000004"
+  },
+  {
+    "permission_id": "RP-000161",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000013",
+    "reviewer_employee_id": "EMP-000035",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000005"
+  },
+  {
+    "permission_id": "RP-000162",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000014",
+    "reviewer_employee_id": "EMP-000036",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000006"
+  },
+  {
+    "permission_id": "RP-000163",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000015",
+    "reviewer_employee_id": "EMP-000039",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000007"
+  },
+  {
+    "permission_id": "RP-000164",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000016",
+    "reviewer_employee_id": "EMP-000040",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000008"
+  },
+  {
+    "permission_id": "RP-000165",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000017",
+    "reviewer_employee_id": "EMP-000043",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000009"
+  },
+  {
+    "permission_id": "RP-000166",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000018",
+    "reviewer_employee_id": "EMP-000044",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000010"
+  },
+  {
+    "permission_id": "RP-000167",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000019",
+    "reviewer_employee_id": "EMP-000047",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000011"
+  },
+  {
+    "permission_id": "RP-000168",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000020",
+    "reviewer_employee_id": "EMP-000048",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000004"
+  },
+  {
+    "permission_id": "RP-000169",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000021",
+    "reviewer_employee_id": "EMP-000051",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000005"
+  },
+  {
+    "permission_id": "RP-000170",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000022",
+    "reviewer_employee_id": "EMP-000052",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000006"
+  },
+  {
+    "permission_id": "RP-000171",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000023",
+    "reviewer_employee_id": "EMP-000055",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000007"
+  },
+  {
+    "permission_id": "RP-000172",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000024",
+    "reviewer_employee_id": "EMP-000056",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000008"
+  },
+  {
+    "permission_id": "RP-000173",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000025",
+    "reviewer_employee_id": "EMP-000059",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000009"
+  },
+  {
+    "permission_id": "RP-000174",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000026",
+    "reviewer_employee_id": "EMP-000060",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000175",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000027",
+    "reviewer_employee_id": "EMP-000063",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000176",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000028",
+    "reviewer_employee_id": "EMP-000064",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000177",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000029",
+    "reviewer_employee_id": "EMP-000067",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000178",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000030",
+    "reviewer_employee_id": "EMP-000068",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000179",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000031",
+    "reviewer_employee_id": "EMP-000071",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000180",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000032",
+    "reviewer_employee_id": "EMP-000072",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000181",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000033",
+    "reviewer_employee_id": "EMP-000075",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000182",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000034",
+    "reviewer_employee_id": "EMP-000076",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000183",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000035",
+    "reviewer_employee_id": "EMP-000079",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000184",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000036",
+    "reviewer_employee_id": "EMP-000080",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000185",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000037",
+    "reviewer_employee_id": "EMP-000083",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000186",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000038",
+    "reviewer_employee_id": "EMP-000084",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000187",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000039",
+    "reviewer_employee_id": "EMP-000087",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000188",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000040",
+    "reviewer_employee_id": "EMP-000088",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000189",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000041",
+    "reviewer_employee_id": "EMP-000091",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000190",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000042",
+    "reviewer_employee_id": "EMP-000092",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000191",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000043",
+    "reviewer_employee_id": "EMP-000095",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000192",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000044",
+    "reviewer_employee_id": "EMP-000096",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000193",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000045",
+    "reviewer_employee_id": "EMP-000099",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000194",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000046",
+    "reviewer_employee_id": "EMP-000100",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000195",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000047",
+    "reviewer_employee_id": "EMP-000103",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000196",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000048",
+    "reviewer_employee_id": "EMP-000104",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000197",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000049",
+    "reviewer_employee_id": "EMP-000107",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000198",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000050",
+    "reviewer_employee_id": "EMP-000108",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000199",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000051",
+    "reviewer_employee_id": "EMP-000111",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000200",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000052",
+    "reviewer_employee_id": "EMP-000112",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000201",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000053",
+    "reviewer_employee_id": "EMP-000115",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000202",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000054",
+    "reviewer_employee_id": "EMP-000116",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000203",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000055",
+    "reviewer_employee_id": "EMP-000119",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000204",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000056",
+    "reviewer_employee_id": "EMP-000120",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000205",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000057",
+    "reviewer_employee_id": "EMP-000123",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000206",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000058",
+    "reviewer_employee_id": "EMP-000124",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000207",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000059",
+    "reviewer_employee_id": "EMP-000127",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000208",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000060",
+    "reviewer_employee_id": "EMP-000128",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000209",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000061",
+    "reviewer_employee_id": "EMP-000131",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000210",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000062",
+    "reviewer_employee_id": "EMP-000132",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000211",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000063",
+    "reviewer_employee_id": "EMP-000135",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000212",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000064",
+    "reviewer_employee_id": "EMP-000136",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000213",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000065",
+    "reviewer_employee_id": "EMP-000139",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000214",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000066",
+    "reviewer_employee_id": "EMP-000140",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000215",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000067",
+    "reviewer_employee_id": "EMP-000143",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000216",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000068",
+    "reviewer_employee_id": "EMP-000144",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000217",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000069",
+    "reviewer_employee_id": "EMP-000147",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000218",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000070",
+    "reviewer_employee_id": "EMP-000148",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000219",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000071",
+    "reviewer_employee_id": "EMP-000003",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000220",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000072",
+    "reviewer_employee_id": "EMP-000002",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000221",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000073",
+    "reviewer_employee_id": "EMP-000007",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000222",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000074",
+    "reviewer_employee_id": "EMP-000006",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000223",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000075",
+    "reviewer_employee_id": "EMP-000011",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000224",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000076",
+    "reviewer_employee_id": "EMP-000010",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000225",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000077",
+    "reviewer_employee_id": "EMP-000015",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000226",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000078",
+    "reviewer_employee_id": "EMP-000014",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000227",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000079",
+    "reviewer_employee_id": "EMP-000019",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000228",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000080",
+    "reviewer_employee_id": "EMP-000018",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000229",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000081",
+    "reviewer_employee_id": "EMP-000023",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000230",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000082",
+    "reviewer_employee_id": "EMP-000022",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000231",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000083",
+    "reviewer_employee_id": "EMP-000027",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000232",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000084",
+    "reviewer_employee_id": "EMP-000026",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000233",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000085",
+    "reviewer_employee_id": "EMP-000031",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000234",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000086",
+    "reviewer_employee_id": "EMP-000030",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000235",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000087",
+    "reviewer_employee_id": "EMP-000035",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000236",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000088",
+    "reviewer_employee_id": "EMP-000034",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000237",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000089",
+    "reviewer_employee_id": "EMP-000039",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000238",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000090",
+    "reviewer_employee_id": "EMP-000038",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000239",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000091",
+    "reviewer_employee_id": "EMP-000043",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000240",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000092",
+    "reviewer_employee_id": "EMP-000042",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000241",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000093",
+    "reviewer_employee_id": "EMP-000047",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000242",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000094",
+    "reviewer_employee_id": "EMP-000046",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000243",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000095",
+    "reviewer_employee_id": "EMP-000051",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000244",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000096",
+    "reviewer_employee_id": "EMP-000050",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000245",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000097",
+    "reviewer_employee_id": "EMP-000055",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000246",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000098",
+    "reviewer_employee_id": "EMP-000054",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000247",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000099",
+    "reviewer_employee_id": "EMP-000059",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000248",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000100",
+    "reviewer_employee_id": "EMP-000058",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000249",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000101",
+    "reviewer_employee_id": "EMP-000063",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000250",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000102",
+    "reviewer_employee_id": "EMP-000062",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000251",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000103",
+    "reviewer_employee_id": "EMP-000067",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000252",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000104",
+    "reviewer_employee_id": "EMP-000066",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000253",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000105",
+    "reviewer_employee_id": "EMP-000071",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000254",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000106",
+    "reviewer_employee_id": "EMP-000070",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000255",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000107",
+    "reviewer_employee_id": "EMP-000075",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000256",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000108",
+    "reviewer_employee_id": "EMP-000074",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000257",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000109",
+    "reviewer_employee_id": "EMP-000079",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000258",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000110",
+    "reviewer_employee_id": "EMP-000078",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000259",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000111",
+    "reviewer_employee_id": "EMP-000083",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000260",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000112",
+    "reviewer_employee_id": "EMP-000082",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000261",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000113",
+    "reviewer_employee_id": "EMP-000087",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000262",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000114",
+    "reviewer_employee_id": "EMP-000086",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000263",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000115",
+    "reviewer_employee_id": "EMP-000091",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000264",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000116",
+    "reviewer_employee_id": "EMP-000090",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000265",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000117",
+    "reviewer_employee_id": "EMP-000095",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000266",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000118",
+    "reviewer_employee_id": "EMP-000094",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000267",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000119",
+    "reviewer_employee_id": "EMP-000099",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000268",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000120",
+    "reviewer_employee_id": "EMP-000098",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000269",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000121",
+    "reviewer_employee_id": "EMP-000103",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000270",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000122",
+    "reviewer_employee_id": "EMP-000102",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000271",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000123",
+    "reviewer_employee_id": "EMP-000107",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000272",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000124",
+    "reviewer_employee_id": "EMP-000106",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000273",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000125",
+    "reviewer_employee_id": "EMP-000111",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000274",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000126",
+    "reviewer_employee_id": "EMP-000110",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000275",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000127",
+    "reviewer_employee_id": "EMP-000115",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000276",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000128",
+    "reviewer_employee_id": "EMP-000114",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000277",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000129",
+    "reviewer_employee_id": "EMP-000119",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000278",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000130",
+    "reviewer_employee_id": "EMP-000118",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000279",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000131",
+    "reviewer_employee_id": "EMP-000123",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000280",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000132",
+    "reviewer_employee_id": "EMP-000122",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000281",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000133",
+    "reviewer_employee_id": "EMP-000127",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000282",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000134",
+    "reviewer_employee_id": "EMP-000126",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000283",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000135",
+    "reviewer_employee_id": "EMP-000131",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000284",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000136",
+    "reviewer_employee_id": "EMP-000130",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  },
+  {
+    "permission_id": "RP-000285",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000137",
+    "reviewer_employee_id": "EMP-000135",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000025"
+  },
+  {
+    "permission_id": "RP-000286",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000138",
+    "reviewer_employee_id": "EMP-000134",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000012"
+  },
+  {
+    "permission_id": "RP-000287",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000139",
+    "reviewer_employee_id": "EMP-000141",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000013"
+  },
+  {
+    "permission_id": "RP-000288",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000140",
+    "reviewer_employee_id": "EMP-000138",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000014"
+  },
+  {
+    "permission_id": "RP-000289",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000141",
+    "reviewer_employee_id": "EMP-000145",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000015"
+  },
+  {
+    "permission_id": "RP-000290",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000142",
+    "reviewer_employee_id": "EMP-000144",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000016"
+  },
+  {
+    "permission_id": "RP-000291",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000143",
+    "reviewer_employee_id": "EMP-000149",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000017"
+  },
+  {
+    "permission_id": "RP-000292",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000144",
+    "reviewer_employee_id": "EMP-000148",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000018"
+  },
+  {
+    "permission_id": "RP-000293",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000145",
+    "reviewer_employee_id": "EMP-000005",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000019"
+  },
+  {
+    "permission_id": "RP-000294",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000146",
+    "reviewer_employee_id": "EMP-000002",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000020"
+  },
+  {
+    "permission_id": "RP-000295",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000147",
+    "reviewer_employee_id": "EMP-000009",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000021"
+  },
+  {
+    "permission_id": "RP-000296",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000148",
+    "reviewer_employee_id": "EMP-000006",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000022"
+  },
+  {
+    "permission_id": "RP-000297",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000149",
+    "reviewer_employee_id": "EMP-000013",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000023"
+  },
+  {
+    "permission_id": "RP-000298",
+    "review_cycle_id": "CYCLE-2026-H1",
+    "subject_employee_id": "EMP-000150",
+    "reviewer_employee_id": "EMP-000010",
+    "relationship_type": "PEER",
+    "granted_by": "EMP-000024"
+  }
+]

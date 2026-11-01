@@ -1,0 +1,702 @@
+[
+  {
+    "event_id": "AUD-000001",
+    "actor_id": "EMP-000001",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000001-001",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Increase Automated Test Code Coverage (Q2)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000002",
+    "actor_id": "EMP-000002",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000002-002",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Deliver Enterprise SSO & RBAC Module (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000003",
+    "actor_id": "EMP-000003",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000003-003",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Reduce Customer Onboarding Churn Rate (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000004",
+    "actor_id": "EMP-000004",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000004-004",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Expand Strategic Enterprise Pipeline Value (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000005",
+    "actor_id": "EMP-000005",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000005-005",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Publish Internal Architecture Tech Radars (Q2)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000006",
+    "actor_id": "EMP-000006",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000006-006",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Conduct Engineering Mentorship Cohorts (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000007",
+    "actor_id": "EMP-000007",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000007-007",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Automate Database Migration & Backup Drills (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000008",
+    "actor_id": "EMP-000008",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000008-008",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Resolve High-Priority Security CVEs within SLA (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000009",
+    "actor_id": "EMP-000009",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000009-009",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Optimize Cloud Compute & Infrastructure Spend (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000010",
+    "actor_id": "EMP-000010",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000010-010",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Improve System Latency & P99 Response Time (Q3)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000011",
+    "actor_id": "EMP-000011",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000011-011",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Increase Automated Test Code Coverage (Q4)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000012",
+    "actor_id": "EMP-000012",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000012-012",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Deliver Enterprise SSO & RBAC Module (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000013",
+    "actor_id": "EMP-000013",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000013-013",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Reduce Customer Onboarding Churn Rate (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000014",
+    "actor_id": "EMP-000014",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000014-014",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Expand Strategic Enterprise Pipeline Value (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000015",
+    "actor_id": "EMP-000015",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000015-015",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Publish Internal Architecture Tech Radars (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000016",
+    "actor_id": "EMP-000016",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000016-016",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Conduct Engineering Mentorship Cohorts (Q1)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000017",
+    "actor_id": "EMP-000017",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000017-017",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Automate Database Migration & Backup Drills (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000018",
+    "actor_id": "EMP-000018",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000018-018",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Resolve High-Priority Security CVEs within SLA (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000019",
+    "actor_id": "EMP-000019",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000019-019",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Optimize Cloud Compute & Infrastructure Spend (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000020",
+    "actor_id": "EMP-000020",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000020-020",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Improve System Latency & P99 Response Time (Q1)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000021",
+    "actor_id": "EMP-000021",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000021-021",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Increase Automated Test Code Coverage (Q2)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000022",
+    "actor_id": "EMP-000022",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000022-022",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Deliver Enterprise SSO & RBAC Module (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000023",
+    "actor_id": "EMP-000023",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000023-023",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Reduce Customer Onboarding Churn Rate (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000024",
+    "actor_id": "EMP-000024",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000024-024",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Expand Strategic Enterprise Pipeline Value (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000025",
+    "actor_id": "EMP-000025",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000025-025",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Publish Internal Architecture Tech Radars (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000026",
+    "actor_id": "EMP-000026",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000026-026",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Conduct Engineering Mentorship Cohorts (Q3)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000027",
+    "actor_id": "EMP-000027",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000027-027",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Automate Database Migration & Backup Drills (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000028",
+    "actor_id": "EMP-000028",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000028-028",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Resolve High-Priority Security CVEs within SLA (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000029",
+    "actor_id": "EMP-000029",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000029-029",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Optimize Cloud Compute & Infrastructure Spend (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000030",
+    "actor_id": "EMP-000030",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000030-030",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Improve System Latency & P99 Response Time (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000031",
+    "actor_id": "EMP-000031",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000031-031",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Increase Automated Test Code Coverage (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000032",
+    "actor_id": "EMP-000032",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000032-032",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Deliver Enterprise SSO & RBAC Module (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000033",
+    "actor_id": "EMP-000033",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000033-033",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Reduce Customer Onboarding Churn Rate (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000034",
+    "actor_id": "EMP-000034",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000034-034",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Expand Strategic Enterprise Pipeline Value (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000035",
+    "actor_id": "EMP-000035",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000035-035",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Publish Internal Architecture Tech Radars (Q4)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000036",
+    "actor_id": "EMP-000036",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000036-036",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Conduct Engineering Mentorship Cohorts (Q1)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000037",
+    "actor_id": "EMP-000037",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000037-037",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Automate Database Migration & Backup Drills (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000038",
+    "actor_id": "EMP-000038",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000038-038",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Resolve High-Priority Security CVEs within SLA (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000039",
+    "actor_id": "EMP-000039",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000039-039",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Optimize Cloud Compute & Infrastructure Spend (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000040",
+    "actor_id": "EMP-000040",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000040-040",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Improve System Latency & P99 Response Time (Q1)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000041",
+    "actor_id": "EMP-000041",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000041-041",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Increase Automated Test Code Coverage (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000042",
+    "actor_id": "EMP-000042",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000042-042",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Deliver Enterprise SSO & RBAC Module (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000043",
+    "actor_id": "EMP-000043",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000043-043",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Reduce Customer Onboarding Churn Rate (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000044",
+    "actor_id": "EMP-000044",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000044-044",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Expand Strategic Enterprise Pipeline Value (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000045",
+    "actor_id": "EMP-000045",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000045-045",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Publish Internal Architecture Tech Radars (Q2)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000046",
+    "actor_id": "EMP-000046",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000046-046",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Conduct Engineering Mentorship Cohorts (Q3)",
+      "status": "COMPLETED"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000047",
+    "actor_id": "EMP-000047",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000047-047",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Automate Database Migration & Backup Drills (Q4)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000048",
+    "actor_id": "EMP-000048",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000048-048",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Resolve High-Priority Security CVEs within SLA (Q1)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000049",
+    "actor_id": "EMP-000049",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000049-049",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Optimize Cloud Compute & Infrastructure Spend (Q2)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2026-H1",
+    "reason": "OKR Establishment"
+  },
+  {
+    "event_id": "AUD-000050",
+    "actor_id": "EMP-000050",
+    "entity_name": "GOAL",
+    "entity_id": "GOAL-EMP-000050-050",
+    "operation_type": "CREATE",
+    "old_values": null,
+    "new_values": {
+      "title": "Improve System Latency & P99 Response Time (Q3)",
+      "status": "ACTIVE"
+    },
+    "review_cycle_id": "CYCLE-2025-H2",
+    "reason": "OKR Establishment"
+  }
+]

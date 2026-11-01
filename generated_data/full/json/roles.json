@@ -1,0 +1,27 @@
+[
+  {
+    "role_id": "ROLE-EMP",
+    "name": "EMPLOYEE",
+    "description": "Standard employee access: own goals, check-ins, self-review"
+  },
+  {
+    "role_id": "ROLE-MGR",
+    "name": "MANAGER",
+    "description": "Managerial access: direct reports, approvals, team reviews"
+  },
+  {
+    "role_id": "ROLE-HR",
+    "name": "HR_PARTNER",
+    "description": "HR partner: cycle management, calibration, organizational oversight"
+  },
+  {
+    "role_id": "ROLE-OPS",
+    "name": "IT_OPS",
+    "description": "Operations & IT: synthetic generation, validation, system monitoring"
+  },
+  {
+    "role_id": "ROLE-ADM",
+    "name": "ADMIN",
+    "description": "System administrator: full configuration and security administration"
+  }
+]

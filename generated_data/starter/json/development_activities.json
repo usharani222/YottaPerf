@@ -1,0 +1,902 @@
+[
+  {
+    "activity_id": "DA-000001",
+    "plan_id": "DP-000001",
+    "title": "Complete Software Architecture & System Design Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000002",
+    "plan_id": "DP-000001",
+    "title": "Lead Design Review on Software Architecture & System Design for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000003",
+    "plan_id": "DP-000002",
+    "title": "Complete Cross-Functional Collaboration Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000004",
+    "plan_id": "DP-000002",
+    "title": "Lead Design Review on Cross-Functional Collaboration for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000005",
+    "plan_id": "DP-000003",
+    "title": "Complete Strategic Alignment & Execution Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000006",
+    "plan_id": "DP-000003",
+    "title": "Lead Design Review on Strategic Alignment & Execution for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000007",
+    "plan_id": "DP-000004",
+    "title": "Complete Agile Execution & Change Navigation Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000008",
+    "plan_id": "DP-000004",
+    "title": "Lead Design Review on Agile Execution & Change Navigation for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000009",
+    "plan_id": "DP-000005",
+    "title": "Complete Cloud Infrastructure & Scalability Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000010",
+    "plan_id": "DP-000005",
+    "title": "Lead Design Review on Cloud Infrastructure & Scalability for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000011",
+    "plan_id": "DP-000006",
+    "title": "Complete Root Cause Analysis & Debugging Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000012",
+    "plan_id": "DP-000006",
+    "title": "Lead Design Review on Root Cause Analysis & Debugging for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000013",
+    "plan_id": "DP-000007",
+    "title": "Complete Partner Engagement & Empathy Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000014",
+    "plan_id": "DP-000007",
+    "title": "Lead Design Review on Partner Engagement & Empathy for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000015",
+    "plan_id": "DP-000008",
+    "title": "Complete Code Quality & Automated Testing Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000016",
+    "plan_id": "DP-000008",
+    "title": "Lead Design Review on Code Quality & Automated Testing for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000017",
+    "plan_id": "DP-000009",
+    "title": "Complete Technical Documentation & Mentorship Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000018",
+    "plan_id": "DP-000009",
+    "title": "Lead Design Review on Technical Documentation & Mentorship for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000019",
+    "plan_id": "DP-000010",
+    "title": "Complete Team Empowerment & Coaching Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000020",
+    "plan_id": "DP-000010",
+    "title": "Lead Design Review on Team Empowerment & Coaching for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000021",
+    "plan_id": "DP-000011",
+    "title": "Complete Software Architecture & System Design Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000022",
+    "plan_id": "DP-000011",
+    "title": "Lead Design Review on Software Architecture & System Design for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000023",
+    "plan_id": "DP-000012",
+    "title": "Complete Cross-Functional Collaboration Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000024",
+    "plan_id": "DP-000012",
+    "title": "Lead Design Review on Cross-Functional Collaboration for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000025",
+    "plan_id": "DP-000013",
+    "title": "Complete Strategic Alignment & Execution Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000026",
+    "plan_id": "DP-000013",
+    "title": "Lead Design Review on Strategic Alignment & Execution for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000027",
+    "plan_id": "DP-000014",
+    "title": "Complete Agile Execution & Change Navigation Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000028",
+    "plan_id": "DP-000014",
+    "title": "Lead Design Review on Agile Execution & Change Navigation for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000029",
+    "plan_id": "DP-000015",
+    "title": "Complete Cloud Infrastructure & Scalability Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000030",
+    "plan_id": "DP-000015",
+    "title": "Lead Design Review on Cloud Infrastructure & Scalability for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000031",
+    "plan_id": "DP-000016",
+    "title": "Complete Root Cause Analysis & Debugging Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000032",
+    "plan_id": "DP-000016",
+    "title": "Lead Design Review on Root Cause Analysis & Debugging for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000033",
+    "plan_id": "DP-000017",
+    "title": "Complete Partner Engagement & Empathy Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000034",
+    "plan_id": "DP-000017",
+    "title": "Lead Design Review on Partner Engagement & Empathy for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000035",
+    "plan_id": "DP-000018",
+    "title": "Complete Code Quality & Automated Testing Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000036",
+    "plan_id": "DP-000018",
+    "title": "Lead Design Review on Code Quality & Automated Testing for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000037",
+    "plan_id": "DP-000019",
+    "title": "Complete Technical Documentation & Mentorship Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000038",
+    "plan_id": "DP-000019",
+    "title": "Lead Design Review on Technical Documentation & Mentorship for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000039",
+    "plan_id": "DP-000020",
+    "title": "Complete Team Empowerment & Coaching Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000040",
+    "plan_id": "DP-000020",
+    "title": "Lead Design Review on Team Empowerment & Coaching for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000041",
+    "plan_id": "DP-000021",
+    "title": "Complete Software Architecture & System Design Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000042",
+    "plan_id": "DP-000021",
+    "title": "Lead Design Review on Software Architecture & System Design for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000043",
+    "plan_id": "DP-000022",
+    "title": "Complete Cross-Functional Collaboration Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000044",
+    "plan_id": "DP-000022",
+    "title": "Lead Design Review on Cross-Functional Collaboration for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000045",
+    "plan_id": "DP-000023",
+    "title": "Complete Strategic Alignment & Execution Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000046",
+    "plan_id": "DP-000023",
+    "title": "Lead Design Review on Strategic Alignment & Execution for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000047",
+    "plan_id": "DP-000024",
+    "title": "Complete Agile Execution & Change Navigation Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000048",
+    "plan_id": "DP-000024",
+    "title": "Lead Design Review on Agile Execution & Change Navigation for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000049",
+    "plan_id": "DP-000025",
+    "title": "Complete Cloud Infrastructure & Scalability Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000050",
+    "plan_id": "DP-000025",
+    "title": "Lead Design Review on Cloud Infrastructure & Scalability for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000051",
+    "plan_id": "DP-000026",
+    "title": "Complete Root Cause Analysis & Debugging Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000052",
+    "plan_id": "DP-000026",
+    "title": "Lead Design Review on Root Cause Analysis & Debugging for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000053",
+    "plan_id": "DP-000027",
+    "title": "Complete Partner Engagement & Empathy Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000054",
+    "plan_id": "DP-000027",
+    "title": "Lead Design Review on Partner Engagement & Empathy for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000055",
+    "plan_id": "DP-000028",
+    "title": "Complete Code Quality & Automated Testing Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000056",
+    "plan_id": "DP-000028",
+    "title": "Lead Design Review on Code Quality & Automated Testing for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000057",
+    "plan_id": "DP-000029",
+    "title": "Complete Technical Documentation & Mentorship Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000058",
+    "plan_id": "DP-000029",
+    "title": "Lead Design Review on Technical Documentation & Mentorship for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000059",
+    "plan_id": "DP-000030",
+    "title": "Complete Team Empowerment & Coaching Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000060",
+    "plan_id": "DP-000030",
+    "title": "Lead Design Review on Team Empowerment & Coaching for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000061",
+    "plan_id": "DP-000031",
+    "title": "Complete Software Architecture & System Design Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000062",
+    "plan_id": "DP-000031",
+    "title": "Lead Design Review on Software Architecture & System Design for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000063",
+    "plan_id": "DP-000032",
+    "title": "Complete Cross-Functional Collaboration Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000064",
+    "plan_id": "DP-000032",
+    "title": "Lead Design Review on Cross-Functional Collaboration for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000065",
+    "plan_id": "DP-000033",
+    "title": "Complete Strategic Alignment & Execution Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000066",
+    "plan_id": "DP-000033",
+    "title": "Lead Design Review on Strategic Alignment & Execution for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000067",
+    "plan_id": "DP-000034",
+    "title": "Complete Agile Execution & Change Navigation Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000068",
+    "plan_id": "DP-000034",
+    "title": "Lead Design Review on Agile Execution & Change Navigation for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000069",
+    "plan_id": "DP-000035",
+    "title": "Complete Cloud Infrastructure & Scalability Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000070",
+    "plan_id": "DP-000035",
+    "title": "Lead Design Review on Cloud Infrastructure & Scalability for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000071",
+    "plan_id": "DP-000036",
+    "title": "Complete Root Cause Analysis & Debugging Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000072",
+    "plan_id": "DP-000036",
+    "title": "Lead Design Review on Root Cause Analysis & Debugging for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000073",
+    "plan_id": "DP-000037",
+    "title": "Complete Partner Engagement & Empathy Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000074",
+    "plan_id": "DP-000037",
+    "title": "Lead Design Review on Partner Engagement & Empathy for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000075",
+    "plan_id": "DP-000038",
+    "title": "Complete Code Quality & Automated Testing Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000076",
+    "plan_id": "DP-000038",
+    "title": "Lead Design Review on Code Quality & Automated Testing for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000077",
+    "plan_id": "DP-000039",
+    "title": "Complete Technical Documentation & Mentorship Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000078",
+    "plan_id": "DP-000039",
+    "title": "Lead Design Review on Technical Documentation & Mentorship for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000079",
+    "plan_id": "DP-000040",
+    "title": "Complete Team Empowerment & Coaching Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000080",
+    "plan_id": "DP-000040",
+    "title": "Lead Design Review on Team Empowerment & Coaching for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000081",
+    "plan_id": "DP-000041",
+    "title": "Complete Software Architecture & System Design Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000082",
+    "plan_id": "DP-000041",
+    "title": "Lead Design Review on Software Architecture & System Design for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000083",
+    "plan_id": "DP-000042",
+    "title": "Complete Cross-Functional Collaboration Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000084",
+    "plan_id": "DP-000042",
+    "title": "Lead Design Review on Cross-Functional Collaboration for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000085",
+    "plan_id": "DP-000043",
+    "title": "Complete Strategic Alignment & Execution Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000086",
+    "plan_id": "DP-000043",
+    "title": "Lead Design Review on Strategic Alignment & Execution for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000087",
+    "plan_id": "DP-000044",
+    "title": "Complete Agile Execution & Change Navigation Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000088",
+    "plan_id": "DP-000044",
+    "title": "Lead Design Review on Agile Execution & Change Navigation for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000089",
+    "plan_id": "DP-000045",
+    "title": "Complete Cloud Infrastructure & Scalability Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000090",
+    "plan_id": "DP-000045",
+    "title": "Lead Design Review on Cloud Infrastructure & Scalability for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000091",
+    "plan_id": "DP-000046",
+    "title": "Complete Root Cause Analysis & Debugging Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000092",
+    "plan_id": "DP-000046",
+    "title": "Lead Design Review on Root Cause Analysis & Debugging for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000093",
+    "plan_id": "DP-000047",
+    "title": "Complete Partner Engagement & Empathy Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000094",
+    "plan_id": "DP-000047",
+    "title": "Lead Design Review on Partner Engagement & Empathy for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000095",
+    "plan_id": "DP-000048",
+    "title": "Complete Code Quality & Automated Testing Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000096",
+    "plan_id": "DP-000048",
+    "title": "Lead Design Review on Code Quality & Automated Testing for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000097",
+    "plan_id": "DP-000049",
+    "title": "Complete Technical Documentation & Mentorship Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000098",
+    "plan_id": "DP-000049",
+    "title": "Lead Design Review on Technical Documentation & Mentorship for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  },
+  {
+    "activity_id": "DA-000099",
+    "plan_id": "DP-000050",
+    "title": "Complete Team Empowerment & Coaching Intensive Course",
+    "activity_type": "COURSE",
+    "resource_url": "https://learning.yottaperf.internal/courses/arch-301",
+    "status": "COMPLETED",
+    "completed_date": "2026-04-15"
+  },
+  {
+    "activity_id": "DA-000100",
+    "plan_id": "DP-000050",
+    "title": "Lead Design Review on Team Empowerment & Coaching for Team",
+    "activity_type": "PROJECT",
+    "resource_url": "https://wiki.yottaperf.internal/rfc/402",
+    "status": "IN_PROGRESS",
+    "completed_date": null
+  }
+]

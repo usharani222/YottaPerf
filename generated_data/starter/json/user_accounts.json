@@ -1,0 +1,1202 @@
+[
+  {
+    "user_id": "USR-000001",
+    "employee_id": "EMP-000001",
+    "username": "eleanor.vance",
+    "email": "eleanor.vance@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000002",
+    "employee_id": "EMP-000002",
+    "username": "erin.riley",
+    "email": "erin.riley2@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000003",
+    "employee_id": "EMP-000003",
+    "username": "melissa.williams",
+    "email": "melissa.williams3@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000004",
+    "employee_id": "EMP-000004",
+    "username": "madison.hall",
+    "email": "madison.hall4@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000005",
+    "employee_id": "EMP-000005",
+    "username": "aaron.petersen",
+    "email": "aaron.petersen5@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000006",
+    "employee_id": "EMP-000006",
+    "username": "david.gonzalez",
+    "email": "david.gonzalez6@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000007",
+    "employee_id": "EMP-000007",
+    "username": "kyle.miles",
+    "email": "kyle.miles7@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000008",
+    "employee_id": "EMP-000008",
+    "username": "diane.rodriguez",
+    "email": "diane.rodriguez8@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000009",
+    "employee_id": "EMP-000009",
+    "username": "james.hernandez",
+    "email": "james.hernandez9@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000010",
+    "employee_id": "EMP-000010",
+    "username": "darrell.garza",
+    "email": "darrell.garza10@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000011",
+    "employee_id": "EMP-000011",
+    "username": "adam.wilson",
+    "email": "adam.wilson11@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000012",
+    "employee_id": "EMP-000012",
+    "username": "donald.bailey",
+    "email": "donald.bailey12@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000013",
+    "employee_id": "EMP-000013",
+    "username": "brian.bass",
+    "email": "brian.bass13@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000014",
+    "employee_id": "EMP-000014",
+    "username": "eddie.ellis",
+    "email": "eddie.ellis14@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000015",
+    "employee_id": "EMP-000015",
+    "username": "ruth.hart",
+    "email": "ruth.hart15@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000016",
+    "employee_id": "EMP-000016",
+    "username": "william.palmer",
+    "email": "william.palmer16@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000017",
+    "employee_id": "EMP-000017",
+    "username": "cody.thompson",
+    "email": "cody.thompson17@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000018",
+    "employee_id": "EMP-000018",
+    "username": "christina.butler",
+    "email": "christina.butler18@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000019",
+    "employee_id": "EMP-000019",
+    "username": "christopher.bryant",
+    "email": "christopher.bryant19@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000020",
+    "employee_id": "EMP-000020",
+    "username": "kathy.williams",
+    "email": "kathy.williams20@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000021",
+    "employee_id": "EMP-000021",
+    "username": "melissa.bradshaw",
+    "email": "melissa.bradshaw21@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000022",
+    "employee_id": "EMP-000022",
+    "username": "jared.brown",
+    "email": "jared.brown22@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000023",
+    "employee_id": "EMP-000023",
+    "username": "charles.davis",
+    "email": "charles.davis23@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000024",
+    "employee_id": "EMP-000024",
+    "username": "william.smith",
+    "email": "william.smith24@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000025",
+    "employee_id": "EMP-000025",
+    "username": "charles.robinson",
+    "email": "charles.robinson25@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000026",
+    "employee_id": "EMP-000026",
+    "username": "victoria.mendoza26",
+    "email": "victoria.mendoza26@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000027",
+    "employee_id": "EMP-000027",
+    "username": "charles.patel27",
+    "email": "charles.patel27@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000028",
+    "employee_id": "EMP-000028",
+    "username": "katherine.diaz28",
+    "email": "katherine.diaz28@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000029",
+    "employee_id": "EMP-000029",
+    "username": "kelsey.watkins29",
+    "email": "kelsey.watkins29@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000030",
+    "employee_id": "EMP-000030",
+    "username": "vickie.smith30",
+    "email": "vickie.smith30@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000031",
+    "employee_id": "EMP-000031",
+    "username": "timothy.young31",
+    "email": "timothy.young31@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000032",
+    "employee_id": "EMP-000032",
+    "username": "anthony.fletcher32",
+    "email": "anthony.fletcher32@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000033",
+    "employee_id": "EMP-000033",
+    "username": "kevin.black33",
+    "email": "kevin.black33@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000034",
+    "employee_id": "EMP-000034",
+    "username": "joanna.ortega34",
+    "email": "joanna.ortega34@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000035",
+    "employee_id": "EMP-000035",
+    "username": "jessica.vincent35",
+    "email": "jessica.vincent35@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000036",
+    "employee_id": "EMP-000036",
+    "username": "taylor.richard36",
+    "email": "taylor.richard36@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000037",
+    "employee_id": "EMP-000037",
+    "username": "david.barrera37",
+    "email": "david.barrera37@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000038",
+    "employee_id": "EMP-000038",
+    "username": "bonnie.williams38",
+    "email": "bonnie.williams38@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000039",
+    "employee_id": "EMP-000039",
+    "username": "bradley.wagner39",
+    "email": "bradley.wagner39@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000040",
+    "employee_id": "EMP-000040",
+    "username": "alexis.palmer40",
+    "email": "alexis.palmer40@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000041",
+    "employee_id": "EMP-000041",
+    "username": "ryan.stevens41",
+    "email": "ryan.stevens41@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000042",
+    "employee_id": "EMP-000042",
+    "username": "matthew.harris42",
+    "email": "matthew.harris42@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000043",
+    "employee_id": "EMP-000043",
+    "username": "valerie.davidson43",
+    "email": "valerie.davidson43@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000044",
+    "employee_id": "EMP-000044",
+    "username": "carrie.vance44",
+    "email": "carrie.vance44@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000045",
+    "employee_id": "EMP-000045",
+    "username": "ellen.hardy45",
+    "email": "ellen.hardy45@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000046",
+    "employee_id": "EMP-000046",
+    "username": "sara.ramirez46",
+    "email": "sara.ramirez46@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000047",
+    "employee_id": "EMP-000047",
+    "username": "elizabeth.scott47",
+    "email": "elizabeth.scott47@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000048",
+    "employee_id": "EMP-000048",
+    "username": "xavier.sanders48",
+    "email": "xavier.sanders48@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000049",
+    "employee_id": "EMP-000049",
+    "username": "laura.roth49",
+    "email": "laura.roth49@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000050",
+    "employee_id": "EMP-000050",
+    "username": "michael.navarro50",
+    "email": "michael.navarro50@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000051",
+    "employee_id": "EMP-000051",
+    "username": "mary.thompson51",
+    "email": "mary.thompson51@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000052",
+    "employee_id": "EMP-000052",
+    "username": "walter.owens52",
+    "email": "walter.owens52@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000053",
+    "employee_id": "EMP-000053",
+    "username": "kelly.hernandez53",
+    "email": "kelly.hernandez53@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000054",
+    "employee_id": "EMP-000054",
+    "username": "wendy.johnson54",
+    "email": "wendy.johnson54@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000055",
+    "employee_id": "EMP-000055",
+    "username": "danielle.best55",
+    "email": "danielle.best55@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000056",
+    "employee_id": "EMP-000056",
+    "username": "michele.holt56",
+    "email": "michele.holt56@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000057",
+    "employee_id": "EMP-000057",
+    "username": "joseph.fritz57",
+    "email": "joseph.fritz57@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000058",
+    "employee_id": "EMP-000058",
+    "username": "katherine.dixon58",
+    "email": "katherine.dixon58@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000059",
+    "employee_id": "EMP-000059",
+    "username": "mary.martinez59",
+    "email": "mary.martinez59@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000060",
+    "employee_id": "EMP-000060",
+    "username": "kara.gould60",
+    "email": "kara.gould60@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000061",
+    "employee_id": "EMP-000061",
+    "username": "ryan.mcintosh61",
+    "email": "ryan.mcintosh61@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000062",
+    "employee_id": "EMP-000062",
+    "username": "anna.hernandez62",
+    "email": "anna.hernandez62@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000063",
+    "employee_id": "EMP-000063",
+    "username": "john.knight63",
+    "email": "john.knight63@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000064",
+    "employee_id": "EMP-000064",
+    "username": "andrew.reynolds64",
+    "email": "andrew.reynolds64@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000065",
+    "employee_id": "EMP-000065",
+    "username": "barbara.davis65",
+    "email": "barbara.davis65@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000066",
+    "employee_id": "EMP-000066",
+    "username": "richard.drake66",
+    "email": "richard.drake66@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000067",
+    "employee_id": "EMP-000067",
+    "username": "lawrence.mcdowell67",
+    "email": "lawrence.mcdowell67@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000068",
+    "employee_id": "EMP-000068",
+    "username": "catherine.gonzalez68",
+    "email": "catherine.gonzalez68@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000069",
+    "employee_id": "EMP-000069",
+    "username": "jessica.ball69",
+    "email": "jessica.ball69@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000070",
+    "employee_id": "EMP-000070",
+    "username": "nicolas.schmidt70",
+    "email": "nicolas.schmidt70@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000071",
+    "employee_id": "EMP-000071",
+    "username": "bryan.lawson71",
+    "email": "bryan.lawson71@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000072",
+    "employee_id": "EMP-000072",
+    "username": "eric.henry72",
+    "email": "eric.henry72@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000073",
+    "employee_id": "EMP-000073",
+    "username": "james.powell73",
+    "email": "james.powell73@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000074",
+    "employee_id": "EMP-000074",
+    "username": "caleb.moyer74",
+    "email": "caleb.moyer74@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000075",
+    "employee_id": "EMP-000075",
+    "username": "thomas.hickman75",
+    "email": "thomas.hickman75@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000076",
+    "employee_id": "EMP-000076",
+    "username": "nicole.powell76",
+    "email": "nicole.powell76@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000077",
+    "employee_id": "EMP-000077",
+    "username": "roger.lopez77",
+    "email": "roger.lopez77@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000078",
+    "employee_id": "EMP-000078",
+    "username": "joy.cook78",
+    "email": "joy.cook78@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000079",
+    "employee_id": "EMP-000079",
+    "username": "veronica.cain79",
+    "email": "veronica.cain79@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000080",
+    "employee_id": "EMP-000080",
+    "username": "brent.valdez80",
+    "email": "brent.valdez80@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000081",
+    "employee_id": "EMP-000081",
+    "username": "shawn.walker81",
+    "email": "shawn.walker81@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000082",
+    "employee_id": "EMP-000082",
+    "username": "david.mitchell82",
+    "email": "david.mitchell82@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000083",
+    "employee_id": "EMP-000083",
+    "username": "gregory.mendoza83",
+    "email": "gregory.mendoza83@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000084",
+    "employee_id": "EMP-000084",
+    "username": "ronald.foster84",
+    "email": "ronald.foster84@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000085",
+    "employee_id": "EMP-000085",
+    "username": "bryan.walker85",
+    "email": "bryan.walker85@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000086",
+    "employee_id": "EMP-000086",
+    "username": "donald.petty86",
+    "email": "donald.petty86@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000087",
+    "employee_id": "EMP-000087",
+    "username": "jeffrey.dixon87",
+    "email": "jeffrey.dixon87@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000088",
+    "employee_id": "EMP-000088",
+    "username": "steve.jones88",
+    "email": "steve.jones88@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000089",
+    "employee_id": "EMP-000089",
+    "username": "william.duncan89",
+    "email": "william.duncan89@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000090",
+    "employee_id": "EMP-000090",
+    "username": "pamela.pineda90",
+    "email": "pamela.pineda90@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000091",
+    "employee_id": "EMP-000091",
+    "username": "mary.jones91",
+    "email": "mary.jones91@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000092",
+    "employee_id": "EMP-000092",
+    "username": "emily.hardin92",
+    "email": "emily.hardin92@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000093",
+    "employee_id": "EMP-000093",
+    "username": "benjamin.miranda93",
+    "email": "benjamin.miranda93@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000094",
+    "employee_id": "EMP-000094",
+    "username": "angela.keller94",
+    "email": "angela.keller94@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000095",
+    "employee_id": "EMP-000095",
+    "username": "gina.martin95",
+    "email": "gina.martin95@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000096",
+    "employee_id": "EMP-000096",
+    "username": "matthew.nicholson96",
+    "email": "matthew.nicholson96@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000097",
+    "employee_id": "EMP-000097",
+    "username": "april.brewer97",
+    "email": "april.brewer97@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000098",
+    "employee_id": "EMP-000098",
+    "username": "susan.ponce98",
+    "email": "susan.ponce98@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000099",
+    "employee_id": "EMP-000099",
+    "username": "bill.arnold99",
+    "email": "bill.arnold99@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000100",
+    "employee_id": "EMP-000100",
+    "username": "joseph.torres100",
+    "email": "joseph.torres100@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000101",
+    "employee_id": "EMP-000101",
+    "username": "justin.kelly101",
+    "email": "justin.kelly101@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000102",
+    "employee_id": "EMP-000102",
+    "username": "calvin.anderson102",
+    "email": "calvin.anderson102@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000103",
+    "employee_id": "EMP-000103",
+    "username": "christina.ibarra103",
+    "email": "christina.ibarra103@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000104",
+    "employee_id": "EMP-000104",
+    "username": "ronald.white104",
+    "email": "ronald.white104@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000105",
+    "employee_id": "EMP-000105",
+    "username": "shannon.golden105",
+    "email": "shannon.golden105@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000106",
+    "employee_id": "EMP-000106",
+    "username": "louis.harris106",
+    "email": "louis.harris106@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000107",
+    "employee_id": "EMP-000107",
+    "username": "tammy.golden107",
+    "email": "tammy.golden107@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000108",
+    "employee_id": "EMP-000108",
+    "username": "anthony.sutton108",
+    "email": "anthony.sutton108@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000109",
+    "employee_id": "EMP-000109",
+    "username": "david.reed109",
+    "email": "david.reed109@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000110",
+    "employee_id": "EMP-000110",
+    "username": "michael.bailey110",
+    "email": "michael.bailey110@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000111",
+    "employee_id": "EMP-000111",
+    "username": "madison.morgan111",
+    "email": "madison.morgan111@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000112",
+    "employee_id": "EMP-000112",
+    "username": "james.webb112",
+    "email": "james.webb112@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000113",
+    "employee_id": "EMP-000113",
+    "username": "ashley.george113",
+    "email": "ashley.george113@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000114",
+    "employee_id": "EMP-000114",
+    "username": "veronica.martinez114",
+    "email": "veronica.martinez114@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000115",
+    "employee_id": "EMP-000115",
+    "username": "christine.chen115",
+    "email": "christine.chen115@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000116",
+    "employee_id": "EMP-000116",
+    "username": "karen.smith116",
+    "email": "karen.smith116@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000117",
+    "employee_id": "EMP-000117",
+    "username": "kristine.wilson117",
+    "email": "kristine.wilson117@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000118",
+    "employee_id": "EMP-000118",
+    "username": "mason.campbell118",
+    "email": "mason.campbell118@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000119",
+    "employee_id": "EMP-000119",
+    "username": "ryan.lambert119",
+    "email": "ryan.lambert119@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000120",
+    "employee_id": "EMP-000120",
+    "username": "oscar.johnson120",
+    "email": "oscar.johnson120@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000121",
+    "employee_id": "EMP-000121",
+    "username": "danny.warren121",
+    "email": "danny.warren121@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000122",
+    "employee_id": "EMP-000122",
+    "username": "emily.burke122",
+    "email": "emily.burke122@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000123",
+    "employee_id": "EMP-000123",
+    "username": "duane.wolf123",
+    "email": "duane.wolf123@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000124",
+    "employee_id": "EMP-000124",
+    "username": "michael.ramirez124",
+    "email": "michael.ramirez124@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000125",
+    "employee_id": "EMP-000125",
+    "username": "jordan.burgess125",
+    "email": "jordan.burgess125@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000126",
+    "employee_id": "EMP-000126",
+    "username": "autumn.lawrence126",
+    "email": "autumn.lawrence126@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000127",
+    "employee_id": "EMP-000127",
+    "username": "angela.stanton127",
+    "email": "angela.stanton127@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000128",
+    "employee_id": "EMP-000128",
+    "username": "kristie.smith128",
+    "email": "kristie.smith128@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000129",
+    "employee_id": "EMP-000129",
+    "username": "daniel.horn129",
+    "email": "daniel.horn129@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000130",
+    "employee_id": "EMP-000130",
+    "username": "billy.dawson130",
+    "email": "billy.dawson130@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000131",
+    "employee_id": "EMP-000131",
+    "username": "kevin.morris131",
+    "email": "kevin.morris131@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000132",
+    "employee_id": "EMP-000132",
+    "username": "nicholas.brown132",
+    "email": "nicholas.brown132@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000133",
+    "employee_id": "EMP-000133",
+    "username": "lauren.johns133",
+    "email": "lauren.johns133@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000134",
+    "employee_id": "EMP-000134",
+    "username": "brendan.bell134",
+    "email": "brendan.bell134@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000135",
+    "employee_id": "EMP-000135",
+    "username": "heather.alvarado135",
+    "email": "heather.alvarado135@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000136",
+    "employee_id": "EMP-000136",
+    "username": "michael.hopkins136",
+    "email": "michael.hopkins136@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000137",
+    "employee_id": "EMP-000137",
+    "username": "jennifer.johnson137",
+    "email": "jennifer.johnson137@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000138",
+    "employee_id": "EMP-000138",
+    "username": "catherine.ramirez138",
+    "email": "catherine.ramirez138@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000139",
+    "employee_id": "EMP-000139",
+    "username": "jason.chan139",
+    "email": "jason.chan139@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000140",
+    "employee_id": "EMP-000140",
+    "username": "kyle.brown140",
+    "email": "kyle.brown140@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000141",
+    "employee_id": "EMP-000141",
+    "username": "raymond.brown141",
+    "email": "raymond.brown141@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000142",
+    "employee_id": "EMP-000142",
+    "username": "michele.martin142",
+    "email": "michele.martin142@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000143",
+    "employee_id": "EMP-000143",
+    "username": "rebecca.huang143",
+    "email": "rebecca.huang143@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000144",
+    "employee_id": "EMP-000144",
+    "username": "jo.hall144",
+    "email": "jo.hall144@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000145",
+    "employee_id": "EMP-000145",
+    "username": "nicole.humphrey145",
+    "email": "nicole.humphrey145@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000146",
+    "employee_id": "EMP-000146",
+    "username": "kaitlyn.mason146",
+    "email": "kaitlyn.mason146@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000147",
+    "employee_id": "EMP-000147",
+    "username": "bruce.reid147",
+    "email": "bruce.reid147@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000148",
+    "employee_id": "EMP-000148",
+    "username": "leslie.cook148",
+    "email": "leslie.cook148@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000149",
+    "employee_id": "EMP-000149",
+    "username": "michael.jackson149",
+    "email": "michael.jackson149@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  },
+  {
+    "user_id": "USR-000150",
+    "employee_id": "EMP-000150",
+    "username": "rose.willis150",
+    "email": "rose.willis150@yottaperf.internal",
+    "hashed_password": "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6",
+    "is_active": true
+  }
+]

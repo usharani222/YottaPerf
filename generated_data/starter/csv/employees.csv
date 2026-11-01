@@ -1,0 +1,151 @@
+employee_id,first_name,last_name,email,department,job_title,job_level,manager_id,is_active,hire_date
+EMP-000001,Eleanor,Vance,eleanor.vance@yottaperf.internal,Executive,Chief Executive Officer,EXEC,,True,2020-01-15
+EMP-000002,Erin,Riley,erin.riley2@yottaperf.internal,Engineering,Vice President of Engineering,EXEC,EMP-000001,True,2020-03-01
+EMP-000003,Melissa,Williams,melissa.williams3@yottaperf.internal,Product,Vice President of Product,EXEC,EMP-000001,True,2020-03-01
+EMP-000004,Madison,Hall,madison.hall4@yottaperf.internal,Engineering,Director of Engineering,M4,EMP-000002,True,2021-01-15
+EMP-000005,Aaron,Petersen,aaron.petersen5@yottaperf.internal,Product,Director of Product,M4,EMP-000003,True,2021-01-15
+EMP-000006,David,Gonzalez,david.gonzalez6@yottaperf.internal,Engineering,Director of Engineering,M4,EMP-000002,True,2021-01-15
+EMP-000007,Kyle,Miles,kyle.miles7@yottaperf.internal,Product,Director of Product,M4,EMP-000003,True,2021-01-15
+EMP-000008,Diane,Rodriguez,diane.rodriguez8@yottaperf.internal,Engineering,Director of Engineering,M4,EMP-000002,True,2021-01-15
+EMP-000009,James,Hernandez,james.hernandez9@yottaperf.internal,Product,Director of Product,M4,EMP-000003,True,2021-01-15
+EMP-000010,Darrell,Garza,darrell.garza10@yottaperf.internal,Engineering,Director of Engineering,M4,EMP-000002,True,2021-01-15
+EMP-000011,Adam,Wilson,adam.wilson11@yottaperf.internal,Product,Director of Product,M4,EMP-000003,True,2021-01-15
+EMP-000012,Donald,Bailey,donald.bailey12@yottaperf.internal,Engineering,Engineering Lead,M2,EMP-000004,True,2022-04-10
+EMP-000013,Brian,Bass,brian.bass13@yottaperf.internal,Product,Product Manager,M2,EMP-000005,True,2022-04-10
+EMP-000014,Eddie,Ellis,eddie.ellis14@yottaperf.internal,Engineering,Engineering Lead,M2,EMP-000006,True,2022-04-10
+EMP-000015,Ruth,Hart,ruth.hart15@yottaperf.internal,Product,Product Manager,M2,EMP-000007,True,2022-04-10
+EMP-000016,William,Palmer,william.palmer16@yottaperf.internal,Engineering,Engineering Lead,M2,EMP-000008,True,2022-04-10
+EMP-000017,Cody,Thompson,cody.thompson17@yottaperf.internal,Product,Product Manager,M2,EMP-000009,True,2022-04-10
+EMP-000018,Christina,Butler,christina.butler18@yottaperf.internal,Engineering,Engineering Lead,M2,EMP-000010,True,2022-04-10
+EMP-000019,Christopher,Bryant,christopher.bryant19@yottaperf.internal,Product,Product Manager,M2,EMP-000011,True,2022-04-10
+EMP-000020,Kathy,Williams,kathy.williams20@yottaperf.internal,Engineering,Engineering Lead,M2,EMP-000004,True,2022-04-10
+EMP-000021,Melissa,Bradshaw,melissa.bradshaw21@yottaperf.internal,Product,Product Manager,M2,EMP-000005,True,2022-04-10
+EMP-000022,Jared,Brown,jared.brown22@yottaperf.internal,Engineering,Engineering Lead,M2,EMP-000006,True,2022-04-10
+EMP-000023,Charles,Davis,charles.davis23@yottaperf.internal,Product,Product Manager,M2,EMP-000007,True,2022-04-10
+EMP-000024,William,Smith,william.smith24@yottaperf.internal,Engineering,Engineering Lead,M2,EMP-000008,True,2022-04-10
+EMP-000025,Charles,Robinson,charles.robinson25@yottaperf.internal,Product,Product Manager,M2,EMP-000009,True,2022-04-10
+EMP-000026,Victoria,Mendoza,victoria.mendoza26@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000012,True,2025-03-02
+EMP-000027,Charles,Patel,charles.patel27@yottaperf.internal,Product,Data Analyst,IC3,EMP-000013,True,2023-04-03
+EMP-000028,Katherine,Diaz,katherine.diaz28@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000014,True,2024-05-04
+EMP-000029,Kelsey,Watkins,kelsey.watkins29@yottaperf.internal,Product,Associate Product Manager,IC5,EMP-000015,True,2025-06-05
+EMP-000030,Vickie,Smith,vickie.smith30@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000016,True,2023-07-06
+EMP-000031,Timothy,Young,timothy.young31@yottaperf.internal,Product,Data Analyst,IC2,EMP-000017,True,2024-08-07
+EMP-000032,Anthony,Fletcher,anthony.fletcher32@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000018,True,2025-09-08
+EMP-000033,Kevin,Black,kevin.black33@yottaperf.internal,Product,Associate Product Manager,IC4,EMP-000019,True,2023-10-09
+EMP-000034,Joanna,Ortega,joanna.ortega34@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000020,True,2024-11-10
+EMP-000035,Jessica,Vincent,jessica.vincent35@yottaperf.internal,Product,Data Analyst,IC1,EMP-000021,True,2025-12-11
+EMP-000036,Taylor,Richard,taylor.richard36@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000022,True,2023-01-12
+EMP-000037,David,Barrera,david.barrera37@yottaperf.internal,Product,Associate Product Manager,IC3,EMP-000023,True,2024-02-13
+EMP-000038,Bonnie,Williams,bonnie.williams38@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000024,True,2025-03-14
+EMP-000039,Bradley,Wagner,bradley.wagner39@yottaperf.internal,Product,Data Analyst,IC5,EMP-000025,True,2023-04-15
+EMP-000040,Alexis,Palmer,alexis.palmer40@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000012,True,2024-05-16
+EMP-000041,Ryan,Stevens,ryan.stevens41@yottaperf.internal,Product,Associate Product Manager,IC2,EMP-000013,True,2025-06-17
+EMP-000042,Matthew,Harris,matthew.harris42@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000014,True,2023-07-18
+EMP-000043,Valerie,Davidson,valerie.davidson43@yottaperf.internal,Product,Data Analyst,IC4,EMP-000015,True,2024-08-19
+EMP-000044,Carrie,Vance,carrie.vance44@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000016,True,2025-09-20
+EMP-000045,Ellen,Hardy,ellen.hardy45@yottaperf.internal,Product,Associate Product Manager,IC1,EMP-000017,True,2023-10-21
+EMP-000046,Sara,Ramirez,sara.ramirez46@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000018,True,2024-11-22
+EMP-000047,Elizabeth,Scott,elizabeth.scott47@yottaperf.internal,Product,Data Analyst,IC3,EMP-000019,True,2025-12-23
+EMP-000048,Xavier,Sanders,xavier.sanders48@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000020,True,2023-01-24
+EMP-000049,Laura,Roth,laura.roth49@yottaperf.internal,Product,Associate Product Manager,IC5,EMP-000021,True,2024-02-25
+EMP-000050,Michael,Navarro,michael.navarro50@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000022,True,2025-03-01
+EMP-000051,Mary,Thompson,mary.thompson51@yottaperf.internal,Product,Data Analyst,IC2,EMP-000023,True,2023-04-02
+EMP-000052,Walter,Owens,walter.owens52@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000024,True,2024-05-03
+EMP-000053,Kelly,Hernandez,kelly.hernandez53@yottaperf.internal,Product,Associate Product Manager,IC4,EMP-000025,True,2025-06-04
+EMP-000054,Wendy,Johnson,wendy.johnson54@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000012,True,2023-07-05
+EMP-000055,Danielle,Best,danielle.best55@yottaperf.internal,Product,Data Analyst,IC1,EMP-000013,True,2024-08-06
+EMP-000056,Michele,Holt,michele.holt56@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000014,True,2025-09-07
+EMP-000057,Joseph,Fritz,joseph.fritz57@yottaperf.internal,Product,Associate Product Manager,IC3,EMP-000015,True,2023-10-08
+EMP-000058,Katherine,Dixon,katherine.dixon58@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000016,True,2024-11-09
+EMP-000059,Mary,Martinez,mary.martinez59@yottaperf.internal,Product,Data Analyst,IC5,EMP-000017,True,2025-12-10
+EMP-000060,Kara,Gould,kara.gould60@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000018,True,2023-01-11
+EMP-000061,Ryan,Mcintosh,ryan.mcintosh61@yottaperf.internal,Product,Associate Product Manager,IC2,EMP-000019,True,2024-02-12
+EMP-000062,Anna,Hernandez,anna.hernandez62@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000020,True,2025-03-13
+EMP-000063,John,Knight,john.knight63@yottaperf.internal,Product,Data Analyst,IC4,EMP-000021,True,2023-04-14
+EMP-000064,Andrew,Reynolds,andrew.reynolds64@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000022,True,2024-05-15
+EMP-000065,Barbara,Davis,barbara.davis65@yottaperf.internal,Product,Associate Product Manager,IC1,EMP-000023,True,2025-06-16
+EMP-000066,Richard,Drake,richard.drake66@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000024,True,2023-07-17
+EMP-000067,Lawrence,Mcdowell,lawrence.mcdowell67@yottaperf.internal,Product,Data Analyst,IC3,EMP-000025,True,2024-08-18
+EMP-000068,Catherine,Gonzalez,catherine.gonzalez68@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000012,True,2025-09-19
+EMP-000069,Jessica,Ball,jessica.ball69@yottaperf.internal,Product,Associate Product Manager,IC5,EMP-000013,True,2023-10-20
+EMP-000070,Nicolas,Schmidt,nicolas.schmidt70@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000014,True,2024-11-21
+EMP-000071,Bryan,Lawson,bryan.lawson71@yottaperf.internal,Product,Data Analyst,IC2,EMP-000015,True,2025-12-22
+EMP-000072,Eric,Henry,eric.henry72@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000016,True,2023-01-23
+EMP-000073,James,Powell,james.powell73@yottaperf.internal,Product,Associate Product Manager,IC4,EMP-000017,True,2024-02-24
+EMP-000074,Caleb,Moyer,caleb.moyer74@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000018,True,2025-03-25
+EMP-000075,Thomas,Hickman,thomas.hickman75@yottaperf.internal,Product,Data Analyst,IC1,EMP-000019,True,2023-04-01
+EMP-000076,Nicole,Powell,nicole.powell76@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000020,True,2024-05-02
+EMP-000077,Roger,Lopez,roger.lopez77@yottaperf.internal,Product,Associate Product Manager,IC3,EMP-000021,True,2025-06-03
+EMP-000078,Joy,Cook,joy.cook78@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000022,True,2023-07-04
+EMP-000079,Veronica,Cain,veronica.cain79@yottaperf.internal,Product,Data Analyst,IC5,EMP-000023,True,2024-08-05
+EMP-000080,Brent,Valdez,brent.valdez80@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000024,True,2025-09-06
+EMP-000081,Shawn,Walker,shawn.walker81@yottaperf.internal,Product,Associate Product Manager,IC2,EMP-000025,True,2023-10-07
+EMP-000082,David,Mitchell,david.mitchell82@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000012,True,2024-11-08
+EMP-000083,Gregory,Mendoza,gregory.mendoza83@yottaperf.internal,Product,Data Analyst,IC4,EMP-000013,True,2025-12-09
+EMP-000084,Ronald,Foster,ronald.foster84@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000014,True,2023-01-10
+EMP-000085,Bryan,Walker,bryan.walker85@yottaperf.internal,Product,Associate Product Manager,IC1,EMP-000015,True,2024-02-11
+EMP-000086,Donald,Petty,donald.petty86@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000016,True,2025-03-12
+EMP-000087,Jeffrey,Dixon,jeffrey.dixon87@yottaperf.internal,Product,Data Analyst,IC3,EMP-000017,True,2023-04-13
+EMP-000088,Steve,Jones,steve.jones88@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000018,True,2024-05-14
+EMP-000089,William,Duncan,william.duncan89@yottaperf.internal,Product,Associate Product Manager,IC5,EMP-000019,True,2025-06-15
+EMP-000090,Pamela,Pineda,pamela.pineda90@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000020,True,2023-07-16
+EMP-000091,Mary,Jones,mary.jones91@yottaperf.internal,Product,Data Analyst,IC2,EMP-000021,True,2024-08-17
+EMP-000092,Emily,Hardin,emily.hardin92@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000022,True,2025-09-18
+EMP-000093,Benjamin,Miranda,benjamin.miranda93@yottaperf.internal,Product,Associate Product Manager,IC4,EMP-000023,True,2023-10-19
+EMP-000094,Angela,Keller,angela.keller94@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000024,True,2024-11-20
+EMP-000095,Gina,Martin,gina.martin95@yottaperf.internal,Product,Data Analyst,IC1,EMP-000025,True,2025-12-21
+EMP-000096,Matthew,Nicholson,matthew.nicholson96@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000012,True,2023-01-22
+EMP-000097,April,Brewer,april.brewer97@yottaperf.internal,Product,Associate Product Manager,IC3,EMP-000013,True,2024-02-23
+EMP-000098,Susan,Ponce,susan.ponce98@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000014,True,2025-03-24
+EMP-000099,Bill,Arnold,bill.arnold99@yottaperf.internal,Product,Data Analyst,IC5,EMP-000015,True,2023-04-25
+EMP-000100,Joseph,Torres,joseph.torres100@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000016,True,2024-05-01
+EMP-000101,Justin,Kelly,justin.kelly101@yottaperf.internal,Product,Associate Product Manager,IC2,EMP-000017,True,2025-06-02
+EMP-000102,Calvin,Anderson,calvin.anderson102@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000018,True,2023-07-03
+EMP-000103,Christina,Ibarra,christina.ibarra103@yottaperf.internal,Product,Data Analyst,IC4,EMP-000019,True,2024-08-04
+EMP-000104,Ronald,White,ronald.white104@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000020,True,2025-09-05
+EMP-000105,Shannon,Golden,shannon.golden105@yottaperf.internal,Product,Associate Product Manager,IC1,EMP-000021,True,2023-10-06
+EMP-000106,Louis,Harris,louis.harris106@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000022,True,2024-11-07
+EMP-000107,Tammy,Golden,tammy.golden107@yottaperf.internal,Product,Data Analyst,IC3,EMP-000023,True,2025-12-08
+EMP-000108,Anthony,Sutton,anthony.sutton108@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000024,True,2023-01-09
+EMP-000109,David,Reed,david.reed109@yottaperf.internal,Product,Associate Product Manager,IC5,EMP-000025,True,2024-02-10
+EMP-000110,Michael,Bailey,michael.bailey110@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000012,True,2025-03-11
+EMP-000111,Madison,Morgan,madison.morgan111@yottaperf.internal,Product,Data Analyst,IC2,EMP-000013,True,2023-04-12
+EMP-000112,James,Webb,james.webb112@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000014,True,2024-05-13
+EMP-000113,Ashley,George,ashley.george113@yottaperf.internal,Product,Associate Product Manager,IC4,EMP-000015,True,2025-06-14
+EMP-000114,Veronica,Martinez,veronica.martinez114@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000016,True,2023-07-15
+EMP-000115,Christine,Chen,christine.chen115@yottaperf.internal,Product,Data Analyst,IC1,EMP-000017,True,2024-08-16
+EMP-000116,Karen,Smith,karen.smith116@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000018,True,2025-09-17
+EMP-000117,Kristine,Wilson,kristine.wilson117@yottaperf.internal,Product,Associate Product Manager,IC3,EMP-000019,True,2023-10-18
+EMP-000118,Mason,Campbell,mason.campbell118@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000020,True,2024-11-19
+EMP-000119,Ryan,Lambert,ryan.lambert119@yottaperf.internal,Product,Data Analyst,IC5,EMP-000021,True,2025-12-20
+EMP-000120,Oscar,Johnson,oscar.johnson120@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000022,True,2023-01-21
+EMP-000121,Danny,Warren,danny.warren121@yottaperf.internal,Product,Associate Product Manager,IC2,EMP-000023,True,2024-02-22
+EMP-000122,Emily,Burke,emily.burke122@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000024,True,2025-03-23
+EMP-000123,Duane,Wolf,duane.wolf123@yottaperf.internal,Product,Data Analyst,IC4,EMP-000025,True,2023-04-24
+EMP-000124,Michael,Ramirez,michael.ramirez124@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000012,True,2024-05-25
+EMP-000125,Jordan,Burgess,jordan.burgess125@yottaperf.internal,Product,Associate Product Manager,IC1,EMP-000013,True,2025-06-01
+EMP-000126,Autumn,Lawrence,autumn.lawrence126@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000014,True,2023-07-02
+EMP-000127,Angela,Stanton,angela.stanton127@yottaperf.internal,Product,Data Analyst,IC3,EMP-000015,True,2024-08-03
+EMP-000128,Kristie,Smith,kristie.smith128@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000016,True,2025-09-04
+EMP-000129,Daniel,Horn,daniel.horn129@yottaperf.internal,Product,Associate Product Manager,IC5,EMP-000017,True,2023-10-05
+EMP-000130,Billy,Dawson,billy.dawson130@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000018,True,2024-11-06
+EMP-000131,Kevin,Morris,kevin.morris131@yottaperf.internal,Product,Data Analyst,IC2,EMP-000019,True,2025-12-07
+EMP-000132,Nicholas,Brown,nicholas.brown132@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000020,True,2023-01-08
+EMP-000133,Lauren,Johns,lauren.johns133@yottaperf.internal,Product,Associate Product Manager,IC4,EMP-000021,True,2024-02-09
+EMP-000134,Brendan,Bell,brendan.bell134@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000022,True,2025-03-10
+EMP-000135,Heather,Alvarado,heather.alvarado135@yottaperf.internal,Product,Data Analyst,IC1,EMP-000023,True,2023-04-11
+EMP-000136,Michael,Hopkins,michael.hopkins136@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000024,True,2024-05-12
+EMP-000137,Jennifer,Johnson,jennifer.johnson137@yottaperf.internal,Product,Associate Product Manager,IC3,EMP-000025,True,2025-06-13
+EMP-000138,Catherine,Ramirez,catherine.ramirez138@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000012,True,2023-07-14
+EMP-000139,Jason,Chan,jason.chan139@yottaperf.internal,Product,Data Analyst,IC5,EMP-000013,True,2024-08-15
+EMP-000140,Kyle,Brown,kyle.brown140@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000014,True,2025-09-16
+EMP-000141,Raymond,Brown,raymond.brown141@yottaperf.internal,Product,Associate Product Manager,IC2,EMP-000015,True,2023-10-17
+EMP-000142,Michele,Martin,michele.martin142@yottaperf.internal,Engineering,DevOps Engineer,IC3,EMP-000016,True,2024-11-18
+EMP-000143,Rebecca,Huang,rebecca.huang143@yottaperf.internal,Product,Data Analyst,IC4,EMP-000017,True,2025-12-19
+EMP-000144,Jo,Hall,jo.hall144@yottaperf.internal,Engineering,Staff Engineer,IC5,EMP-000018,True,2023-01-20
+EMP-000145,Nicole,Humphrey,nicole.humphrey145@yottaperf.internal,Product,Associate Product Manager,IC1,EMP-000019,True,2024-02-21
+EMP-000146,Kaitlyn,Mason,kaitlyn.mason146@yottaperf.internal,Engineering,Senior Software Engineer,IC2,EMP-000020,True,2025-03-22
+EMP-000147,Bruce,Reid,bruce.reid147@yottaperf.internal,Product,Data Analyst,IC3,EMP-000021,True,2023-04-23
+EMP-000148,Leslie,Cook,leslie.cook148@yottaperf.internal,Engineering,QA Automation Engineer,IC4,EMP-000022,True,2024-05-24
+EMP-000149,Michael,Jackson,michael.jackson149@yottaperf.internal,Product,Associate Product Manager,IC5,EMP-000023,True,2025-06-25
+EMP-000150,Rose,Willis,rose.willis150@yottaperf.internal,Engineering,Software Engineer,IC1,EMP-000024,True,2023-07-01

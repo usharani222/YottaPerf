@@ -1,0 +1,13 @@
+competency_id,category,name,description,is_active
+COMP-TECH-01,Technical Skills,Software Architecture & System Design,Demonstrates sound architectural choices and maintainable system boundaries.,True
+COMP-TECH-02,Technical Skills,Code Quality & Automated Testing,"Writes clean, readable, high-coverage code adhering to engineering standards.",True
+COMP-TECH-03,Technical Skills,Cloud Infrastructure & Scalability,"Designs scalable, fault-tolerant cloud systems.",True
+COMP-COMM-01,Communication,Cross-Functional Collaboration,Articulates complex ideas clearly across disciplines.,True
+COMP-COMM-02,Communication,Technical Documentation & Mentorship,Produces thorough design docs and mentors team members.,True
+COMP-PROB-01,Problem Solving,Root Cause Analysis & Debugging,Diagnoses complex bugs and incidents methodically.,True
+COMP-LEAD-01,Leadership,Strategic Alignment & Execution,Translates company vision into measurable roadmaps.,True
+COMP-LEAD-02,Leadership,Team Empowerment & Coaching,Guides direct reports and cultivates engineering growth.,True
+COMP-COLL-01,Collaboration,Partner Engagement & Empathy,"Fosters an inclusive, high-trust engineering culture.",True
+COMP-ADAP-01,Adaptability,Agile Execution & Change Navigation,Pivots effectively amidst ambiguous business requirements.,True
+COMP-OWNR-01,Ownership,End-to-End Delivery & Accountability,Owns outcomes from ideation through production support.,True
+COMP-TIME-01,Time Management,Priority & Milestone Delivery,Consistently hits sprint and quarterly delivery milestones.,True

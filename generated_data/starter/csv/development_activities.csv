@@ -1,0 +1,101 @@
+activity_id,plan_id,title,activity_type,resource_url,status,completed_date
+DA-000001,DP-000001,Complete Software Architecture & System Design Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000002,DP-000001,Lead Design Review on Software Architecture & System Design for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000003,DP-000002,Complete Cross-Functional Collaboration Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000004,DP-000002,Lead Design Review on Cross-Functional Collaboration for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000005,DP-000003,Complete Strategic Alignment & Execution Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000006,DP-000003,Lead Design Review on Strategic Alignment & Execution for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000007,DP-000004,Complete Agile Execution & Change Navigation Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000008,DP-000004,Lead Design Review on Agile Execution & Change Navigation for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000009,DP-000005,Complete Cloud Infrastructure & Scalability Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000010,DP-000005,Lead Design Review on Cloud Infrastructure & Scalability for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000011,DP-000006,Complete Root Cause Analysis & Debugging Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000012,DP-000006,Lead Design Review on Root Cause Analysis & Debugging for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000013,DP-000007,Complete Partner Engagement & Empathy Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000014,DP-000007,Lead Design Review on Partner Engagement & Empathy for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000015,DP-000008,Complete Code Quality & Automated Testing Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000016,DP-000008,Lead Design Review on Code Quality & Automated Testing for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000017,DP-000009,Complete Technical Documentation & Mentorship Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000018,DP-000009,Lead Design Review on Technical Documentation & Mentorship for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000019,DP-000010,Complete Team Empowerment & Coaching Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000020,DP-000010,Lead Design Review on Team Empowerment & Coaching for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000021,DP-000011,Complete Software Architecture & System Design Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000022,DP-000011,Lead Design Review on Software Architecture & System Design for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000023,DP-000012,Complete Cross-Functional Collaboration Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000024,DP-000012,Lead Design Review on Cross-Functional Collaboration for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000025,DP-000013,Complete Strategic Alignment & Execution Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000026,DP-000013,Lead Design Review on Strategic Alignment & Execution for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000027,DP-000014,Complete Agile Execution & Change Navigation Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000028,DP-000014,Lead Design Review on Agile Execution & Change Navigation for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000029,DP-000015,Complete Cloud Infrastructure & Scalability Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000030,DP-000015,Lead Design Review on Cloud Infrastructure & Scalability for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000031,DP-000016,Complete Root Cause Analysis & Debugging Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000032,DP-000016,Lead Design Review on Root Cause Analysis & Debugging for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000033,DP-000017,Complete Partner Engagement & Empathy Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000034,DP-000017,Lead Design Review on Partner Engagement & Empathy for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000035,DP-000018,Complete Code Quality & Automated Testing Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000036,DP-000018,Lead Design Review on Code Quality & Automated Testing for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000037,DP-000019,Complete Technical Documentation & Mentorship Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000038,DP-000019,Lead Design Review on Technical Documentation & Mentorship for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000039,DP-000020,Complete Team Empowerment & Coaching Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000040,DP-000020,Lead Design Review on Team Empowerment & Coaching for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000041,DP-000021,Complete Software Architecture & System Design Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000042,DP-000021,Lead Design Review on Software Architecture & System Design for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000043,DP-000022,Complete Cross-Functional Collaboration Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000044,DP-000022,Lead Design Review on Cross-Functional Collaboration for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000045,DP-000023,Complete Strategic Alignment & Execution Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000046,DP-000023,Lead Design Review on Strategic Alignment & Execution for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000047,DP-000024,Complete Agile Execution & Change Navigation Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000048,DP-000024,Lead Design Review on Agile Execution & Change Navigation for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000049,DP-000025,Complete Cloud Infrastructure & Scalability Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000050,DP-000025,Lead Design Review on Cloud Infrastructure & Scalability for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000051,DP-000026,Complete Root Cause Analysis & Debugging Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000052,DP-000026,Lead Design Review on Root Cause Analysis & Debugging for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000053,DP-000027,Complete Partner Engagement & Empathy Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000054,DP-000027,Lead Design Review on Partner Engagement & Empathy for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000055,DP-000028,Complete Code Quality & Automated Testing Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000056,DP-000028,Lead Design Review on Code Quality & Automated Testing for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000057,DP-000029,Complete Technical Documentation & Mentorship Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000058,DP-000029,Lead Design Review on Technical Documentation & Mentorship for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000059,DP-000030,Complete Team Empowerment & Coaching Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000060,DP-000030,Lead Design Review on Team Empowerment & Coaching for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000061,DP-000031,Complete Software Architecture & System Design Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000062,DP-000031,Lead Design Review on Software Architecture & System Design for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000063,DP-000032,Complete Cross-Functional Collaboration Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000064,DP-000032,Lead Design Review on Cross-Functional Collaboration for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000065,DP-000033,Complete Strategic Alignment & Execution Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000066,DP-000033,Lead Design Review on Strategic Alignment & Execution for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000067,DP-000034,Complete Agile Execution & Change Navigation Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000068,DP-000034,Lead Design Review on Agile Execution & Change Navigation for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000069,DP-000035,Complete Cloud Infrastructure & Scalability Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000070,DP-000035,Lead Design Review on Cloud Infrastructure & Scalability for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000071,DP-000036,Complete Root Cause Analysis & Debugging Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000072,DP-000036,Lead Design Review on Root Cause Analysis & Debugging for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000073,DP-000037,Complete Partner Engagement & Empathy Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000074,DP-000037,Lead Design Review on Partner Engagement & Empathy for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000075,DP-000038,Complete Code Quality & Automated Testing Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000076,DP-000038,Lead Design Review on Code Quality & Automated Testing for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000077,DP-000039,Complete Technical Documentation & Mentorship Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000078,DP-000039,Lead Design Review on Technical Documentation & Mentorship for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000079,DP-000040,Complete Team Empowerment & Coaching Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000080,DP-000040,Lead Design Review on Team Empowerment & Coaching for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000081,DP-000041,Complete Software Architecture & System Design Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000082,DP-000041,Lead Design Review on Software Architecture & System Design for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000083,DP-000042,Complete Cross-Functional Collaboration Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000084,DP-000042,Lead Design Review on Cross-Functional Collaboration for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000085,DP-000043,Complete Strategic Alignment & Execution Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000086,DP-000043,Lead Design Review on Strategic Alignment & Execution for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000087,DP-000044,Complete Agile Execution & Change Navigation Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000088,DP-000044,Lead Design Review on Agile Execution & Change Navigation for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000089,DP-000045,Complete Cloud Infrastructure & Scalability Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000090,DP-000045,Lead Design Review on Cloud Infrastructure & Scalability for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000091,DP-000046,Complete Root Cause Analysis & Debugging Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000092,DP-000046,Lead Design Review on Root Cause Analysis & Debugging for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000093,DP-000047,Complete Partner Engagement & Empathy Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000094,DP-000047,Lead Design Review on Partner Engagement & Empathy for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000095,DP-000048,Complete Code Quality & Automated Testing Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000096,DP-000048,Lead Design Review on Code Quality & Automated Testing for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000097,DP-000049,Complete Technical Documentation & Mentorship Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000098,DP-000049,Lead Design Review on Technical Documentation & Mentorship for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,
+DA-000099,DP-000050,Complete Team Empowerment & Coaching Intensive Course,COURSE,https://learning.yottaperf.internal/courses/arch-301,COMPLETED,2026-04-15
+DA-000100,DP-000050,Lead Design Review on Team Empowerment & Coaching for Team,PROJECT,https://wiki.yottaperf.internal/rfc/402,IN_PROGRESS,

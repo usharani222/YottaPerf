@@ -1,0 +1,802 @@
+[
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000002 and author EMP-000007.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-001"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000003 and author EMP-000008.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-002"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000004 and author EMP-000009.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-003"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000005 and author EMP-000010.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-004"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000006 and author EMP-000011.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-005"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000007 and author EMP-000012.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-006"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000008 and author EMP-000013.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-007"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000009 and author EMP-000014.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-008"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000010 and author EMP-000015.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-009"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000011 and author EMP-000016.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-010"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000012 and author EMP-000017.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-011"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000013 and author EMP-000018.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-012"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000014 and author EMP-000019.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-013"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000015 and author EMP-000020.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-014"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000016 and author EMP-000021.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-015"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000017 and author EMP-000022.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-016"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000018 and author EMP-000023.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-017"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000019 and author EMP-000024.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-018"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000020 and author EMP-000025.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-019"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REASSIGN_OR_QUARANTINE",
+    "expected_label": "ANOMALY_GOAL_OWNER_MISMATCH",
+    "explanation": "Discrepancy detected between goal owner EMP-000021 and author EMP-000026.",
+    "issue_type": "GOAL_OWNER_MISMATCH",
+    "record_id": "GOAL-ANOMALY-OWNER-020"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-001"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-002"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-003"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-004"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-005"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-006"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-007"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-008"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-009"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-010"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-011"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-012"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-013"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-014"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-015"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-016"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-017"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-018"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-019"
+  },
+  {
+    "entity_type": "key_results",
+    "expected_decision": "RECALCULATE_PROGRESS",
+    "expected_label": "ANOMALY_INVALID_PROGRESS",
+    "explanation": "Calculated progress percentage deviates from source observation formula by > 200%.",
+    "issue_type": "INVALID_PROGRESS",
+    "record_id": "KR-ANOMALY-PROG-020"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000017 does not satisfy eligibility criteria for subject EMP-000002.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-001"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000018 does not satisfy eligibility criteria for subject EMP-000003.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-002"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000019 does not satisfy eligibility criteria for subject EMP-000004.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-003"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000020 does not satisfy eligibility criteria for subject EMP-000005.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-004"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000021 does not satisfy eligibility criteria for subject EMP-000006.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-005"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000022 does not satisfy eligibility criteria for subject EMP-000007.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-006"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000023 does not satisfy eligibility criteria for subject EMP-000008.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-007"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000024 does not satisfy eligibility criteria for subject EMP-000009.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-008"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000025 does not satisfy eligibility criteria for subject EMP-000010.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-009"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000026 does not satisfy eligibility criteria for subject EMP-000011.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-010"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000027 does not satisfy eligibility criteria for subject EMP-000012.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-011"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000028 does not satisfy eligibility criteria for subject EMP-000013.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-012"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000029 does not satisfy eligibility criteria for subject EMP-000014.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-013"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000030 does not satisfy eligibility criteria for subject EMP-000015.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-014"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000031 does not satisfy eligibility criteria for subject EMP-000016.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-015"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000032 does not satisfy eligibility criteria for subject EMP-000017.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-016"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000033 does not satisfy eligibility criteria for subject EMP-000018.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-017"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000034 does not satisfy eligibility criteria for subject EMP-000019.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-018"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000035 does not satisfy eligibility criteria for subject EMP-000020.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-019"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "EXCLUDE_FROM_CALIBRATION",
+    "expected_label": "ANOMALY_INVALID_REVIEWER",
+    "explanation": "Reviewer EMP-000036 does not satisfy eligibility criteria for subject EMP-000021.",
+    "issue_type": "INVALID_REVIEWER",
+    "record_id": "FB-ANOMALY-REV-020"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-001"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-002"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-003"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-004"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-005"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-006"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-007"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-008"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-009"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-010"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-011"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-012"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-013"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-014"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-015"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-016"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-017"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-018"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-019"
+  },
+  {
+    "entity_type": "goals",
+    "expected_decision": "REVERT_TO_SNAPSHOT",
+    "expected_label": "ANOMALY_CLOSED_CYCLE_MODIFICATION",
+    "explanation": "Record modified in a closed cycle without required audit approval.",
+    "issue_type": "CLOSED_CYCLE_MODIFICATION",
+    "record_id": "GOAL-ANOMALY-CLOSED-020"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-001"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-002"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-003"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-004"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-005"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-006"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-007"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-008"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-009"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-010"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-011"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-012"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-013"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-014"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-015"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-016"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-017"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-018"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-019"
+  },
+  {
+    "entity_type": "feedbacks",
+    "expected_decision": "REQUEST_EVIDENCE_OR_DISCARD",
+    "expected_label": "ANOMALY_UNTRACEABLE_FEEDBACK",
+    "explanation": "Extreme rating submitted without mandatory evidence link or descriptive commentary.",
+    "issue_type": "UNTRACEABLE_FEEDBACK",
+    "record_id": "FB-ANOMALY-UNTRACE-020"
+  }
+]

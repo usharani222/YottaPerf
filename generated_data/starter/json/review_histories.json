@@ -1,0 +1,3682 @@
+[
+  {
+    "history_id": "RH-000001",
+    "review_id": "REV-2026-000001",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000001",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000002",
+    "review_id": "REV-2026-000001",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000003",
+    "review_id": "REV-2026-000002",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000002",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000004",
+    "review_id": "REV-2026-000002",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000005",
+    "review_id": "REV-2026-000003",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000003",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000006",
+    "review_id": "REV-2026-000003",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000007",
+    "review_id": "REV-2026-000004",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000004",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000008",
+    "review_id": "REV-2026-000004",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000009",
+    "review_id": "REV-2026-000005",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000005",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000010",
+    "review_id": "REV-2026-000005",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000011",
+    "review_id": "REV-2026-000006",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000006",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000012",
+    "review_id": "REV-2026-000006",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000013",
+    "review_id": "REV-2026-000007",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000007",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000014",
+    "review_id": "REV-2026-000007",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000015",
+    "review_id": "REV-2026-000008",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000008",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000016",
+    "review_id": "REV-2026-000008",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000017",
+    "review_id": "REV-2026-000009",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000009",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000018",
+    "review_id": "REV-2026-000009",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000019",
+    "review_id": "REV-2026-000010",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000010",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000020",
+    "review_id": "REV-2026-000010",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000021",
+    "review_id": "REV-2026-000011",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000011",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000022",
+    "review_id": "REV-2026-000011",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000023",
+    "review_id": "REV-2026-000012",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000012",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000024",
+    "review_id": "REV-2026-000012",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000025",
+    "review_id": "REV-2026-000013",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000013",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000026",
+    "review_id": "REV-2026-000013",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000027",
+    "review_id": "REV-2026-000014",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000014",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000028",
+    "review_id": "REV-2026-000014",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000029",
+    "review_id": "REV-2026-000015",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000015",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000030",
+    "review_id": "REV-2026-000015",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000031",
+    "review_id": "REV-2026-000016",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000016",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000032",
+    "review_id": "REV-2026-000016",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000033",
+    "review_id": "REV-2026-000017",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000017",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000034",
+    "review_id": "REV-2026-000017",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000035",
+    "review_id": "REV-2026-000018",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000018",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000036",
+    "review_id": "REV-2026-000018",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000037",
+    "review_id": "REV-2026-000019",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000019",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000038",
+    "review_id": "REV-2026-000019",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000039",
+    "review_id": "REV-2026-000020",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000020",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000040",
+    "review_id": "REV-2026-000020",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000041",
+    "review_id": "REV-2026-000021",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000021",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000042",
+    "review_id": "REV-2026-000021",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000043",
+    "review_id": "REV-2026-000022",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000022",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000044",
+    "review_id": "REV-2026-000022",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000045",
+    "review_id": "REV-2026-000023",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000023",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000046",
+    "review_id": "REV-2026-000023",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000047",
+    "review_id": "REV-2026-000024",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000024",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000048",
+    "review_id": "REV-2026-000024",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000049",
+    "review_id": "REV-2026-000025",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000025",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000050",
+    "review_id": "REV-2026-000025",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000051",
+    "review_id": "REV-2026-000026",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000026",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000052",
+    "review_id": "REV-2026-000026",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000053",
+    "review_id": "REV-2026-000027",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000027",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000054",
+    "review_id": "REV-2026-000027",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000055",
+    "review_id": "REV-2026-000028",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000028",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000056",
+    "review_id": "REV-2026-000028",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000057",
+    "review_id": "REV-2026-000029",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000029",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000058",
+    "review_id": "REV-2026-000029",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000059",
+    "review_id": "REV-2026-000030",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000030",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000060",
+    "review_id": "REV-2026-000030",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000061",
+    "review_id": "REV-2026-000031",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000031",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000062",
+    "review_id": "REV-2026-000031",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000063",
+    "review_id": "REV-2026-000032",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000032",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000064",
+    "review_id": "REV-2026-000032",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000065",
+    "review_id": "REV-2026-000033",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000033",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000066",
+    "review_id": "REV-2026-000033",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000067",
+    "review_id": "REV-2026-000034",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000034",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000068",
+    "review_id": "REV-2026-000034",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000069",
+    "review_id": "REV-2026-000035",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000035",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000070",
+    "review_id": "REV-2026-000035",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000071",
+    "review_id": "REV-2026-000036",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000036",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000072",
+    "review_id": "REV-2026-000036",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000073",
+    "review_id": "REV-2026-000037",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000037",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000074",
+    "review_id": "REV-2026-000037",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000075",
+    "review_id": "REV-2026-000038",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000038",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000076",
+    "review_id": "REV-2026-000038",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000077",
+    "review_id": "REV-2026-000039",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000039",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000078",
+    "review_id": "REV-2026-000039",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000079",
+    "review_id": "REV-2026-000040",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000040",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000080",
+    "review_id": "REV-2026-000040",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000081",
+    "review_id": "REV-2026-000041",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000041",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000082",
+    "review_id": "REV-2026-000041",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000083",
+    "review_id": "REV-2026-000042",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000042",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000084",
+    "review_id": "REV-2026-000042",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000085",
+    "review_id": "REV-2026-000043",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000043",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000086",
+    "review_id": "REV-2026-000043",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000087",
+    "review_id": "REV-2026-000044",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000044",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000088",
+    "review_id": "REV-2026-000044",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000089",
+    "review_id": "REV-2026-000045",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000045",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000090",
+    "review_id": "REV-2026-000045",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000091",
+    "review_id": "REV-2026-000046",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000046",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000092",
+    "review_id": "REV-2026-000046",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000093",
+    "review_id": "REV-2026-000047",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000047",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000094",
+    "review_id": "REV-2026-000047",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000095",
+    "review_id": "REV-2026-000048",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000048",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000096",
+    "review_id": "REV-2026-000048",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000097",
+    "review_id": "REV-2026-000049",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000049",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000098",
+    "review_id": "REV-2026-000049",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000099",
+    "review_id": "REV-2026-000050",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000050",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000100",
+    "review_id": "REV-2026-000050",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000101",
+    "review_id": "REV-2026-000051",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000051",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000102",
+    "review_id": "REV-2026-000051",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000103",
+    "review_id": "REV-2026-000052",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000052",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000104",
+    "review_id": "REV-2026-000052",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000105",
+    "review_id": "REV-2026-000053",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000053",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000106",
+    "review_id": "REV-2026-000053",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000107",
+    "review_id": "REV-2026-000054",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000054",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000108",
+    "review_id": "REV-2026-000054",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000109",
+    "review_id": "REV-2026-000055",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000055",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000110",
+    "review_id": "REV-2026-000055",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000111",
+    "review_id": "REV-2026-000056",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000056",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000112",
+    "review_id": "REV-2026-000056",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000113",
+    "review_id": "REV-2026-000057",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000057",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000114",
+    "review_id": "REV-2026-000057",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000115",
+    "review_id": "REV-2026-000058",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000058",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000116",
+    "review_id": "REV-2026-000058",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000117",
+    "review_id": "REV-2026-000059",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000059",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000118",
+    "review_id": "REV-2026-000059",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000119",
+    "review_id": "REV-2026-000060",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000060",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000120",
+    "review_id": "REV-2026-000060",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000121",
+    "review_id": "REV-2026-000061",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000061",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000122",
+    "review_id": "REV-2026-000061",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000123",
+    "review_id": "REV-2026-000062",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000062",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000124",
+    "review_id": "REV-2026-000062",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000125",
+    "review_id": "REV-2026-000063",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000063",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000126",
+    "review_id": "REV-2026-000063",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000127",
+    "review_id": "REV-2026-000064",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000064",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000128",
+    "review_id": "REV-2026-000064",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000129",
+    "review_id": "REV-2026-000065",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000065",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000130",
+    "review_id": "REV-2026-000065",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000131",
+    "review_id": "REV-2026-000066",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000066",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000132",
+    "review_id": "REV-2026-000066",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000133",
+    "review_id": "REV-2026-000067",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000067",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000134",
+    "review_id": "REV-2026-000067",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000135",
+    "review_id": "REV-2026-000068",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000068",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000136",
+    "review_id": "REV-2026-000068",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000137",
+    "review_id": "REV-2026-000069",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000069",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000138",
+    "review_id": "REV-2026-000069",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000139",
+    "review_id": "REV-2026-000070",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000070",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000140",
+    "review_id": "REV-2026-000070",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000141",
+    "review_id": "REV-2026-000071",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000071",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000142",
+    "review_id": "REV-2026-000071",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000143",
+    "review_id": "REV-2026-000072",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000072",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000144",
+    "review_id": "REV-2026-000072",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000145",
+    "review_id": "REV-2026-000073",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000073",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000146",
+    "review_id": "REV-2026-000073",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000147",
+    "review_id": "REV-2026-000074",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000074",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000148",
+    "review_id": "REV-2026-000074",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000149",
+    "review_id": "REV-2026-000075",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000075",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000150",
+    "review_id": "REV-2026-000075",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000151",
+    "review_id": "REV-2026-000076",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000076",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000152",
+    "review_id": "REV-2026-000076",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000153",
+    "review_id": "REV-2026-000077",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000077",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000154",
+    "review_id": "REV-2026-000077",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000155",
+    "review_id": "REV-2026-000078",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000078",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000156",
+    "review_id": "REV-2026-000078",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000157",
+    "review_id": "REV-2026-000079",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000079",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000158",
+    "review_id": "REV-2026-000079",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000159",
+    "review_id": "REV-2026-000080",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000080",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000160",
+    "review_id": "REV-2026-000080",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000161",
+    "review_id": "REV-2026-000081",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000081",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000162",
+    "review_id": "REV-2026-000081",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000163",
+    "review_id": "REV-2026-000082",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000082",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000164",
+    "review_id": "REV-2026-000082",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000165",
+    "review_id": "REV-2026-000083",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000083",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000166",
+    "review_id": "REV-2026-000083",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000167",
+    "review_id": "REV-2026-000084",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000084",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000168",
+    "review_id": "REV-2026-000084",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000169",
+    "review_id": "REV-2026-000085",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000085",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000170",
+    "review_id": "REV-2026-000085",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000171",
+    "review_id": "REV-2026-000086",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000086",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000172",
+    "review_id": "REV-2026-000086",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000173",
+    "review_id": "REV-2026-000087",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000087",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000174",
+    "review_id": "REV-2026-000087",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000175",
+    "review_id": "REV-2026-000088",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000088",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000176",
+    "review_id": "REV-2026-000088",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000177",
+    "review_id": "REV-2026-000089",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000089",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000178",
+    "review_id": "REV-2026-000089",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000179",
+    "review_id": "REV-2026-000090",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000090",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000180",
+    "review_id": "REV-2026-000090",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000181",
+    "review_id": "REV-2026-000091",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000091",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000182",
+    "review_id": "REV-2026-000091",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000183",
+    "review_id": "REV-2026-000092",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000092",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000184",
+    "review_id": "REV-2026-000092",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000185",
+    "review_id": "REV-2026-000093",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000093",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000186",
+    "review_id": "REV-2026-000093",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000187",
+    "review_id": "REV-2026-000094",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000094",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000188",
+    "review_id": "REV-2026-000094",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000189",
+    "review_id": "REV-2026-000095",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000095",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000190",
+    "review_id": "REV-2026-000095",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000191",
+    "review_id": "REV-2026-000096",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000096",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000192",
+    "review_id": "REV-2026-000096",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000193",
+    "review_id": "REV-2026-000097",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000097",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000194",
+    "review_id": "REV-2026-000097",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000195",
+    "review_id": "REV-2026-000098",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000098",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000196",
+    "review_id": "REV-2026-000098",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000197",
+    "review_id": "REV-2026-000099",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000099",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000198",
+    "review_id": "REV-2026-000099",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000199",
+    "review_id": "REV-2026-000100",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000100",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000200",
+    "review_id": "REV-2026-000100",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000201",
+    "review_id": "REV-2026-000101",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000101",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000202",
+    "review_id": "REV-2026-000101",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000203",
+    "review_id": "REV-2026-000102",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000102",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000204",
+    "review_id": "REV-2026-000102",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000205",
+    "review_id": "REV-2026-000103",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000103",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000206",
+    "review_id": "REV-2026-000103",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000207",
+    "review_id": "REV-2026-000104",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000104",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000208",
+    "review_id": "REV-2026-000104",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000209",
+    "review_id": "REV-2026-000105",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000105",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000210",
+    "review_id": "REV-2026-000105",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000211",
+    "review_id": "REV-2026-000106",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000106",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000212",
+    "review_id": "REV-2026-000106",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000213",
+    "review_id": "REV-2026-000107",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000107",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000214",
+    "review_id": "REV-2026-000107",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000215",
+    "review_id": "REV-2026-000108",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000108",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000216",
+    "review_id": "REV-2026-000108",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000217",
+    "review_id": "REV-2026-000109",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000109",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000218",
+    "review_id": "REV-2026-000109",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000219",
+    "review_id": "REV-2026-000110",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000110",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000220",
+    "review_id": "REV-2026-000110",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000221",
+    "review_id": "REV-2026-000111",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000111",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000222",
+    "review_id": "REV-2026-000111",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000223",
+    "review_id": "REV-2026-000112",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000112",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000224",
+    "review_id": "REV-2026-000112",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000225",
+    "review_id": "REV-2026-000113",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000113",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000226",
+    "review_id": "REV-2026-000113",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000227",
+    "review_id": "REV-2026-000114",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000114",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000228",
+    "review_id": "REV-2026-000114",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000229",
+    "review_id": "REV-2026-000115",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000115",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000230",
+    "review_id": "REV-2026-000115",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000231",
+    "review_id": "REV-2026-000116",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000116",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000232",
+    "review_id": "REV-2026-000116",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000233",
+    "review_id": "REV-2026-000117",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000117",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000234",
+    "review_id": "REV-2026-000117",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000235",
+    "review_id": "REV-2026-000118",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000118",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000236",
+    "review_id": "REV-2026-000118",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000237",
+    "review_id": "REV-2026-000119",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000119",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000238",
+    "review_id": "REV-2026-000119",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000239",
+    "review_id": "REV-2026-000120",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000120",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000240",
+    "review_id": "REV-2026-000120",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000241",
+    "review_id": "REV-2026-000121",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000121",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000242",
+    "review_id": "REV-2026-000121",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000243",
+    "review_id": "REV-2026-000122",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000122",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000244",
+    "review_id": "REV-2026-000122",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000245",
+    "review_id": "REV-2026-000123",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000123",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000246",
+    "review_id": "REV-2026-000123",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000247",
+    "review_id": "REV-2026-000124",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000124",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000248",
+    "review_id": "REV-2026-000124",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000249",
+    "review_id": "REV-2026-000125",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000125",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000250",
+    "review_id": "REV-2026-000125",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000251",
+    "review_id": "REV-2026-000126",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000126",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000252",
+    "review_id": "REV-2026-000126",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000253",
+    "review_id": "REV-2026-000127",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000127",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000254",
+    "review_id": "REV-2026-000127",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000255",
+    "review_id": "REV-2026-000128",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000128",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000256",
+    "review_id": "REV-2026-000128",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000257",
+    "review_id": "REV-2026-000129",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000129",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000258",
+    "review_id": "REV-2026-000129",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000259",
+    "review_id": "REV-2026-000130",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000130",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000260",
+    "review_id": "REV-2026-000130",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000261",
+    "review_id": "REV-2026-000131",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000131",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000262",
+    "review_id": "REV-2026-000131",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000263",
+    "review_id": "REV-2026-000132",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000132",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000264",
+    "review_id": "REV-2026-000132",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000265",
+    "review_id": "REV-2026-000133",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000133",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000266",
+    "review_id": "REV-2026-000133",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000267",
+    "review_id": "REV-2026-000134",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000134",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000268",
+    "review_id": "REV-2026-000134",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000269",
+    "review_id": "REV-2026-000135",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000135",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000270",
+    "review_id": "REV-2026-000135",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000271",
+    "review_id": "REV-2026-000136",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000136",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000272",
+    "review_id": "REV-2026-000136",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000273",
+    "review_id": "REV-2026-000137",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000137",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000274",
+    "review_id": "REV-2026-000137",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000275",
+    "review_id": "REV-2026-000138",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000138",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000276",
+    "review_id": "REV-2026-000138",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000277",
+    "review_id": "REV-2026-000139",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000139",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000278",
+    "review_id": "REV-2026-000139",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000279",
+    "review_id": "REV-2026-000140",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000140",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000280",
+    "review_id": "REV-2026-000140",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000281",
+    "review_id": "REV-2026-000141",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000141",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000282",
+    "review_id": "REV-2026-000141",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000283",
+    "review_id": "REV-2026-000142",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000142",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000284",
+    "review_id": "REV-2026-000142",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000285",
+    "review_id": "REV-2026-000143",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000143",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000286",
+    "review_id": "REV-2026-000143",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000287",
+    "review_id": "REV-2026-000144",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000144",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000288",
+    "review_id": "REV-2026-000144",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000289",
+    "review_id": "REV-2026-000145",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000145",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000290",
+    "review_id": "REV-2026-000145",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000291",
+    "review_id": "REV-2026-000146",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000146",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000292",
+    "review_id": "REV-2026-000146",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000293",
+    "review_id": "REV-2026-000147",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000147",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000294",
+    "review_id": "REV-2026-000147",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000295",
+    "review_id": "REV-2026-000148",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000148",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000296",
+    "review_id": "REV-2026-000148",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000297",
+    "review_id": "REV-2026-000149",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000149",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000298",
+    "review_id": "REV-2026-000149",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000299",
+    "review_id": "REV-2026-000150",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000150",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000300",
+    "review_id": "REV-2026-000150",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "COMPLETED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000301",
+    "review_id": "REV-2026-000151",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000001",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000302",
+    "review_id": "REV-2026-000152",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000002",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000303",
+    "review_id": "REV-2026-000153",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000003",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000304",
+    "review_id": "REV-2026-000154",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000004",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000305",
+    "review_id": "REV-2026-000155",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000005",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000306",
+    "review_id": "REV-2026-000156",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000006",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000307",
+    "review_id": "REV-2026-000157",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000007",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000308",
+    "review_id": "REV-2026-000158",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000008",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000309",
+    "review_id": "REV-2026-000159",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000009",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000310",
+    "review_id": "REV-2026-000160",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000010",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000311",
+    "review_id": "REV-2026-000160",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000312",
+    "review_id": "REV-2026-000161",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000011",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000313",
+    "review_id": "REV-2026-000162",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000012",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000314",
+    "review_id": "REV-2026-000163",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000013",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000315",
+    "review_id": "REV-2026-000164",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000014",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000316",
+    "review_id": "REV-2026-000165",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000015",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000317",
+    "review_id": "REV-2026-000166",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000016",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000318",
+    "review_id": "REV-2026-000167",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000017",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000319",
+    "review_id": "REV-2026-000168",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000018",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000320",
+    "review_id": "REV-2026-000169",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000019",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000321",
+    "review_id": "REV-2026-000170",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000020",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000322",
+    "review_id": "REV-2026-000171",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000021",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000323",
+    "review_id": "REV-2026-000172",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000022",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000324",
+    "review_id": "REV-2026-000173",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000023",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000325",
+    "review_id": "REV-2026-000174",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000024",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000326",
+    "review_id": "REV-2026-000175",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000025",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000327",
+    "review_id": "REV-2026-000176",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000026",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000328",
+    "review_id": "REV-2026-000177",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000027",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000329",
+    "review_id": "REV-2026-000178",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000028",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000330",
+    "review_id": "REV-2026-000179",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000029",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000331",
+    "review_id": "REV-2026-000180",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000030",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000332",
+    "review_id": "REV-2026-000181",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000031",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000333",
+    "review_id": "REV-2026-000182",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000032",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000334",
+    "review_id": "REV-2026-000183",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000033",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000335",
+    "review_id": "REV-2026-000184",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000034",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000336",
+    "review_id": "REV-2026-000185",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000035",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000337",
+    "review_id": "REV-2026-000186",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000036",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000338",
+    "review_id": "REV-2026-000187",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000037",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000339",
+    "review_id": "REV-2026-000188",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000038",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000340",
+    "review_id": "REV-2026-000189",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000039",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000341",
+    "review_id": "REV-2026-000190",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000040",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000342",
+    "review_id": "REV-2026-000190",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000343",
+    "review_id": "REV-2026-000191",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000041",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000344",
+    "review_id": "REV-2026-000192",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000042",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000345",
+    "review_id": "REV-2026-000193",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000043",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000346",
+    "review_id": "REV-2026-000194",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000044",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000347",
+    "review_id": "REV-2026-000195",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000045",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000348",
+    "review_id": "REV-2026-000196",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000046",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000349",
+    "review_id": "REV-2026-000197",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000047",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000350",
+    "review_id": "REV-2026-000198",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000048",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000351",
+    "review_id": "REV-2026-000199",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000049",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000352",
+    "review_id": "REV-2026-000200",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000050",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000353",
+    "review_id": "REV-2026-000201",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000051",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000354",
+    "review_id": "REV-2026-000202",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000052",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000355",
+    "review_id": "REV-2026-000203",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000053",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000356",
+    "review_id": "REV-2026-000204",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000054",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000357",
+    "review_id": "REV-2026-000205",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000055",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000358",
+    "review_id": "REV-2026-000206",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000056",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000359",
+    "review_id": "REV-2026-000207",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000057",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000360",
+    "review_id": "REV-2026-000208",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000058",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000361",
+    "review_id": "REV-2026-000209",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000059",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000362",
+    "review_id": "REV-2026-000210",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000060",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000363",
+    "review_id": "REV-2026-000210",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000364",
+    "review_id": "REV-2026-000211",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000061",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000365",
+    "review_id": "REV-2026-000212",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000062",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000366",
+    "review_id": "REV-2026-000213",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000063",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000367",
+    "review_id": "REV-2026-000214",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000064",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000368",
+    "review_id": "REV-2026-000215",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000065",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000369",
+    "review_id": "REV-2026-000216",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000066",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000370",
+    "review_id": "REV-2026-000217",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000067",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000371",
+    "review_id": "REV-2026-000218",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000068",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000372",
+    "review_id": "REV-2026-000219",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000069",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000373",
+    "review_id": "REV-2026-000220",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000070",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000374",
+    "review_id": "REV-2026-000221",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000071",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000375",
+    "review_id": "REV-2026-000222",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000072",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000376",
+    "review_id": "REV-2026-000223",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000073",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000377",
+    "review_id": "REV-2026-000224",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000074",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000378",
+    "review_id": "REV-2026-000225",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000075",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000379",
+    "review_id": "REV-2026-000226",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000076",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000380",
+    "review_id": "REV-2026-000227",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000077",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000381",
+    "review_id": "REV-2026-000228",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000078",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000382",
+    "review_id": "REV-2026-000229",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000079",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000383",
+    "review_id": "REV-2026-000230",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000080",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000384",
+    "review_id": "REV-2026-000231",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000081",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000385",
+    "review_id": "REV-2026-000231",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000386",
+    "review_id": "REV-2026-000232",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000082",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000387",
+    "review_id": "REV-2026-000233",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000083",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000388",
+    "review_id": "REV-2026-000234",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000084",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000389",
+    "review_id": "REV-2026-000235",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000085",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000390",
+    "review_id": "REV-2026-000236",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000086",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000391",
+    "review_id": "REV-2026-000236",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000392",
+    "review_id": "REV-2026-000237",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000087",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000393",
+    "review_id": "REV-2026-000238",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000088",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000394",
+    "review_id": "REV-2026-000239",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000089",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000395",
+    "review_id": "REV-2026-000240",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000090",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000396",
+    "review_id": "REV-2026-000241",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000091",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000397",
+    "review_id": "REV-2026-000242",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000092",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000398",
+    "review_id": "REV-2026-000243",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000093",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000399",
+    "review_id": "REV-2026-000244",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000094",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000400",
+    "review_id": "REV-2026-000245",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000095",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000401",
+    "review_id": "REV-2026-000245",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000402",
+    "review_id": "REV-2026-000246",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000096",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000403",
+    "review_id": "REV-2026-000247",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000097",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000404",
+    "review_id": "REV-2026-000248",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000098",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000405",
+    "review_id": "REV-2026-000249",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000099",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000406",
+    "review_id": "REV-2026-000250",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000100",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000407",
+    "review_id": "REV-2026-000250",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000408",
+    "review_id": "REV-2026-000251",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000101",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000409",
+    "review_id": "REV-2026-000252",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000102",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000410",
+    "review_id": "REV-2026-000253",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000103",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000411",
+    "review_id": "REV-2026-000254",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000104",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000412",
+    "review_id": "REV-2026-000255",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000105",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000413",
+    "review_id": "REV-2026-000255",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000414",
+    "review_id": "REV-2026-000256",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000106",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000415",
+    "review_id": "REV-2026-000257",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000107",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000416",
+    "review_id": "REV-2026-000258",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000108",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000417",
+    "review_id": "REV-2026-000259",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000109",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000418",
+    "review_id": "REV-2026-000260",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000110",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000419",
+    "review_id": "REV-2026-000261",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000111",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000420",
+    "review_id": "REV-2026-000262",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000112",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000421",
+    "review_id": "REV-2026-000263",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000113",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000422",
+    "review_id": "REV-2026-000264",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000114",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000423",
+    "review_id": "REV-2026-000265",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000115",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000424",
+    "review_id": "REV-2026-000266",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000116",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000425",
+    "review_id": "REV-2026-000266",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000426",
+    "review_id": "REV-2026-000267",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000117",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000427",
+    "review_id": "REV-2026-000268",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000118",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000428",
+    "review_id": "REV-2026-000269",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000119",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000429",
+    "review_id": "REV-2026-000270",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000120",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000430",
+    "review_id": "REV-2026-000271",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000121",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000431",
+    "review_id": "REV-2026-000272",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000122",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000432",
+    "review_id": "REV-2026-000273",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000123",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000433",
+    "review_id": "REV-2026-000274",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000124",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000434",
+    "review_id": "REV-2026-000275",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000125",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000435",
+    "review_id": "REV-2026-000275",
+    "previous_stage": "SELF_REVIEW_PENDING",
+    "new_stage": "APPROVED",
+    "changed_by": "EMP-000001",
+    "comments": "Final review score calibrated and approved."
+  },
+  {
+    "history_id": "RH-000436",
+    "review_id": "REV-2026-000276",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000126",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000437",
+    "review_id": "REV-2026-000277",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000127",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000438",
+    "review_id": "REV-2026-000278",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000128",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000439",
+    "review_id": "REV-2026-000279",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000129",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000440",
+    "review_id": "REV-2026-000280",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000130",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000441",
+    "review_id": "REV-2026-000281",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000131",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000442",
+    "review_id": "REV-2026-000282",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000132",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000443",
+    "review_id": "REV-2026-000283",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000133",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000444",
+    "review_id": "REV-2026-000284",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000134",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000445",
+    "review_id": "REV-2026-000285",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000135",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000446",
+    "review_id": "REV-2026-000286",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000136",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000447",
+    "review_id": "REV-2026-000287",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000137",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000448",
+    "review_id": "REV-2026-000288",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000138",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000449",
+    "review_id": "REV-2026-000289",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000139",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000450",
+    "review_id": "REV-2026-000290",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000140",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000451",
+    "review_id": "REV-2026-000291",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000141",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000452",
+    "review_id": "REV-2026-000292",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000142",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000453",
+    "review_id": "REV-2026-000293",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000143",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000454",
+    "review_id": "REV-2026-000294",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000144",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000455",
+    "review_id": "REV-2026-000295",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000145",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000456",
+    "review_id": "REV-2026-000296",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000146",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000457",
+    "review_id": "REV-2026-000297",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000147",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000458",
+    "review_id": "REV-2026-000298",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000148",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000459",
+    "review_id": "REV-2026-000299",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000149",
+    "comments": "Self assessment initiated."
+  },
+  {
+    "history_id": "RH-000460",
+    "review_id": "REV-2026-000300",
+    "previous_stage": "DRAFT",
+    "new_stage": "SELF_REVIEW_PENDING",
+    "changed_by": "EMP-000150",
+    "comments": "Self assessment initiated."
+  }
+]

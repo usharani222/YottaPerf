@@ -1,0 +1,26 @@
+record_id,entity_type,issue_type,expected_label,expected_decision,explanation
+GOAL-ANOMALY-OWNER-001,goals,GOAL_OWNER_MISMATCH,ANOMALY_GOAL_OWNER_MISMATCH,REASSIGN_OR_QUARANTINE,Discrepancy detected between goal owner EMP-000002 and author EMP-000007.
+GOAL-ANOMALY-OWNER-002,goals,GOAL_OWNER_MISMATCH,ANOMALY_GOAL_OWNER_MISMATCH,REASSIGN_OR_QUARANTINE,Discrepancy detected between goal owner EMP-000003 and author EMP-000008.
+GOAL-ANOMALY-OWNER-003,goals,GOAL_OWNER_MISMATCH,ANOMALY_GOAL_OWNER_MISMATCH,REASSIGN_OR_QUARANTINE,Discrepancy detected between goal owner EMP-000004 and author EMP-000009.
+GOAL-ANOMALY-OWNER-004,goals,GOAL_OWNER_MISMATCH,ANOMALY_GOAL_OWNER_MISMATCH,REASSIGN_OR_QUARANTINE,Discrepancy detected between goal owner EMP-000005 and author EMP-000010.
+GOAL-ANOMALY-OWNER-005,goals,GOAL_OWNER_MISMATCH,ANOMALY_GOAL_OWNER_MISMATCH,REASSIGN_OR_QUARANTINE,Discrepancy detected between goal owner EMP-000006 and author EMP-000011.
+KR-ANOMALY-PROG-001,key_results,INVALID_PROGRESS,ANOMALY_INVALID_PROGRESS,RECALCULATE_PROGRESS,Calculated progress percentage deviates from source observation formula by > 200%.
+KR-ANOMALY-PROG-002,key_results,INVALID_PROGRESS,ANOMALY_INVALID_PROGRESS,RECALCULATE_PROGRESS,Calculated progress percentage deviates from source observation formula by > 200%.
+KR-ANOMALY-PROG-003,key_results,INVALID_PROGRESS,ANOMALY_INVALID_PROGRESS,RECALCULATE_PROGRESS,Calculated progress percentage deviates from source observation formula by > 200%.
+KR-ANOMALY-PROG-004,key_results,INVALID_PROGRESS,ANOMALY_INVALID_PROGRESS,RECALCULATE_PROGRESS,Calculated progress percentage deviates from source observation formula by > 200%.
+KR-ANOMALY-PROG-005,key_results,INVALID_PROGRESS,ANOMALY_INVALID_PROGRESS,RECALCULATE_PROGRESS,Calculated progress percentage deviates from source observation formula by > 200%.
+FB-ANOMALY-REV-001,feedbacks,INVALID_REVIEWER,ANOMALY_INVALID_REVIEWER,EXCLUDE_FROM_CALIBRATION,Reviewer EMP-000017 does not satisfy eligibility criteria for subject EMP-000002.
+FB-ANOMALY-REV-002,feedbacks,INVALID_REVIEWER,ANOMALY_INVALID_REVIEWER,EXCLUDE_FROM_CALIBRATION,Reviewer EMP-000018 does not satisfy eligibility criteria for subject EMP-000003.
+FB-ANOMALY-REV-003,feedbacks,INVALID_REVIEWER,ANOMALY_INVALID_REVIEWER,EXCLUDE_FROM_CALIBRATION,Reviewer EMP-000019 does not satisfy eligibility criteria for subject EMP-000004.
+FB-ANOMALY-REV-004,feedbacks,INVALID_REVIEWER,ANOMALY_INVALID_REVIEWER,EXCLUDE_FROM_CALIBRATION,Reviewer EMP-000020 does not satisfy eligibility criteria for subject EMP-000005.
+FB-ANOMALY-REV-005,feedbacks,INVALID_REVIEWER,ANOMALY_INVALID_REVIEWER,EXCLUDE_FROM_CALIBRATION,Reviewer EMP-000021 does not satisfy eligibility criteria for subject EMP-000006.
+GOAL-ANOMALY-CLOSED-001,goals,CLOSED_CYCLE_MODIFICATION,ANOMALY_CLOSED_CYCLE_MODIFICATION,REVERT_TO_SNAPSHOT,Record modified in a closed cycle without required audit approval.
+GOAL-ANOMALY-CLOSED-002,goals,CLOSED_CYCLE_MODIFICATION,ANOMALY_CLOSED_CYCLE_MODIFICATION,REVERT_TO_SNAPSHOT,Record modified in a closed cycle without required audit approval.
+GOAL-ANOMALY-CLOSED-003,goals,CLOSED_CYCLE_MODIFICATION,ANOMALY_CLOSED_CYCLE_MODIFICATION,REVERT_TO_SNAPSHOT,Record modified in a closed cycle without required audit approval.
+GOAL-ANOMALY-CLOSED-004,goals,CLOSED_CYCLE_MODIFICATION,ANOMALY_CLOSED_CYCLE_MODIFICATION,REVERT_TO_SNAPSHOT,Record modified in a closed cycle without required audit approval.
+GOAL-ANOMALY-CLOSED-005,goals,CLOSED_CYCLE_MODIFICATION,ANOMALY_CLOSED_CYCLE_MODIFICATION,REVERT_TO_SNAPSHOT,Record modified in a closed cycle without required audit approval.
+FB-ANOMALY-UNTRACE-001,feedbacks,UNTRACEABLE_FEEDBACK,ANOMALY_UNTRACEABLE_FEEDBACK,REQUEST_EVIDENCE_OR_DISCARD,Extreme rating submitted without mandatory evidence link or descriptive commentary.
+FB-ANOMALY-UNTRACE-002,feedbacks,UNTRACEABLE_FEEDBACK,ANOMALY_UNTRACEABLE_FEEDBACK,REQUEST_EVIDENCE_OR_DISCARD,Extreme rating submitted without mandatory evidence link or descriptive commentary.
+FB-ANOMALY-UNTRACE-003,feedbacks,UNTRACEABLE_FEEDBACK,ANOMALY_UNTRACEABLE_FEEDBACK,REQUEST_EVIDENCE_OR_DISCARD,Extreme rating submitted without mandatory evidence link or descriptive commentary.
+FB-ANOMALY-UNTRACE-004,feedbacks,UNTRACEABLE_FEEDBACK,ANOMALY_UNTRACEABLE_FEEDBACK,REQUEST_EVIDENCE_OR_DISCARD,Extreme rating submitted without mandatory evidence link or descriptive commentary.
+FB-ANOMALY-UNTRACE-005,feedbacks,UNTRACEABLE_FEEDBACK,ANOMALY_UNTRACEABLE_FEEDBACK,REQUEST_EVIDENCE_OR_DISCARD,Extreme rating submitted without mandatory evidence link or descriptive commentary.

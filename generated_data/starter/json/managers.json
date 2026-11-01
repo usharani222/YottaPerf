@@ -1,0 +1,152 @@
+[
+  {
+    "manager_id": "MGR-000001",
+    "employee_id": "EMP-000001",
+    "management_level": "Executive",
+    "budget_authority": 5000000.0
+  },
+  {
+    "manager_id": "MGR-000002",
+    "employee_id": "EMP-000002",
+    "management_level": "VP",
+    "budget_authority": 1000000.0
+  },
+  {
+    "manager_id": "MGR-000003",
+    "employee_id": "EMP-000003",
+    "management_level": "VP",
+    "budget_authority": 1000000.0
+  },
+  {
+    "manager_id": "MGR-000004",
+    "employee_id": "EMP-000004",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000005",
+    "employee_id": "EMP-000005",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000006",
+    "employee_id": "EMP-000006",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000007",
+    "employee_id": "EMP-000007",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000008",
+    "employee_id": "EMP-000008",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000009",
+    "employee_id": "EMP-000009",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000010",
+    "employee_id": "EMP-000010",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000011",
+    "employee_id": "EMP-000011",
+    "management_level": "Director",
+    "budget_authority": 300000.0
+  },
+  {
+    "manager_id": "MGR-000012",
+    "employee_id": "EMP-000012",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000013",
+    "employee_id": "EMP-000013",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000014",
+    "employee_id": "EMP-000014",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000015",
+    "employee_id": "EMP-000015",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000016",
+    "employee_id": "EMP-000016",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000017",
+    "employee_id": "EMP-000017",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000018",
+    "employee_id": "EMP-000018",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000019",
+    "employee_id": "EMP-000019",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000020",
+    "employee_id": "EMP-000020",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000021",
+    "employee_id": "EMP-000021",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000022",
+    "employee_id": "EMP-000022",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000023",
+    "employee_id": "EMP-000023",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000024",
+    "employee_id": "EMP-000024",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  },
+  {
+    "manager_id": "MGR-000025",
+    "employee_id": "EMP-000025",
+    "management_level": "Team Lead",
+    "budget_authority": 50000.0
+  }
+]

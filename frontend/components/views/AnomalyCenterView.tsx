@@ -76,42 +76,42 @@ export const AnomalyCenterView: React.FC<AnomalyCenterViewProps> = ({ anomalies,
       </div>
 
       {/* Anomalies Table */}
-      <div className="overflow-hidden rounded-xl border border-slate-800 bg-slate-900/60 shadow-lg">
+      <div className="overflow-hidden rounded-2xl border border-white/[0.08] bg-slate-900/40 backdrop-blur-2xl shadow-xl">
         <div className="overflow-x-auto">
           <table className="w-full text-left text-xs">
-            <thead className="border-b border-slate-800 bg-slate-950/60 text-slate-400">
+            <thead className="border-b border-white/[0.08] bg-slate-950/80 text-slate-400">
               <tr>
-                <th className="py-3 px-4 font-semibold">Anomaly ID</th>
-                <th className="py-3 px-4 font-semibold">Severity</th>
-                <th className="py-3 px-4 font-semibold">Issue Classification</th>
-                <th className="py-3 px-4 font-semibold">Affected Record</th>
-                <th className="py-3 px-4 font-semibold">Diagnostic Signature</th>
-                <th className="py-3 px-4 font-semibold">Expected Resolution</th>
-                <th className="py-3 px-4 font-semibold text-center">Status</th>
-                <th className="py-3 px-4 font-semibold text-right">Actions</th>
+                <th className="py-3.5 px-4 font-semibold">Anomaly ID</th>
+                <th className="py-3.5 px-4 font-semibold">Severity</th>
+                <th className="py-3.5 px-4 font-semibold">Issue Classification</th>
+                <th className="py-3.5 px-4 font-semibold">Affected Record</th>
+                <th className="py-3.5 px-4 font-semibold">Diagnostic Signature</th>
+                <th className="py-3.5 px-4 font-semibold">Expected Resolution</th>
+                <th className="py-3.5 px-4 font-semibold text-center">Status</th>
+                <th className="py-3.5 px-4 font-semibold text-right">Actions</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-slate-800/60 text-slate-300">
+            <tbody className="divide-y divide-white/[0.05] text-slate-300">
               {filtered.map((a) => (
-                <tr key={a.anomaly_id} className="hover:bg-slate-800/40 transition">
-                  <td className="py-3 px-4 font-mono font-medium text-indigo-400">{a.anomaly_id}</td>
-                  <td className="py-3 px-4">
-                    <span className={`inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-bold border ${
+                <tr key={a.anomaly_id} className="hover:bg-slate-800/30 transition-colors">
+                  <td className="py-3.5 px-4 font-mono font-medium text-rose-400">{a.anomaly_id}</td>
+                  <td className="py-3.5 px-4">
+                    <span className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-[10px] font-bold border ${
                       a.severity === 'CRITICAL' ? 'bg-red-500/10 text-red-400 border-red-500/30' :
                       a.severity === 'HIGH' ? 'bg-orange-500/10 text-orange-400 border-orange-500/30' :
                       a.severity === 'MEDIUM' ? 'bg-amber-500/10 text-amber-400 border-amber-500/30' :
-                      'bg-slate-800 text-slate-300'
+                      'bg-slate-800 text-slate-300 border border-white/[0.05]'
                     }`}>
                       {a.severity}
                     </span>
                   </td>
-                  <td className="py-3 px-4 font-medium text-white">{a.issue_type}</td>
-                  <td className="py-3 px-4 font-mono text-slate-400">
-                    <span className="rounded bg-slate-950 px-1.5 py-0.5 border border-slate-800 text-[11px] text-indigo-300">
+                  <td className="py-3.5 px-4 font-semibold text-white">{a.issue_type}</td>
+                  <td className="py-3.5 px-4 font-mono text-slate-400">
+                    <span className="rounded-lg bg-slate-950/90 px-2 py-1 border border-white/[0.08] text-[11px] text-cyan-300">
                       {a.affected_entity}:{a.affected_record_id}
                     </span>
                   </td>
-                  <td className="py-3 px-4 max-w-xs truncate text-slate-300" title={a.description}>
+                  <td className="py-3.5 px-4 max-w-xs truncate text-slate-300" title={a.description}>
                     {a.description}
                   </td>
                   <td className="py-3 px-4 max-w-xs truncate text-slate-400" title={a.expected_resolution}>

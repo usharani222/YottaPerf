@@ -105,20 +105,20 @@ export const GoalsView: React.FC<GoalsViewProps> = ({ goals, employees, cycles, 
           return (
             <div
               key={g.goal_id}
-              className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 space-y-4 hover:border-slate-700 transition"
+              className="rounded-2xl border border-white/[0.08] bg-slate-900/40 backdrop-blur-xl p-5 space-y-4 hover:border-emerald-500/40 hover:shadow-xl hover:shadow-emerald-500/5 transition-all duration-300"
             >
               <div className="flex items-start justify-between gap-2">
                 <div>
                   <div className="flex items-center gap-2">
-                    <span className="font-mono text-xs font-semibold text-indigo-400">{g.goal_id}</span>
-                    <span className={`rounded px-1.5 py-0.5 text-[10px] font-bold ${
+                    <span className="font-mono text-xs font-semibold text-emerald-400">{g.goal_id}</span>
+                    <span className={`rounded-full px-2 py-0.5 text-[10px] font-bold ${
                       g.priority === 'CRITICAL' ? 'bg-rose-500/10 text-rose-400 border border-rose-500/20' :
                       g.priority === 'HIGH' ? 'bg-amber-500/10 text-amber-400 border border-amber-500/20' :
-                      'bg-slate-800 text-slate-300'
+                      'bg-slate-800 text-slate-300 border border-white/[0.05]'
                     }`}>
                       {g.priority}
                     </span>
-                    <span className="rounded bg-slate-800 px-1.5 py-0.5 text-[10px] font-medium text-slate-400">
+                    <span className="rounded-full bg-slate-800/60 px-2 py-0.5 text-[10px] font-medium text-slate-400 border border-white/[0.05]">
                       {g.category}
                     </span>
                   </div>
@@ -129,7 +129,7 @@ export const GoalsView: React.FC<GoalsViewProps> = ({ goals, employees, cycles, 
                 <button
                   onClick={() => viewHistory(g)}
                   title="View Version History"
-                  className="rounded-lg p-1.5 text-slate-400 hover:bg-slate-800 hover:text-white transition"
+                  className="rounded-xl p-2 text-slate-400 hover:bg-slate-800 hover:text-emerald-400 border border-transparent hover:border-white/[0.05] transition"
                 >
                   <History className="h-4 w-4" />
                 </button>
@@ -139,14 +139,14 @@ export const GoalsView: React.FC<GoalsViewProps> = ({ goals, employees, cycles, 
               <div>
                 <div className="flex items-center justify-between text-xs mb-1.5">
                   <span className="text-slate-400">Calculated Weighted Progress</span>
-                  <span className="font-bold text-white">{progress}%</span>
+                  <span className="font-mono font-bold text-emerald-400">{progress}%</span>
                 </div>
-                <div className="h-2 w-full rounded-full bg-slate-800 overflow-hidden">
+                <div className="h-2 w-full rounded-full bg-slate-800/80 overflow-hidden">
                   <div
                     className={`h-full transition-all duration-500 ${
-                      progress >= 100 ? 'bg-emerald-500' :
-                      progress >= 70 ? 'bg-indigo-500' :
-                      progress >= 40 ? 'bg-amber-500' : 'bg-rose-500'
+                      progress >= 100 ? 'bg-gradient-to-r from-emerald-500 to-teal-400' :
+                      progress >= 70 ? 'bg-gradient-to-r from-teal-500 to-cyan-400' :
+                      progress >= 40 ? 'bg-gradient-to-r from-amber-500 to-orange-400' : 'bg-rose-500'
                     }`}
                     style={{ width: `${Math.min(100, progress)}%` }}
                   />

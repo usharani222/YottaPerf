@@ -160,21 +160,25 @@ export default function Home() {
   const activeCycleName = activeCycle ? `${activeCycle.cycle_id} (${activeCycle.cycle_name})` : 'CYCLE-2026-H1';
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans">
+    <div className="relative min-h-screen bg-[#030712] text-slate-100 flex flex-col font-sans selection:bg-emerald-500/30 selection:text-emerald-300">
+      {/* Ambient background glow orbs */}
+      <div className="pointer-events-none fixed top-0 left-1/4 h-[550px] w-[550px] rounded-full bg-emerald-500/5 blur-[130px]" />
+      <div className="pointer-events-none fixed bottom-0 right-1/4 h-[550px] w-[550px] rounded-full bg-cyan-500/5 blur-[130px]" />
+
       <Navbar
         currentUser={currentUser}
         activeCycleName={activeCycleName}
         onRefresh={fetchAllData}
       />
 
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-1 overflow-hidden relative z-10">
         <Sidebar
           currentTab={currentTab}
           onSelectTab={setCurrentTab}
           openAnomalyCount={openAnomaliesCount}
         />
 
-        <main className="flex-1 overflow-y-auto p-6 md:p-8 bg-slate-950/60">
+        <main className="flex-1 overflow-y-auto p-6 md:p-8 bg-transparent">
           {currentTab === 'dashboard' && (
             <DashboardView
               kpis={kpis}

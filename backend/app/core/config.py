@@ -4,6 +4,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
+    ENVIRONMENT: str = os.getenv("ENVIRONMENT", "development")
     PROJECT_NAME: str = "YottaPerf Performance Management Platform"
     API_V1_STR: str = "/api"
     SECRET_KEY: str = os.getenv("SECRET_KEY", "yottaperf-super-secret-key-20261022-change-in-production")
@@ -37,5 +38,15 @@ class Settings(BaseSettings):
         extra="ignore"
     )
 
+    def __init__(self, **values):
+        super().__init__(**values)
+        if self.ENVIRONMENT == "production":
+            if not self.SECRET_KEY or "change-in-production" in self.SECRET_KEY:
+                raise ValueError(
+                    "FATAL SECURITY VIOLATION: Insecure default SECRET_KEY detected in production environment! "
+                    "A secure, cryptographically random SECRET_KEY must be configured via environment variable."
+                )
+
 
 settings = Settings()
+

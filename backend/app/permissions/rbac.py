@@ -54,11 +54,20 @@ def get_current_user(
         )
 
     token = credentials.credentials
-    payload = decode_access_token(token)
-    if not payload:
+    try:
+        import jwt
+        from backend.app.core.config import settings
+        payload = jwt.decode(token, settings.SECRET_KEY, algorithms=[settings.ALGORITHM])
+    except jwt.ExpiredSignatureError:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Token is expired or invalid",
+            detail="Token is expired",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+    except jwt.PyJWTError:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Token is invalid",
             headers={"WWW-Authenticate": "Bearer"},
         )
 

@@ -253,3 +253,109 @@ Exception registry for detected system inconsistencies and injected scenarios.
 | `ground_truth_label`| VARCHAR(50)| NOT NULL | Expected anomaly classification |
 | `expected_resolution`| TEXT | NOT NULL | Recommended remediation |
 | `detection_timestamp`| TIMESTAMPTZ| DEFAULT CURRENT_TIMESTAMP| Time detected |
+
+### 2.6 `roles`
+Defines RBAC security roles across the platform.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `role_id` | VARCHAR(32) | PRIMARY KEY | Format: `ROLE-ADMIN`, `ROLE-MGR`, etc. |
+| `name` | VARCHAR(50) | UNIQUE, NOT NULL | `ADMIN`, `HR_PARTNER`, `MANAGER`, `EMPLOYEE`, `IT_OPS` |
+| `description` | TEXT | | Human-readable role authority description |
+| `created_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Creation timestamp |
+
+### 2.7 `employee_roles`
+M:N bridge table associating employees with system security roles.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `employee_id` | VARCHAR(32) | FK -> `employees.employee_id` | Composite PK part 1 |
+| `role_id` | VARCHAR(32) | FK -> `roles.role_id` | Composite PK part 2 |
+| `assigned_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Timestamp of assignment |
+
+### 2.8 `user_accounts`
+Authentication credentials, argon2/bcrypt password hashes, and active status.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `user_id` | VARCHAR(32) | PRIMARY KEY | Format: `USR-000001` |
+| `employee_id` | VARCHAR(32) | UNIQUE, FK -> `employees.employee_id` | Bound employee entity |
+| `username` | VARCHAR(100) | UNIQUE, NOT NULL | Corporate login handle (e.g. `eleanor.vance`) |
+| `email` | VARCHAR(255) | UNIQUE, NOT NULL | Corporate email address |
+| `hashed_password` | VARCHAR(255) | NOT NULL | Bcrypt salted hash (max 72 bytes plain input) |
+| `is_active` | BOOLEAN | DEFAULT TRUE | Account activity flag |
+| `created_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Account creation timestamp |
+| `last_login` | TIMESTAMPTZ | YES | Last recorded authentication session |
+
+### 2.9 `feedback_evidence`
+M:N bridge binding verifiable evidence artifacts to 360° feedback entries.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `feedback_id` | VARCHAR(32) | FK -> `feedbacks.feedback_id` | Composite PK part 1 |
+| `evidence_id` | VARCHAR(32) | FK -> `evidences.evidence_id` | Composite PK part 2 |
+| `linked_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Timestamp of linkage |
+
+### 2.10 `review_permissions`
+Defines authorized 360° peer and stakeholder review assignments per cycle.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `permission_id` | VARCHAR(32) | PRIMARY KEY | Format: `RP-000001` |
+| `review_cycle_id` | VARCHAR(32) | FK -> `review_cycles.cycle_id` | Bound review cycle |
+| `subject_employee_id` | VARCHAR(32) | FK -> `employees.employee_id` | Employee being reviewed |
+| `reviewer_employee_id`| VARCHAR(32) | FK -> `employees.employee_id` | Authorized reviewer |
+| `relationship_type` | VARCHAR(30) | NOT NULL | `PEER`, `CROSS_FUNCTIONAL`, `STAKEHOLDER` |
+| `granted_by` | VARCHAR(32) | FK -> `employees.employee_id` | Authorizing manager or HR partner |
+| `granted_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Authorization grant timestamp |
+
+### 2.11 `review_histories`
+State-machine stage transitions audit log for performance reviews.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `history_id` | VARCHAR(32) | PRIMARY KEY | Format: `RH-000001` |
+| `review_id` | VARCHAR(32) | FK -> `reviews.review_id` | Bound performance review |
+| `previous_stage` | VARCHAR(50) | NOT NULL | Stage before transition |
+| `new_stage` | VARCHAR(50) | NOT NULL | Stage after transition |
+| `changed_by` | VARCHAR(32) | FK -> `employees.employee_id` | Modifying actor |
+| `comments` | TEXT | | Stage transition notes |
+| `changed_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Transition timestamp |
+
+### 2.12 `development_activities`
+Granular learning actions, certifications, or projects comprising an IDP.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `activity_id` | VARCHAR(32) | PRIMARY KEY | Format: `DA-000001` |
+| `plan_id` | VARCHAR(32) | FK -> `development_plans.plan_id` | Parent development plan |
+| `title` | VARCHAR(200) | NOT NULL | Activity headline / course name |
+| `activity_type` | VARCHAR(50) | NOT NULL | `COURSE`, `MENTORSHIP`, `PROJECT`, `READING` |
+| `resource_url` | VARCHAR(500) | | External course or documentation URL |
+| `status` | VARCHAR(30) | DEFAULT 'NOT_STARTED' | `NOT_STARTED`, `IN_PROGRESS`, `COMPLETED` |
+| `completed_date` | DATE | YES | Completion timestamp |
+| `created_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Creation timestamp |
+
+### 2.13 `development_plan_approvals`
+Dual-level governance approval tracking (Manager + HR Partner) for IDPs.
+
+| Column | Type | Constraints | Description |
+|---|---|---|---|
+| `approval_id` | VARCHAR(32) | PRIMARY KEY | Format: `DPA-000001` |
+| `plan_id` | VARCHAR(32) | FK -> `development_plans.plan_id` | Bound development plan |
+| `approver_id` | VARCHAR(32) | FK -> `employees.employee_id` | Approving employee |
+| `approval_role` | VARCHAR(30) | NOT NULL | `MANAGER`, `HR_PARTNER` |
+| `decision` | VARCHAR(20) | NOT NULL | `APPROVED`, `REJECTED`, `CHANGES_REQUESTED` |
+| `comments` | TEXT | | Governance justification |
+| `decided_at` | TIMESTAMPTZ | DEFAULT CURRENT_TIMESTAMP | Timestamp of decision |
+
+---
+
+## 3. Ground Truth Evaluation Artifact (Non-Relational)
+
+> [!IMPORTANT]
+> **Ground Truth Isolation Guarantee**: Ground truth records (`ground_truth.json` and `ground_truth.csv`) are **offline evaluation benchmarks** stored exclusively in `generated_data/*/`. They are **NOT** a 24th relational database table.
+> - The runtime anomaly detection engine does **not** read or access ground truth files.
+> - Normal business operations, OKR calculations, review calibrations, and employee APIs never query ground truth.
+> - Ordinary application APIs mask ground truth labels as `RESTRICTED_SECURITY_ROLE` for non-administrative users.
+> - Ground truth is ingested strictly by evaluation verification harnesses (`backend/validators/runner.py`) after anomaly detection has completed to compute independent precision and recall metrics against the five injected negative scenarios.

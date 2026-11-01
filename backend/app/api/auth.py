@@ -1,5 +1,7 @@
+import time
+from collections import defaultdict
 from datetime import datetime, timezone
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, Request, status
 from sqlalchemy.orm import Session
 from sqlalchemy import select
 
@@ -11,9 +13,30 @@ from backend.app.permissions.rbac import get_current_user, AuthenticatedUser
 
 router = APIRouter(prefix="/auth", tags=["Authentication"])
 
+# Rate limiting storage: sliding window 10 attempts per minute
+LOGIN_ATTEMPTS = defaultdict(list)
+RATE_LIMIT_WINDOW = 60
+MAX_ATTEMPTS = 15
+
+
+def apply_rate_limit(key: str):
+    now = time.time()
+    valid_attempts = [t for t in LOGIN_ATTEMPTS[key] if now - t < RATE_LIMIT_WINDOW]
+    LOGIN_ATTEMPTS[key] = valid_attempts
+    if len(valid_attempts) >= MAX_ATTEMPTS:
+        raise HTTPException(
+            status_code=status.HTTP_429_TOO_MANY_REQUESTS,
+            detail="Rate limit exceeded: too many login attempts. Please wait 60 seconds before retrying."
+        )
+    LOGIN_ATTEMPTS[key].append(now)
+
 
 @router.post("/login", response_model=Token)
-def login(payload: LoginRequest, db: Session = Depends(get_db)):
+def login(payload: LoginRequest, request: Request, db: Session = Depends(get_db)):
+    client_ip = request.client.host if request.client else "unknown"
+    rate_key = f"{client_ip}:{payload.username}"
+    apply_rate_limit(rate_key)
+
     # Look up by username or email
     user = db.execute(
         select(UserAccount).where(

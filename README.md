@@ -36,7 +36,7 @@ Once Docker is running, open your terminal (Windows PowerShell, macOS Terminal, 
 
 ```bash
 git clone https://github.com/usharani222/YottaPerf.git
-cd YottaPerf/YottaPerf
+cd YottaPerf
 docker compose up --build -d
 ```
 
@@ -65,7 +65,7 @@ The following foundational engineering documents accompany this repository:
 |---|---|
 | **[ARCHITECTURE.md](ARCHITECTURE.md)** | **System Architecture:** Component topology, DAG hierarchy engine, 3NF relational diagrams, and RBAC security models. |
 | **[DESIGN_DECISIONS.md](DESIGN_DECISIONS.md)** | **Engineering Rationale:** Technical trade-offs, DFS vs SQL recursive CTEs, mathematical formulas, and closed-cycle ledger design. |
-| **[TESTING.md](TESTING.md)** | **Automated Test Evidence:** Catalog of 17 integration tests, execution logs (17 passed in 0.75s), and determinism audits. |
+| **[TESTING.md](TESTING.md)** | **Automated Test Evidence:** Catalog of 27 integration & security tests, execution logs (27 passed in 0.91s), and determinism audits. |
 | **[DEMO_GUIDE.md](DEMO_GUIDE.md)** | **Evaluator Walkthrough:** 5–10 minute step-by-step demonstration script and technical interviewer Q&A talking points. |
 | **[docs/final_submission_audit.md](docs/final_submission_audit.md)** | **Formal Verification Audit:** Line-by-line requirement verification checklist, dataset counts, and SHA-256 reproducibility hashes. |
 
@@ -223,7 +223,7 @@ graph TD
 - **Backend:** Python 3.12, FastAPI 0.110+, Pydantic v2, Uvicorn, SQLAlchemy 2.0 ORM, psycopg2, Alembic.
 - **Database:** PostgreSQL 16 (Primary containerized 3NF database) / SQLite (Automated fallback for standalone non-container usage).
 - **Data Engineering:** NumPy, Pandas, Faker (fixed deterministic seed `20261022`), Python standard libraries (`csv`, `json`, `hashlib`).
-- **Testing:** Pytest 9.2, AnyIO, Starlette TestClient (17 automated integration test cases across 6 suites).
+- **Testing:** Pytest 9.2, AnyIO, Starlette TestClient (27 automated integration & security test cases across 7 suites).
 - **Frontend:** Next.js 14 (App Router), React 19, TypeScript, Tailwind CSS, Lucide Icons, Recharts.
 - **Deployment:** Docker & Docker Compose, multi-stage production builds, resilient health probes.
 
@@ -393,34 +393,50 @@ curl -X POST http://localhost:8001/api/anomalies/ANO-000001/resolve \
 
 ---
 
-## 14. Comprehensive Data Exports Catalog (All 22+ Datasets + SQL Seed)
+## 14. Comprehensive Data Exports Catalog (All 23 Relational Tables + SQL Seed)
 
-YottaPerf provides dynamic, database-backed exports for all relational datasets in both CSV and JSON formats, plus unified SQL seed dumps:
+YottaPerf provides dynamic, database-backed exports for all 23 normalized relational tables in both CSV and JSON formats, plus unified SQL seed dumps.
 
-| # | Dataset Name | Entity Type | Starter Count | Full Count | CSV Export File | JSON Export File |
+### Complete 23 Relational Tables Matrix:
+
+| # | Database Table | Entity Type | Starter Count | Full Count | CSV Export File | JSON Export File |
 |---|---|---|---|---|---|---|
-| 1 | `employees` | Employee Profiles | 150 | 3,000 | `employees.csv` | `employees.json` |
-| 2 | `user_accounts` | Security Accounts | 150 | 3,000 | `user_accounts.csv` | `user_accounts.json` |
-| 3 | `managers` | Active Managers | 25 | 500 | `managers.csv` | `managers.json` |
-| 4 | `roles` | System Roles | 5 | 5 | `roles.csv` | `roles.json` |
-| 5 | `employee_roles` | User-Role Mapping | 163 | 3,536 | `employee_roles.csv` | `employee_roles.json` |
-| 6 | `review_cycles` | Review Windows | 2 | 2 | `review_cycles.csv` | `review_cycles.json` |
-| 7 | `competencies` | Capability Framework | 10 | 12 | `competencies.csv` | `competencies.json` |
-| 8 | `goals` | OKR Strategic Goals | 510 | 10,040 | `goals.csv` | `goals.json` |
-| 9 | `key_results` | Measurable KRs | 1,255 | 25,020 | `key_results.csv` | `key_results.json` |
-| 10 | `check_ins` | Periodic Updates | 1,200 | 20,000 | `check_ins.csv` | `check_ins.json` |
-| 11 | `evidences` | Evidence Links | 600 | 10,000 | `evidences.csv` | `evidences.json` |
-| 12 | `feedbacks` | 360° Ratings | 906 | 18,036 | `feedbacks.csv` | `feedbacks.json` |
-| 13 | `feedback_evidence` | Feedback-Evidence Bridge| 298 | 5,998 | `feedback_evidence.csv` | `feedback_evidence.json` |
-| 14 | `reviews` | Calibration Reviews | 300 | 6,000 | `reviews.csv` | `reviews.json` |
-| 15 | `review_histories` | Stage Transitions | 460 | 9,182 | `review_histories.csv` | `review_histories.json` |
-| 16 | `development_plans` | IDP Plans | 50 | 1,000 | `development_plans.csv` | `development_plans.json` |
-| 17 | `development_activities`| IDP Activities | 100 | 2,000 | `development_activities.csv`| `development_activities.json`|
-| 18 | `employee_manager_histories`| Manager Transfers | 149 | 2,999 | `employee_manager_histories.csv`| `employee_manager_histories.json`|
-| 19 | `anomalies` | Structural Exceptions | 25 | 100 | `anomalies.csv` | `anomalies.json` |
-| 20 | `audit_events` | Immutable Audit Trail| 50 | 50 | `audit_events.csv` | `audit_events.json` |
-| 21 | `ground_truth` | Negative Labels | 25 | 100 | `ground_truth.csv` | `ground_truth.json` |
-| — | **SQL Seed** | Full Database Dump | All | All | `starter/seed.sql` | `full/seed.sql` |
+| 1 | `employees` | Baseline Employees | 150 | 3,000 | `employees.csv` | `employees.json` |
+| 2 | `user_accounts` | Security Accounts & Bcrypt Hashes | 150 | 3,000 | `user_accounts.csv` | `user_accounts.json` |
+| 3 | `managers` | Baseline Active Managers | 25 | 500 | `managers.csv` | `managers.json` |
+| 4 | `roles` | RBAC System Roles | 5 | 5 | `roles.csv` | `roles.json` |
+| 5 | `employee_roles` | Employee-Role Bridge | 163 | 3,536 | `employee_roles.csv` | `employee_roles.json` |
+| 6 | `review_cycles` | Appraisal Review Windows | 2 | 2 | `review_cycles.csv` | `review_cycles.json` |
+| 7 | `competencies` | Capability Framework Frameworks | 10 | 12 | `competencies.csv` | `competencies.json` |
+| 8 | `goals` | OKR Goals (Baseline + Injected Anomalies) | 510 | 10,040 | `goals.csv` | `goals.json` |
+| 9 | `key_results` | Measurable KRs (Baseline + Anomalies) | 1,255 | 25,020 | `key_results.csv` | `key_results.json` |
+| 10 | `goal_histories` | Immutable Goal Audit Snapshots | 1,000 | 20,000 | `goal_histories.csv` | `goal_histories.json` |
+| 11 | `check_ins` | Periodic Progress Reports | 1,200 | 20,000 | `check_ins.csv` | `check_ins.json` |
+| 12 | `evidences` | Cryptographically Linked Evidence Vault | 600 | 10,000 | `evidences.csv` | `evidences.json` |
+| 13 | `feedbacks` | 360° Competency Feedback Entries | 906 | 18,036 | `feedbacks.csv` | `feedbacks.json` |
+| 14 | `feedback_evidence` | Feedback-to-Evidence Bridge | 298 | 5,998 | `feedback_evidence.csv` | `feedback_evidence.json` |
+| 15 | `reviews` | Calibration Performance Reviews | 300 | 6,000 | `reviews.csv` | `reviews.json` |
+| 16 | `review_histories` | Review Stage State-Machine Transitions | 460 | 9,182 | `review_histories.csv` | `review_histories.json` |
+| 17 | `review_permissions`| Authorized Reviewer Assignments | 298 | 5,998 | `review_permissions.csv` | `review_permissions.json` |
+| 18 | `development_plans` | Individual Development Plans (IDPs) | 50 | 1,000 | `development_plans.csv` | `development_plans.json` |
+| 19 | `development_activities`| IDP Courses, Milestones & Projects | 100 | 2,000 | `development_activities.csv`| `development_activities.json`|
+| 20 | `development_plan_approvals`| Dual-Level Manager + HR Approvals | 49 | 999 | `development_plan_approvals.csv`| `development_plan_approvals.json`|
+| 21 | `employee_manager_histories`| Historical Manager Transfers | 149 | 2,999 | `employee_manager_histories.csv`| `employee_manager_histories.json`|
+| 22 | `anomalies` | Detected Exceptions Ledger | 25 | 100 | `anomalies.csv` | `anomalies.json` |
+| 23 | `audit_events` | Tamper-Proof Administrative Ledger | 50 | 50 | `audit_events.csv` | `audit_events.json` |
+| — | **Total Relational Records** | **23 Database Tables Scanned** | **7,755** | **147,477** | **Zero Integrity Violations** | **PASSED** |
+| — | **SQL Database Seed** | Complete 3NF SQL Database Dump | All 23 Tables | All 23 Tables | `starter/seed.sql` | `full/seed.sql` |
+
+### Authoritative Dataset Count Reconciliation & Baseline Breakdown:
+
+| Metric Entity | Assignment Requirement | Starter Mode Breakdown | Full Mode Breakdown | Technical Reconciliation Note |
+|---|---|---|---|---|
+| **Employees** | 3,000 baseline in Full | **150** baseline | **3,000** baseline | 100% unique primary keys (`EMP-NNNNNN`). |
+| **Managers** | 500 baseline in Full | **25** baseline | **500** baseline | 1:6 direct report ratio; zero circular hierarchy loops. |
+| **Goals** | 10,000 baseline in Full | **500** baseline + **10** anomaly goals = **510 total** | **10,000** baseline + **40** anomaly goals = **10,040 total** | Baseline goals strictly meet requirements; anomaly goals (`GOAL-ANOMALY-*`) test detection engine. Past reports of 520 goals were un-reconciled drafts. |
+| **Key Results** | Scaled proportional to goals | **1,250** baseline + **5** anomaly KRs = **1,255 total** | **25,000** baseline + **20** anomaly KRs = **25,020 total** | Anomaly KRs (`KR-ANOMALY-PROG-*`) test out-of-bounds formula progress validation. Past reports of 1,296 were draft miscounts. |
+| **Check-Ins** | 20,000 baseline in Full | **1,200** baseline | **20,000** baseline | Exactly 20,000 check-ins generated and validated in full mode. |
+| **Ground Truth** | Isolated offline artifact | **25** evaluation records | **100** evaluation records | Stored in `ground_truth.json` / `ground_truth.csv`. **Not** a 24th database table; sequestered from ordinary APIs. |
 
 ---
 
@@ -503,7 +519,7 @@ YottaPerf/
 │   │   └── services/                # Business logic services (goals, org, reviews, etc.)
 │   ├── generator/                   # Deterministic synthetic data generator engine
 │   ├── validators/                  # 15-point automated validation engine
-│   ├── tests/                       # 17 Automated Pytest integration tests
+│   ├── tests/                       # 27 Automated Pytest integration & security tests
 │   ├── migrations/                  # Alembic database migrations
 │   ├── Dockerfile                   # Python 3.12 Backend Dockerfile
 │   └── requirements.txt             # Backend Python dependencies
@@ -602,38 +618,56 @@ docker compose down -v
 docker compose exec backend pytest backend/tests/ -v
 ```
 
-### Verified Pytest Log Output:
+### Verified Pytest Log Output (27 Tests Passed):
 ```text
 ============================= test session starts ==============================
-platform linux -- Python 3.12.3, pytest-9.2.0, pluggy-1.7.0
-collected 17 items                                                             
+platform linux -- Python 3.12.3, pytest-9.2.0, pluggy-1.7.0 -- /home/gowtham-flint/Desktop/YottaPerf/YottaPerf/venv/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/gowtham-flint/Desktop/YottaPerf/YottaPerf
+configfile: pytest.ini
+testpaths: backend/tests
+plugins: anyio-4.15.1, cov-7.1.0, Faker-40.44.0
+collected 27 items                                                             
 
-backend/tests/test_checkins_evidence.py::test_08_and_09_checkin_creation_and_evidence_linking PASSED [  5%]
-backend/tests/test_cycles_audit.py::test_14_closed_review_cycle_modification_rejection PASSED [ 11%]
-backend/tests/test_cycles_audit.py::test_15_audit_history_creation PASSED [ 17%]
-backend/tests/test_cycles_audit.py::test_16_development_plan_approval PASSED [ 23%]
-backend/tests/test_employees_org.py::test_01_employee_creation PASSED    [ 29%]
-backend/tests/test_employees_org.py::test_02_manager_assignment PASSED   [ 35%]
-backend/tests/test_employees_org.py::test_03_circular_hierarchy_rejection PASSED [ 41%]
-backend/tests/test_feedback_review.py::test_10_reviewer_relationship_validation PASSED [ 47%]
-backend/tests/test_feedback_review.py::test_11_conflicting_feedback_handling PASSED [ 52%]
-backend/tests/test_feedback_review.py::test_12_review_score_calculation PASSED [ 58%]
-backend/tests/test_feedback_review.py::test_13_review_approval_permissions PASSED [ 64%]
-backend/tests/test_goals_key_results.py::test_04_goal_creation PASSED    [ 70%]
-backend/tests/test_goals_key_results.py::test_05_key_result_progress_calculation PASSED [ 76%]
-backend/tests/test_goals_key_results.py::test_06_weighted_goal_progress_calculation PASSED [ 82%]
-backend/tests/test_goals_key_results.py::test_07_invalid_progress_rejection PASSED [ 88%]
-backend/tests/test_validation_engine.py::test_17_18_19_validation_engine_integrity_and_anomalies PASSED [ 94%]
+backend/tests/test_checkins_evidence.py::test_08_and_09_checkin_creation_and_evidence_linking PASSED [  3%]
+backend/tests/test_cycles_audit.py::test_14_closed_review_cycle_modification_rejection PASSED [  7%]
+backend/tests/test_cycles_audit.py::test_15_audit_history_creation PASSED [ 11%]
+backend/tests/test_cycles_audit.py::test_16_development_plan_approval PASSED [ 14%]
+backend/tests/test_employees_org.py::test_01_employee_creation PASSED    [ 18%]
+backend/tests/test_employees_org.py::test_02_manager_assignment PASSED   [ 22%]
+backend/tests/test_employees_org.py::test_03_circular_hierarchy_rejection PASSED [ 25%]
+backend/tests/test_feedback_review.py::test_10_reviewer_relationship_validation PASSED [ 29%]
+backend/tests/test_feedback_review.py::test_11_conflicting_feedback_handling PASSED [ 33%]
+backend/tests/test_feedback_review.py::test_12_review_score_calculation PASSED [ 37%]
+backend/tests/test_feedback_review.py::test_13_review_approval_permissions PASSED [ 40%]
+backend/tests/test_goals_key_results.py::test_04_goal_creation PASSED    [ 44%]
+backend/tests/test_goals_key_results.py::test_05_key_result_progress_calculation PASSED [ 48%]
+backend/tests/test_goals_key_results.py::test_06_weighted_goal_progress_calculation PASSED [ 51%]
+backend/tests/test_goals_key_results.py::test_07_invalid_progress_rejection PASSED [ 55%]
+backend/tests/test_security_rbac_audit.py::test_21_employee_data_isolation PASSED [ 59%]
+backend/tests/test_security_rbac_audit.py::test_22_unauthorized_manager_access PASSED [ 62%]
+backend/tests/test_security_rbac_audit.py::test_23_unauthorized_hr_operations PASSED [ 66%]
+backend/tests/test_security_rbac_audit.py::test_24_unauthorized_admin_operations PASSED [ 70%]
+backend/tests/test_security_rbac_audit.py::test_25_jwt_expiration PASSED [ 74%]
+backend/tests/test_security_rbac_audit.py::test_26_invalid_authentication PASSED [ 77%]
+backend/tests/test_security_rbac_audit.py::test_27_closed_cycle_override_authorization PASSED [ 81%]
+backend/tests/test_security_rbac_audit.py::test_28_ground_truth_api_isolation PASSED [ 85%]
+backend/tests/test_security_rbac_audit.py::test_29_dataset_count_reconciliation PASSED [ 88%]
+backend/tests/test_security_rbac_audit.py::test_30_export_consistency PASSED [ 92%]
+backend/tests/test_validation_engine.py::test_17_18_19_validation_engine_integrity_and_anomalies PASSED [ 96%]
 backend/tests/test_validation_engine.py::test_20_fixed_seed_reproducibility PASSED [100%]
 
-======================== 17 passed in 0.75s ========================
+======================== 27 passed, 2 warnings in 0.91s ========================
 ```
 
 ---
 
 ## 21. Security, RBAC & Verified Personas Matrix
 
-All seeded user accounts share the uniform initial password: **`Password123!`**. Evaluators can switch between personas in real time using the **Role Persona Switcher** in the top-right corner of the Navbar:
+> [!NOTE]
+> **Demonstration-Only Credentials Notice:** The credentials below (`Password123!`) are provisioned exclusively for local offline evaluator demonstration and automated testing in development environments. In production mode, passwords must be securely hashed using per-user cryptographic salts (bcrypt/argon2), secrets managed through zero-trust secret vaults (e.g., HashiCorp Vault / AWS Secrets Manager), and hardcoded default secrets are strictly rejected at startup.
+
+All seeded user accounts share the initial demonstration password: **`Password123!`**. Evaluators can switch between personas in real time using the **Role Persona Switcher** in the top-right corner of the Navbar:
 
 | Persona | DB Username | Position / Department | Granted Roles | Key Authority & Permissions |
 |---|---|---|---|---|

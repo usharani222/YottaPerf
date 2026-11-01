@@ -25,7 +25,7 @@
 | **Role-Based Access Control** | 5 canonical database personas (`ADMIN`, `HR`, `MGR`, `IT`, `EMP`) | `backend/app/core/security.py`, `Navbar.tsx` | **PASSED** |
 | **Automated Validation** | 15-point multi-dimensional integrity engine | `backend/validators/runner.py` (147k records) | **PASSED** |
 | **Reproducibility** | Bit-for-bit SHA-256 reproducibility under seed `20261022` | `generated_data/*/manifest.json` | **PASSED** |
-| **Automated Testing** | 17 comprehensive Pytest integration tests | `backend/tests/` (17 passed in 0.75s) | **PASSED** |
+| **Automated Testing** | 27 comprehensive Pytest integration & security tests | `backend/tests/` (27 passed in 0.91s) | **PASSED** |
 | **Frontend UI/UX** | Enterprise Aurora glassmorphic dashboard (Next.js 14) | `frontend/components/views/` (13 views) | **PASSED** |
 
 ---
@@ -40,8 +40,8 @@
 | Employee Roles | `employee_roles` | 163 | 3,536 | M:N bridge mapping users to 5 system roles |
 | Review Cycles | `review_cycles` | 2 | 2 | Unique cycle code (`CYCLE-2026-H1`) |
 | Competencies | `competencies` | 10 | 12 | 12 standardized capability frameworks |
-| Goals & OKRs | `goals` | 510 | 10,040 | Reconciled against active cycles and owners |
-| Key Results | `key_results` | 1,255 | 25,020 | Increasing/decreasing metric direction formulas |
+| Goals & OKRs | `goals` | 510 | 10,040 | Reconciled: 500 baseline + 10 anomalies (Starter); 10,000 baseline + 40 anomalies (Full) |
+| Key Results | `key_results` | 1,255 | 25,020 | Reconciled: 1,250 baseline + 5 anomalies (Starter); 25,000 baseline + 20 anomalies (Full) |
 | Check-Ins | `check_ins` | 1,200 | 20,000 | Periodic check-in entries with blocker logs |
 | Evidence Records | `evidences` | 600 | 10,000 | Cryptographically hashed evidence links |
 | 360° Feedback | `feedbacks` | 906 | 18,036 | Non-destructive conflict evaluations |
@@ -72,7 +72,15 @@ The 5 negative test scenarios were verified against their isolated ground truth 
 | **4. Closed Cycle Modification** | Record updated in closed review cycle without audit override | State Machine Check | Updates prohibited when `cycle.status == 'CLOSED'` | `CRITICAL` | `CLOSED_CYCLE_MODIFICATION` | **True Positive** |
 | **5. Untraceable Feedback** | Extreme ratings submitted with empty commentary & no evidence | Evidence Linkage Check | Extreme scores require written rationale or evidence | `MEDIUM` | `UNTRACEABLE_FEEDBACK` | **True Positive** |
 
-### Evaluated Performance:
+### Evaluated Performance (Five Predefined Negative Benchmark Scenarios):
 $$\text{Precision} = \frac{TP}{TP + FP} = \frac{5}{5 + 0} = 1.000 \quad (100\%)$$
 $$\text{Recall} = \frac{TP}{TP + FN} = \frac{5}{5 + 0} = 1.000 \quad (100\%)$$
 $$\text{F1-Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}} = 1.000 \quad (100\%)$$
+
+> [!IMPORTANT]
+> **Ground-Truth Isolation & Architectural Separation Guarantees (Priority 4):**
+> 1. **Isolated Storage:** Ground truth resides exclusively in offline evaluation artifacts (`generated_data/*/ground_truth.json` and `.csv`). It is **not** a database table and is never loaded into PostgreSQL relational tables.
+> 2. **Detection Blindness:** The anomaly detection engine (`backend/app/services/anomaly_service.py`) operates solely on raw business data, graph traversals, and mathematical formulas; it **never reads or accesses ground-truth labels**.
+> 3. **API Masking:** Application endpoints (`/api/anomalies`) mask `ground_truth_label` as `"RESTRICTED_SECURITY_ROLE"` for all non-administrative users. Only authenticated `ADMIN` users can view raw ground truth for verification.
+> 4. **Post-Detection Evaluation:** Evaluation metrics are computed strictly post-detection by the external validation harness (`backend/validators/runner.py`).
+> 5. **Scope Distinction:** The 100% precision and recall metrics ($5/5$) are specifically scoped to the five deliberate synthetic negative scenarios injected into the dataset, clearly distinguished from general production anomaly detection distributions.

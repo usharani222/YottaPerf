@@ -22,7 +22,7 @@ This guide provides an evaluator or technical interviewer with a 5–10 minute s
    ```bash
    docker compose exec backend pytest backend/tests/ -v
    ```
-   *Expected:* `17 passed in < 1.0s`.
+   *Expected:* `27 passed in < 1.0s`.
 
 4. **Verify 15-Point Automated Dataset Validation:**
    ```bash

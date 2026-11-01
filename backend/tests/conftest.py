@@ -146,3 +146,156 @@ def admin_headers(db_session: Session) -> dict:
         claims={"employee_id": "EMP-TEST-ADMIN", "username": "admin_test", "roles": ["ADMIN"]}
     )
     return {"Authorization": f"Bearer {token}"}
+
+
+@pytest.fixture
+def employee_headers(db_session: Session) -> dict:
+    from datetime import date
+    emp = Employee(
+        employee_id="EMP-TEST-EMP1",
+        first_name="Alice",
+        last_name="Engineer",
+        email="alice@test.internal",
+        department="Engineering",
+        job_title="Software Engineer",
+        job_level="IC3",
+        hire_date=date(2023, 1, 15)
+    )
+    db_session.merge(emp)
+
+    user = UserAccount(
+        user_id="USR-TEST-EMP1",
+        employee_id="EMP-TEST-EMP1",
+        username="alice_test",
+        email="alice@test.internal",
+        hashed_password="hashed_pwd",
+        is_active=True
+    )
+    db_session.merge(user)
+
+    er = EmployeeRole(employee_id="EMP-TEST-EMP1", role_id="ROLE-EMP")
+    db_session.merge(er)
+    db_session.commit()
+
+    token = create_access_token(
+        subject="USR-TEST-EMP1",
+        claims={"employee_id": "EMP-TEST-EMP1", "username": "alice_test", "roles": ["EMPLOYEE"]}
+    )
+    return {"Authorization": f"Bearer {token}"}
+
+
+@pytest.fixture
+def other_employee_headers(db_session: Session) -> dict:
+    from datetime import date
+    emp = Employee(
+        employee_id="EMP-TEST-EMP2",
+        first_name="Bob",
+        last_name="Designer",
+        email="bob@test.internal",
+        department="Product",
+        job_title="Product Designer",
+        job_level="IC3",
+        hire_date=date(2023, 3, 1)
+    )
+    db_session.merge(emp)
+
+    user = UserAccount(
+        user_id="USR-TEST-EMP2",
+        employee_id="EMP-TEST-EMP2",
+        username="bob_test",
+        email="bob@test.internal",
+        hashed_password="hashed_pwd",
+        is_active=True
+    )
+    db_session.merge(user)
+
+    er = EmployeeRole(employee_id="EMP-TEST-EMP2", role_id="ROLE-EMP")
+    db_session.merge(er)
+    db_session.commit()
+
+    token = create_access_token(
+        subject="USR-TEST-EMP2",
+        claims={"employee_id": "EMP-TEST-EMP2", "username": "bob_test", "roles": ["EMPLOYEE"]}
+    )
+    return {"Authorization": f"Bearer {token}"}
+
+
+@pytest.fixture
+def manager_headers(db_session: Session) -> dict:
+    from datetime import date
+    emp = Employee(
+        employee_id="EMP-TEST-MGR1",
+        first_name="Carol",
+        last_name="Manager",
+        email="carol@test.internal",
+        department="Engineering",
+        job_title="Engineering Manager",
+        job_level="MGR",
+        hire_date=date(2022, 1, 1)
+    )
+    db_session.merge(emp)
+
+    mgr = Manager(
+        manager_id="MGR-TEST-001",
+        employee_id="EMP-TEST-MGR1",
+        department="Engineering",
+        team_size=5
+    )
+    db_session.merge(mgr)
+
+    user = UserAccount(
+        user_id="USR-TEST-MGR1",
+        employee_id="EMP-TEST-MGR1",
+        username="carol_test",
+        email="carol@test.internal",
+        hashed_password="hashed_pwd",
+        is_active=True
+    )
+    db_session.merge(user)
+
+    er = EmployeeRole(employee_id="EMP-TEST-MGR1", role_id="ROLE-MGR")
+    db_session.merge(er)
+    db_session.commit()
+
+    token = create_access_token(
+        subject="USR-TEST-MGR1",
+        claims={"employee_id": "EMP-TEST-MGR1", "username": "carol_test", "roles": ["MANAGER"]}
+    )
+    return {"Authorization": f"Bearer {token}"}
+
+
+@pytest.fixture
+def hr_headers(db_session: Session) -> dict:
+    from datetime import date
+    emp = Employee(
+        employee_id="EMP-TEST-HR1",
+        first_name="Dana",
+        last_name="Partner",
+        email="dana@test.internal",
+        department="Human Resources",
+        job_title="HR Business Partner",
+        job_level="MGR",
+        hire_date=date(2021, 6, 1)
+    )
+    db_session.merge(emp)
+
+    user = UserAccount(
+        user_id="USR-TEST-HR1",
+        employee_id="EMP-TEST-HR1",
+        username="dana_test",
+        email="dana@test.internal",
+        hashed_password="hashed_pwd",
+        is_active=True
+    )
+    db_session.merge(user)
+
+    er = EmployeeRole(employee_id="EMP-TEST-HR1", role_id="ROLE-HR")
+    db_session.merge(er)
+    db_session.commit()
+
+    token = create_access_token(
+        subject="USR-TEST-HR1",
+        claims={"employee_id": "EMP-TEST-HR1", "username": "dana_test", "roles": ["HR_PARTNER"]}
+    )
+    return {"Authorization": f"Bearer {token}"}
+

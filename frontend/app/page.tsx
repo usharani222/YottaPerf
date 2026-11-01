@@ -62,22 +62,32 @@ export default function Home() {
   const fetchAllData = useCallback(async () => {
     setLoading(true);
     try {
+      // Auto-authenticate as default admin persona if no token exists
+      if (!api.getToken()) {
+        try {
+          await api.login('eleanor.vance', 'Password123!');
+        } catch (authErr) {
+          console.warn('Initial persona auto-login note:', authErr);
+        }
+      }
+
       // 1. Current User
-      api.getCurrentUser()
-        .then((u: UserProfile) => setCurrentUser(u))
-        .catch(() => {
-          // Fallback demo user
-          setCurrentUser({
-            user_id: 'USR-000001',
-            employee_id: 'EMP-000001',
-            username: 'eleanor.vance',
-            email: 'eleanor.vance@yottaperf.internal',
-            full_name: 'Eleanor Vance',
-            job_title: 'Chief Executive Officer',
-            department: 'Executive',
-            roles: ['ADMIN', 'MANAGER']
-          });
+      try {
+        const u = await api.getCurrentUser();
+        setCurrentUser(u);
+      } catch {
+        // Fallback demo user
+        setCurrentUser({
+          user_id: 'USR-000001',
+          employee_id: 'EMP-000001',
+          username: 'eleanor.vance',
+          email: 'eleanor.vance@yottaperf.internal',
+          full_name: 'Eleanor Vance',
+          job_title: 'Chief Executive Officer',
+          department: 'Executive',
+          roles: ['ADMIN', 'MANAGER']
         });
+      }
 
       // 2. Fetch parallel entities with safe fallback handling
       const [

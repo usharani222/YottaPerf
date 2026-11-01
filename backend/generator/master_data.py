@@ -83,8 +83,8 @@ def generate_organization(
         "Customer Success", "Human Resources", "Operations", "Finance"
     ]
     
-    # Fixed deterministic bcrypt hash for 'YottaPerf2026!' ensuring bit-for-bit reproducibility
-    default_hashed_pwd = "$2b$12$1M31V5N4r5bTFFj4rEsPY..QvRBdKaqQ0WfgPX0GUK0H0S.JrIKC6"
+    # Deterministic bcrypt hash for 'Password123!' ensuring bit-for-bit reproducibility
+    default_hashed_pwd = "$2b$12$xf2pOZVfjQBJP.dGhAVwG.q9Te4MRpYGF9YNQXWDvrrajuR8JXrwu"
 
     employees = []
     user_accounts = []

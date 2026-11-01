@@ -114,17 +114,26 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
     },
   ];
 
-  const pieData = reviewStats
-    ? Object.keys(reviewStats).map((stage) => ({
-        name: stage.replace(/_/g, ' '),
-        value: reviewStats[stage]
-      }))
-    : [
-        { name: 'Completed', value: 160 },
-        { name: 'In Review', value: 80 },
-        { name: 'Self Review', value: 40 },
-        { name: 'Draft', value: 20 },
-      ];
+  let pieData: { name: string; value: number }[] = [
+    { name: 'Completed', value: 160 },
+    { name: 'In Review', value: 80 },
+    { name: 'Self Review', value: 40 },
+    { name: 'Draft', value: 20 },
+  ];
+
+  if (reviewStats) {
+    if (Array.isArray(reviewStats.stage_distribution) && reviewStats.stage_distribution.length > 0) {
+      pieData = reviewStats.stage_distribution.map((item: any) => ({
+        name: (item.stage || 'STAGE').replace(/_/g, ' '),
+        value: Number(item.count || 0)
+      }));
+    } else if (Array.isArray(reviewStats.rating_distribution) && reviewStats.rating_distribution.length > 0) {
+      pieData = reviewStats.rating_distribution.map((item: any) => ({
+        name: (item.category || 'RATING').replace(/_/g, ' '),
+        value: Number(item.count || 0)
+      }));
+    }
+  }
 
   const sampleGoalData = goalStats && goalStats.length > 0
     ? goalStats.map((item) => ({
@@ -351,7 +360,9 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
               <div key={idx} className="flex items-center gap-1.5 text-slate-300">
                 <span className="h-2 w-2 rounded-full" style={{ backgroundColor: NEON_COLORS[idx % NEON_COLORS.length] }} />
                 <span className="truncate">{item.name}:</span>
-                <span className="font-mono font-semibold text-white ml-auto">{item.value}</span>
+                <span className="font-mono font-semibold text-white ml-auto">
+                  {typeof item.value === 'number' ? item.value : String(item.value ?? 0)}
+                </span>
               </div>
             ))}
           </div>

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import {
   Network, User, ChevronDown, ChevronRight, UserCheck, ArrowRight,
   AlertTriangle, ShieldCheck, Building, Layers, Search, RefreshCw,
@@ -44,6 +44,23 @@ export const OrganizationView: React.FC<OrganizationViewProps> = ({
     });
     return initial;
   });
+
+  // Ensure expandedNodes is populated when hierarchy asynchronously resolves
+  useEffect(() => {
+    if (hierarchy.length > 0) {
+      setExpandedNodes(prev => {
+        if (prev.size > 0) return prev;
+        const initial = new Set<string>();
+        hierarchy.forEach(root => {
+          initial.add(root.id);
+          if (root.children) {
+            root.children.forEach(c => initial.add(c.id));
+          }
+        });
+        return initial;
+      });
+    }
+  }, [hierarchy]);
 
   const [selectedNode, setSelectedNode] = useState<HierarchyNode | null>(null);
   const [selectedEmpProfile, setSelectedEmpProfile] = useState<any>(null);

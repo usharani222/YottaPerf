@@ -109,7 +109,7 @@ export default function Home() {
         anoStatsRes
       ] = await Promise.allSettled([
         api.getDashboardKPIs(),
-        api.getEmployees({ limit: 100 }),
+        api.getEmployees({ limit: 200 }),
         api.getReviewCycles(),
         api.getGoals({ limit: 100 }),
         api.getCheckIns({ limit: 100 }),

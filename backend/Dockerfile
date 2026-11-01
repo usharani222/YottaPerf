@@ -16,6 +16,7 @@ RUN pip install --no-cache-dir --upgrade pip && \
 COPY backend/ ./backend/
 COPY database/ ./database/
 COPY docs/ ./docs/
+COPY generated_data/ ./generated_data/
 COPY alembic.ini ./
 
 ENV PYTHONPATH=/app

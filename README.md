@@ -1,6 +1,6 @@
 # YottaPerf: Enterprise Performance Management & Employee Development Platform
 
-[![CI / Automated Tests](https://img.shields.io/badge/tests-17%20passed%20(100%25)-emerald?style=for-the-badge&logo=pytest)](https://github.com/usharani222/YottaPerf)
+[![CI / Automated Tests](https://img.shields.io/badge/tests-27%20passed%20(100%25)-emerald?style=for-the-badge&logo=pytest)](https://github.com/usharani222/YottaPerf)
 [![Validation Engine](https://img.shields.io/badge/validation-147k%20records%20PASSED-emerald?style=for-the-badge)](https://github.com/usharani222/YottaPerf)
 [![Anomaly Precision](https://img.shields.io/badge/anomaly%20precision-100%25-cyan?style=for-the-badge)](https://github.com/usharani222/YottaPerf)
 [![Anomaly Recall](https://img.shields.io/badge/anomaly%20recall-100%25-cyan?style=for-the-badge)](https://github.com/usharani222/YottaPerf)
